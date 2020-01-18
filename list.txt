@@ -16,80 +16,50 @@
 
 港台新闻,#genre#
 
-TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
+TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2#http://www.liveviptv.xyz/tv/tvb.php#vjms://23.237.33.155:8500:3502/live/cid=366
 
-TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php
+TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#vjms://58.215.133.185:8500:3502/live/cid=348#vjms://23.237.33.155:8500:3502/live/cid=348
 
-TVB无线新闻台,vjms://23.237.33.155:8500:3502/live/cid=366
+#rtmp://59.124.75.137/sat/tv551
 
-TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
-TVBS新闻,vjms://58.215.133.185:8500:3502/live/cid=348
+TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://23.237.33.155:8500:3502/live/cid=349
 
-TVBS新闻,vjms://23.237.33.155:8500:3502/live/cid=348
-
-TVBS新闻,rtmp://59.124.75.137/sat/tv551
-
-TVBS,vjms://58.215.133.185:8500:3502/live/cid=349
-
-TVBS,vjms://23.237.33.155:8500:3502/live/cid=349
-
-有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
-
-有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
+有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 
-凤凰卫视,vjms://23.237.33.155:8500:3502/live/cid=400
-
-凤凰卫视,rtmp://58.200.131.2:1935/livetv/fhzw
-
-凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv
+凤凰卫视,vjms://23.237.33.155:8500:3502/live/cid=400#rtmp://58.200.131.2:1935/livetv/fhzw#http://liveali.ifeng.com/live/FHZW.flv
 
 凤凰资讯,vjms://23.237.33.155:8500:3502/live/cid=401
-
-凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx
-
-凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
+#rtmp://58.200.131.2:1935/livetv/fhzx
+#http://liveali.ifeng.com/live/FHZX.flv
 
 年代新闻,vjms://23.237.33.155:8500:3502/live/cid=455
+#vjms://58.215.133.185:8500:3502/live/cid=455
 
-年代新闻,vjms://58.215.133.185:8500:3502/live/cid=455
+非凡新聞 ,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts#vjms://23.237.33.155:8500:3502/live/cid=443
+#vjms://58.215.133.185:8500:3502/live/cid=443
 
-非凡新聞 ,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
-非凡新闻,vjms://23.237.33.155:8500:3502/live/cid=443
-
-非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443
-
-非凡新闻,mitv://198.255.74.87:9906/5dc08f2700008beb01b821fba13d9e32.ts
-
-三立新聞,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
-三立新闻,vjms://23.237.33.155:8500:3502/live/cid=352
-
-三立新闻,vjms://58.215.133.185:8500:3502/live/cid=352
+三立新聞,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts#vjms://23.237.33.155:8500:3502/live/cid=352
+#vjms://58.215.133.185:8500:3502/live/cid=352
 东森新闻,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
+#vjms://58.215.133.185:8500:3502/live/cid=340
+#vjms://23.237.33.155:8500:3502/live/cid=340
 
-东森新闻,vjms://58.215.133.185:8500:3502/live/cid=340
-
-东森新闻,vjms://23.237.33.155:8500:3502/live/cid=340
-
-中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts
-中天新闻,vjms://58.215.133.185:8500:3502/live/cid=407
-
-中天新闻,vjms://23.237.33.155:8500:3502/live/cid=407
+中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#vjms://58.215.133.185:8500:3502/live/cid=407
+#vjms://23.237.33.155:8500:3502/live/cid=407
 
 壹新闻,vjms://23.237.33.155:8500:3502/live/cid=445
 
 民视新闻,vjms://23.237.33.155:8500:3502/live/cid=454
 
 东森财经,vjms://58.215.133.185:8500:3502/live/cid=456
-
-东森财经,vjms://23.237.33.155:8500:3502/live/cid=456
+#vjms://23.237.33.155:8500:3502/live/cid=456
 
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
-
-澳亚卫视,vjms://23.237.33.155:8500:3502/live/cid=337
+#vjms://23.237.33.155:8500:3502/live/cid=337
 
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
@@ -97,17 +67,14 @@ KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 
-RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 
 CNBC,vjms://58.215.133.185:8500:3502/live/cid=98
-
-CNBC,vjms://23.237.33.155:8500:3502/live/cid=98
+#vjms://23.237.33.155:8500:3502/live/cid=98
 
 CNN,vjms://23.237.33.155:8500:3502/live/cid=428
 
-BBC,vjms://58.215.133.185:8500:3502/live/cid=418
-
-BBC,vjms://23.237.33.155:8500:3502/live/cid=418
+BBC,vjms://58.215.133.185:8500:3502/live/cid=418#vjms://23.237.33.155:8500:3502/live/cid=418
 
 FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97
 
