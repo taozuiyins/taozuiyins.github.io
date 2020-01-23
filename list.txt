@@ -2,10 +2,8 @@
 
 港台新闻,#genre#
 
-凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
-#http://125.210.152.18:9090/live/FHZX_1200.m3u8
-凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
-#http://125.210.152.18:9090/live/FHZW_1200.m3u8
+凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
+凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 
 中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
