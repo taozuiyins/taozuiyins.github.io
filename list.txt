@@ -5,7 +5,6 @@
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-
 中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 东森新闻,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://51.79.41.138:18912/5c7248a0000383701d5337cb153b4b51.ts
 年代新闻,p2p://51.79.41.138:18912/5b1409fd000a72692a6580254840e3c2.ts#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
@@ -14,7 +13,7 @@
 壹新闻,p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#http://198.16.106.58:8278/inews_twn/playlist.m3u8?tid=m02000000000015197763&ct=17993&tsum=1c7d632497774063f2f2f6554e23d162#http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2#p2p://51.79.41.138:18912/5b140953000cd4a817d20ad057051e23.ts.ts#p2p://51.79.41.138:18912/5b1409fc000a355e17d49e4d52ad164f.ts
-有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
+有线新闻台,有线新闻台,http://120.221.98.32/flv.live.xylive.tv/live/youxianxinwen.flv#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 
 
 云视台湾,#genre#
