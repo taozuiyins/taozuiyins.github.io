@@ -18,10 +18,7 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 
 香港频道
 有线电影台,http://prdsecurelive.ainemo.com/live/yxdye7763.flv
-翡翠台,http://ali-play.lezhibo.com/live/tthjkc246.flv#http://pull-hls.ls.eyunmy.com/vod/9a8425ef5869e8873326e1e7f3d2cbb4.flv#rtmp://rtmp.live.xylive.tv/live/00fc
 明珠台,http://livepgc0002.sobeycache.com/live/578mzm.m3u8
-J2,http://ali-play.lezhibo.com/live/dddsj2.flv#http://pull-hls.ls.eyunmy.com/vod/90ebba5feac6339064c9e22107573cdb.flv#rtmp://rtmp.live.xylive.tv/live/0038
-MYTV18,http://livepgc0002.sobeycache.com/live/myTv18time20112po.flv
 有线18台,rtmp://rtmp.live.xylive.tv/live/18tai
 TVB星河台,http://flv.live.xylive.tv/live/0040.flv#http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 天映经典,http://flv.live.xylive.tv/live/0050.flv
