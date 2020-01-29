@@ -152,7 +152,7 @@ ELTA體育3,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 疫情醫院現場,#genre#
 火神山1,http://mobilelive-play.ysp.cctv.cn/2001894001_fhd.m3u8
 火神山2,http://mobilelive-play.ysp.cctv.cn/2001891501_fhd.m3u8
-雷神山1，http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
+雷神山1,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
 雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
 
 
