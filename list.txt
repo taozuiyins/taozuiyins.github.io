@@ -6,7 +6,7 @@
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 TVB无线新闻台,http://bsypull.seastart.tv/sstlive/wp1vv/playlist.m3u8#http://wsvpull.utoooo.com/live/ews777691.flv#rtmp://rtmp.live.xylive.tv/live/00wxxw#http://47.97.194.135/channel/wxxw.php?id=1#http://live.ergt4rt.wang/gangaotai.php?id=9#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-有线新闻台,http://live.qztvxwgj.com/live/hkc668jc.flv#http://wsvpull.utoooo.com/live/ews33475.flv#http://120.221.98.32/flv.live.xylive.tv/live/youxianxinwen.flv
+有线新闻台,http://live.qztvxwgj.com/live/hkc668jc.flv#http://wsvpull.utoooo.com/live/ews33475.flv
 无线财经资讯台,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8#http://47.97.194.135/channel/wxxw.php?id=2#http://live.ergt4rt.wang/gangaotai.php?id=10
 中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
@@ -16,7 +16,7 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 三立新聞,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts#p2p://51.79.41.138:18912/5c7249be000b87931d5796ff51e62b02.ts
 壹新闻,p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 
-香港频道
+香港频道,#genre#
 有线电影台,http://prdsecurelive.ainemo.com/live/yxdye7763.flv
 明珠台,http://livepgc0002.sobeycache.com/live/578mzm.m3u8
 有线18台,rtmp://rtmp.live.xylive.tv/live/18tai
