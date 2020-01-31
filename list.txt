@@ -19,6 +19,7 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 
 香港频道,#genre#
 有线电影台,http://prdsecurelive.ainemo.com/live/yxdye7763.flv
+翡翠台,rtmp://rtmp.live.xylive.tv/live/00fc
 明珠台,http://livepgc0002.sobeycache.com/live/578mzm.m3u8
 有线18台,rtmp://rtmp.live.xylive.tv/live/18tai
 TVB星河台,http://flv.live.xylive.tv/live/0040.flv#http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
