@@ -6,7 +6,7 @@
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 无线新闻台,http://bsypull.seastart.tv/sstlive/wp1vv/playlist.m3u8#http://wsvpull.utoooo.com/live/ews777691.flv#rtmp://rtmp.live.xylive.tv/live/00wxxw#http://47.97.194.135/channel/wxxw.php?id=1#http://live.ergt4rt.wang/gangaotai.php?id=9#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-有线新闻台,http://live.qztvxwgj.com/live/hkc668jc.flv#http://wsvpull.utoooo.com/live/ews33475.flv
+有线新闻台,http://live.qztvxwgj.com/live/hkc668jc.flv#http://wsvpull.utoooo.com/live/ews33475.flv#http://pull.leshantangjt.com/live/1bf85c679231bc9b151121af0/playlist.m3u8
 无线财经资讯台,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8#http://47.97.194.135/channel/wxxw.php?id=2#http://live.ergt4rt.wang/gangaotai.php?id=10
 中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
@@ -16,18 +16,32 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 三立新聞,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts#p2p://51.79.41.138:18912/5c7249be000b87931d5796ff51e62b02.ts
 壹新闻,p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 寰宇新闻,https://hdl0901.plures.net/onlive/80d65e43710f2c6b471d00720f558913.flv
+华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
+
 
 香港频道,#genre#
-有线电影台,http://prdsecurelive.ainemo.com/live/yxdye7763.flv
-翡翠台,rtmp://rtmp.live.xylive.tv/live/00fc
-明珠台,http://livepgc0002.sobeycache.com/live/578mzm.m3u8
-有线18台,rtmp://rtmp.live.xylive.tv/live/18tai
-TVB星河台,http://flv.live.xylive.tv/live/0040.flv#http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+TVB 翡翠,http://pull.leshantangjt.com/live/8b71bc9edt80bg389d8ccba9d/playlist.m3u8#rtmp://rtmp.live.xylive.tv/live/00fc
+TVB 明珠,http://livepgc0002.sobeycache.com/live/578mzm.m3u8
+TVB J2,http://pull.gzbqd.com/live/ba2014314aa1a2772afa87ca/playlist.m3u8
+TVB 星河,http://flv.live.xylive.tv/live/0040.flv#http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+TVB 新闻,http://bsypull.seastart.tv/sstlive/wp1vv/playlist.m3u8
+TVB 财经资讯,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
+TVB 功夫台,http://flv.live.xylive.tv/live/0030.flv
+有线 新闻,http://pull.leshantangjt.com/live/1bf85c679231bc9b151121af0/playlist.m3u8
+有线 财经资讯,http://wowgua.com/live/channel_108.m3u8
+有线 直播新闻,http://wowgua.com/live/channel_110.m3u8
+有线 综合娱乐,http://wowgua.com/live/channel_301.m3u8
+有线 18台,rtmp://rtmp.live.xylive.tv/live/18tai
+有线 电影台,http://prdsecurelive.ainemo.com/live/yxdye7763.flv
+香港卫视 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+Viu TV,http://pull.leshantangjt.com/live/8c14aa3dd495a61a7abcc/playlist.m3u8
+C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 天映经典,http://flv.live.xylive.tv/live/0050.flv
-TVB功夫台,http://flv.live.xylive.tv/live/0030.flv
-英皇娱乐,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/03.m3u8?sessionID=lH3r9+l9ZIWHyQGx3FJCBAzz
-地理频道,http://47.97.194.135/channel/gz.php?id=h1r4pTYd7JxhBibJIYICCfktcTtEq3V2
-卫视国际电影,http://47.97.194.135/channel/gz.php?id=HDu1fduTVH4izkw9EI0t3KCegWwUYTyw
+
 
 云视台湾,#genre#
 華 視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
