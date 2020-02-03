@@ -36,6 +36,7 @@ TVB 功夫台,http://flv.live.xylive.tv/live/0030.flv
 香港卫视 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 Viu TV,http://pull.leshantangjt.com/live/8c14aa3dd495a61a7abcc/playlist.m3u8
+now直播台,http://hls.ws.anyrtc.io/live/9d4a409b1a1f4eeb5a5ae23a94d7ecd5.flv
 RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
