@@ -19,9 +19,9 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 
 
 香港频道,#genre#
-TVB 翡翠台,http://pull.leshantangjt.com/live/8b71bc9edt80bg389d8ccba9d/playlist.m3u8#rtmp://rtmp.live.xylive.tv/live/00fc
+TVB 翡翠台,rtmp://rtmp.live.xylive.tv/live/00fc#http://pull.leshantangjt.com/live/g389d8ccba9db71bc80b9edt8/playlist.m3u8
 TVB 明珠台,http://livepgc0002.sobeycache.com/live/578mzm.m3u8
-TVB J2,http://pull.gzbqd.com/live/ba2014314aa1a2772afa87ca/playlist.m3u8
+TVB J2,http://pull.gzbqd.com/live/a27ba2072afa87ca14aa1314/playlist.m3u8
 TVB 星河台,http://flv.live.xylive.tv/live/0040.flv#http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 TVB 新闻台,http://bsypull.seastart.tv/sstlive/wp1vv/playlist.m3u8
 TVB 财经资讯台,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
