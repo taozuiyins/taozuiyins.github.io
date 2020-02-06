@@ -5,9 +5,9 @@
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8#http://47.240.60.73/hctv.php?id=3
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8#http://47.240.60.73/hctv.php?id=2
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-无线新闻台,rtmp://rtmp.live.xylive.tv/live/00wxxw#http://pull.leshantangjt.com/live/2b96f2b1102a11a713c3a57c2/playlist.m3u8#http://47.240.60.73/hctv.php?id=9#http://61.147.122.14/flv.live.xylive.tv/live/00wxxw.flv#http://hls.ws.anyrtc.io/live/820e9878cd85ca0dd560bafd7bff4cbd.flv 
+无线新闻台,rtmp://rtmp.live.xylive.tv/live/00wxxw#http://pull.leshantangjt.com/live/2b96f2b1102a11a713c3a57c2/playlist.m3u8#http://47.240.60.73/hctv.php?id=9#http://61.147.122.14/flv.live.xylive.tv/live/00wxxw.flv 
 有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#http://47.240.60.73/hctv.php?id=31#http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
-无线财经资讯台,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8#http://47.240.60.73/hctv.php?id=10#http://hls.ws.anyrtc.io/live/ed709f05cac24e0cae8cf57feeb7dccd.flv 
+无线财经资讯台,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8#http://47.240.60.73/hctv.php?id=10
 中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#http://61.147.122.14/flv.live.xylive.tv/live/00ztxw.flv
 TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 东森新闻,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://51.79.41.138:18912/5c7248a0000383701d5337cb153b4b51.ts
@@ -38,7 +38,6 @@ TVB 功夫台,http://flv.live.xylive.tv/live/0030.flv
 香港卫视 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://47.240.60.73/wintv.php?id=6
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 Viu TV,http://47.240.60.73/hctv.php?id=8
-now直播台,http://hls.ws.anyrtc.io/live/9d4a409b1a1f4eeb5a5ae23a94d7ecd5.flv
 RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
@@ -170,7 +169,6 @@ ELTA體育3,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 
 疫情直播,#genre#
 直播1,http://mobilelive-play.ysp.cctv.cn/ysp/DC1140E116E0F596E50CC74BA872AC9EE0226E764086AD0FC6FE925BC4A2C94E5D6C8E7CDC32AC926C91E01852E7D5B34A4EB5FED0925DC2EFD4D07B2BD3205F30E385DB54143D633B7B9097D896A4F8BF9E2D80F7CC8B14C11111C56C8028CD/2001924601_hd.m3u8
-
 雷神山1,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
 雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
 
@@ -254,40 +252,3 @@ AXN,http://bakup.cdn.52glb.com/live/gj_axnhd.m3u8
 CinemaWorld,http://bakup.cdn.52glb.com/live/gj_cinemaworld.m3u8
 CATCHPLAY電影台,http://bakup.cdn.52glb.com/live/gj_catchplay_hd.m3u8
 
-测试2,#genre#
-凤凰资讯,http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1481&online=1580892610&vqe=1
-凤凰卫视,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1580892662&vqe=1
-翡翠新闻,http://hls.ws.anyrtc.io/live/820e9878cd85ca0dd560bafd7bff4cbd.flv 
-翡翠财经,http://hls.ws.anyrtc.io/live/ed709f05cac24e0cae8cf57feeb7dccd.flv 
-翡翠明珠,http://hls.ws.anyrtc.io/live/65f9dbd5e37335c3ee4f5c0ffe6dc260.flv 
-翡翠综合,http://hls.ws.anyrtc.io/live/b1ba78566b8f0f43aab66feeb74364fa.flv 
-东森新闻,http://hls.ws.anyrtc.io/live/f3b0a3e1f5e84f129be41b04dde1d996.flv 
-中天新闻,http://hls.ws.anyrtc.io/live/70b6fc391558118220c89a1a94978f2b.flv 
-民视新闻,http://pull.gzbqd.com/live/f3d10109bd873b67e0d97a43bfba25b3.flv 
-寰宇新闻,http://pull.gzbqd.com/live/5b3aeb72f1370e47c024677d8db406b0.flv 
-TVBS新闻,http://hls.ws.anyrtc.io/live/af40538fc8e81e90e432662f8774ab45.flv 
-中视综合,http://hls.ws.anyrtc.io/live/6fe16691fa5f0b8499896bcec5ea16dc.flv 
-华视综合,http://hls.ws.anyrtc.io/live/9d9990af17645649a912ffc184ab2aa8.flv 
-台视综合,http://hls.ws.anyrtc.io/live/9f70e4c3bfb7afa4031b4938803a3136.flv 
-民视综合,http://hls.ws.anyrtc.io/live/ffa07b8234d62bcb96532bc7c4a6e094.flv 
-东森戏曲,http://hls.ws.anyrtc.io/live/d4209091aa404eae562456c6886ea50b.flv 
-东森幼幼,http://hls.ws.anyrtc.io/live/aec5f8f8fbc80c9bb508bd545d838605.flv 
-八大综合,http://hls.ws.anyrtc.io/live/67e87d37db3f706e02e5ea145f9c9456.flv 
-八大 1台,http://hls.ws.anyrtc.io/live/6c2ed0de57fd5f9279080cd29e26d36c.flv 
-八大戏曲,http://hls.ws.anyrtc.io/live/2ca9e62b93b7a00c09d89852ac0ef349.flv 
-中视经典,http://hls.ws.anyrtc.io/live/3691d684e7a6dc5747651be0b3203b41.flv 
-HBO电影,http://hls.ws.anyrtc.io/live/c3f9594ce29aedabdc00e3cf15e605f5.flv 
-美亚电影,http://hls.ws.anyrtc.io/live/10ad9dd6cfa18ae01a521491b7a67b5b.flv 
-星卫电影,http://hls.ws.anyrtc.io/live/a650002891ef7478575780ba5f6a626c.flv 
-天映经典,http://hls.ws.anyrtc.io/live/b19ab1e5457f0875f0e0c0e5a1c84de1.flv 
-好莱坞电影,http://hls.ws.anyrtc.io/live/02940045594de64e9e9e11662e9965ca.flv 
-MTV台,http://hls.ws.anyrtc.io/live/98f0b4f04026e1902d46dd817b8bc284.flv 
-欢喜台,http://hls.ws.anyrtc.io/live/cf60a04ad63be060d88652c4816252ef.flv 
-华丽台,http://hls.ws.anyrtc.io/live/d4febed828eefc5dc366dfafbce6bccc.flv 
-全佳台,http://hls.ws.anyrtc.io/live/c8a1dd1bdcd18bfeac853eeb041c7c0b.flv 
-双星台,http://hls.ws.anyrtc.io/live/59e020b6d6b8ebd6d5451b2c9f9d3c0c.flv 
-国家地理,http://hls.ws.anyrtc.io/live/629df467f971bee99a4bd48fef02436e.flv 
-人文地理,http://hls.ws.anyrtc.io/live/3d70ff02b87b577178b775d25bf235f4.flv 
-野生地理,http://hls.ws.anyrtc.io/live/3a7fa23c710d1d99cd22bd5da1ff5f1a.flv 
-纬来体育,http://hls.ws.anyrtc.io/live/fc5a309bbbcea50ab05949c725e3f04a.flv 
-龙翔时代,http://hls.ws.anyrtc.io/live/1d1f103274b987e76ddafb4f6567e551.flv 
