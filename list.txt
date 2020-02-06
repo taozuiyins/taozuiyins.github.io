@@ -22,7 +22,7 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 
 香港频道,#genre#
 TVB 翡翠台,rtmp://rtmp.live.xylive.tv/live/00fc#http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8#http://47.240.60.73/hctv.php?id=1#http://61.147.122.15/flv.live.xylive.tv/live/00fc.flv
-TVB 明珠台,http://livepgc0002.sobeycache.com/live/578mzm.m3u8#http://47.240.60.73/hctv.php?id=13#http://hls.ws.anyrtc.io/live/65f9dbd5e37335c3ee4f5c0ffe6dc260.flv 
+TVB 明珠台,http://livepgc0002.sobeycache.com/live/578mzm.m3u8#http://47.240.60.73/hctv.php?id=13
 TVB J2,http://47.240.60.73/hctv.php?id=12
 TVB 星河台,http://flv.live.xylive.tv/live/0040.flv#http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8#https://116.77.72.195/streams/d/tvbxh/playlist.m3u8#http://61.147.122.15/flv.live.xylive.tv/live/0040.flv
 TVB 新闻台,http://bsypull.seastart.tv/sstlive/wp1vv/playlist.m3u8
