@@ -8,9 +8,9 @@
 无线新闻台,http://pull.leshantangjt.com/live/2b96f2b1102a11a713c3a57c2/playlist.m3u8 
 有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 无线财经资讯台,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
-中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts#http://cdn.5itv.tv/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts
 TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
-东森新闻,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://51.79.41.138:18912/5c7248a0000383701d5337cb153b4b51.ts#http://cdn.5itv.tv/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+东森新闻,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://51.79.41.138:18912/5c7248a0000383701d5337cb153b4b51.ts
 年代新闻,p2p://51.79.41.138:18912/5b1409fd000a72692a6580254840e3c2.ts
 非凡新聞,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts#p2p://51.79.41.138:18912/5c7249cb000744bc1d57c8bd53377361.ts
 三立新聞,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts#p2p://51.79.41.138:18912/5c7249be000b87931d5796ff51e62b02.ts
@@ -228,3 +228,25 @@ CI犯罪偵緝,http://341697390.r.fdccdn.net/live/gj_ci_zuianzhencha.m3u8
 AXN,http://341697390.r.fdccdn.net/live/gj_axnhd.m3u8
 CinemaWorld,http://341697390.r.fdccdn.net/live/gj_cinemaworld.m3u8
 CATCHPLAY電影台,http://341697390.r.fdccdn.net/live/gj_catchplay_hd.m3u8
+
+华文测试_951,#genre#
+凤凰卫视,http://cdn.5itv.tv/ZZ_fenghuangzhongwen/ZZ_fenghuangzhongwen.m3u8
+凤凰资讯,http://cdn.5itv.tv/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
+凤凰香港,http://cdn.5itv.tv/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+中天新闻,http://cdn.5itv.tv/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+东森新闻,http://cdn.5itv.tv/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+年代新闻,http://cdn.5itv.tv/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+东森洋片,http://cdn.5itv.tv/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+东森电影,http://cdn.5itv.tv/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+中天亚洲,http://cdn.5itv.tv/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+中天综合,http://cdn.5itv.tv/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+华视,http://cdn.5itv.tv/ZZ_huashi/ZZ_huashi.m3u8
+中视,http://cdn.5itv.tv/ZZ_zhongshi/ZZ_zhongshi.m3u8
+好莱坞电影,http://cdn.5itv.tv/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+动物星球,http://cdn.5itv.tv/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+国家地理,http://cdn.5itv.tv/ZZ_hbo/ZZ_hbo.m3u8
+FOX 电影,http://cdn.5itv.tv/ZZ_foxaction/ZZ_foxaction.m3u8
+CHC动作电影,http://cdn.5itv.tv/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
+CHC高清电影,http://cdn.5itv.tv/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
+华纳电影,http://cdn.5itv.tv/ZZ_huanadianying/ZZ_huanadianying.m3u8
+好莱坞电影(HD),http://cdn.5itv.tv/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
