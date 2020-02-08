@@ -239,6 +239,7 @@ CATCHPLAY電影台,http://341697390.r.fdccdn.net/live/gj_catchplay_hd.m3u8
 东森洋片,http://cdn.5itv.tv/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 东森电影,http://cdn.5itv.tv/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 中天亚洲,http://cdn.5itv.tv/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+中天娱乐,http://cdn.5itv.tv/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 中天综合,http://cdn.5itv.tv/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 华视,http://cdn.5itv.tv/ZZ_huashi/ZZ_huashi.m3u8
 中视,http://cdn.5itv.tv/ZZ_zhongshi/ZZ_zhongshi.m3u8
@@ -250,3 +251,4 @@ CHC动作电影,http://cdn.5itv.tv/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 CHC高清电影,http://cdn.5itv.tv/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 华纳电影,http://cdn.5itv.tv/ZZ_huanadianying/ZZ_huanadianying.m3u8
 好莱坞电影(HD),http://cdn.5itv.tv/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+
