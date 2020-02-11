@@ -229,26 +229,9 @@ AXN,http://341697390.r.fdccdn.net/live/gj_axnhd.m3u8
 CinemaWorld,http://341697390.r.fdccdn.net/live/gj_cinemaworld.m3u8
 CATCHPLAY電影台,http://341697390.r.fdccdn.net/live/gj_catchplay_hd.m3u8
 
-华文测试_951,#genre#
-凤凰卫视,http://cdn.5itv.tv/ZZ_fenghuangzhongwen/ZZ_fenghuangzhongwen.m3u8
-凤凰资讯,http://cdn.5itv.tv/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
-凤凰香港,http://cdn.5itv.tv/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-中天新闻,http://cdn.5itv.tv/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-东森新闻,http://cdn.5itv.tv/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-年代新闻,http://cdn.5itv.tv/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-东森洋片,http://cdn.5itv.tv/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-东森电影,http://cdn.5itv.tv/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-中天亚洲,http://cdn.5itv.tv/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-中天娱乐,http://cdn.5itv.tv/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-中天综合,http://cdn.5itv.tv/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-华视,http://cdn.5itv.tv/ZZ_huashi/ZZ_huashi.m3u8
-中视,http://cdn.5itv.tv/ZZ_zhongshi/ZZ_zhongshi.m3u8
-好莱坞电影,http://cdn.5itv.tv/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-动物星球,http://cdn.5itv.tv/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-国家地理,http://cdn.5itv.tv/ZZ_hbo/ZZ_hbo.m3u8
-FOX 电影,http://cdn.5itv.tv/ZZ_foxaction/ZZ_foxaction.m3u8
-CHC动作电影,http://cdn.5itv.tv/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
-CHC高清电影,http://cdn.5itv.tv/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
-华纳电影,http://cdn.5itv.tv/ZZ_huanadianying/ZZ_huanadianying.m3u8
-好莱坞电影(HD),http://cdn.5itv.tv/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+测试2_951,#genre#
+无线新闻,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
+翡翠台,https://4graurmtwghzdrcbqgeao.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
+j2,https://4graurmtwghzdrcbqge3y.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
+
 
