@@ -19,8 +19,6 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 
 
 疫情24小时,#genre#
-疫情直播,http://mobilelive-play.ysp.cctv.cn/2001992701_hd.m3u8
-武汉天河机场,http://mobilelive-play.ysp.cctv.cn/2001954401_hd.m3u8
 雷神山1,http://mobilelive-play.ysp.cctv.cn/2001924601_hd.m3u8
 雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
 雷神山3,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
