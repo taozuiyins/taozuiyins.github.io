@@ -231,6 +231,9 @@ CATCHPLAY電影台,http://341697390.r.fdccdn.net/live/gj_catchplay_hd.m3u8
 
 测试2_951,#genre#
 无线新闻,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
+无线新闻,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
 翡翠台,https://4graurmtwghzdrcbqgeao.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
+翡翠台,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
 j2,https://4graurmtwghzdrcbqge3y.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
+j2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
 无线新闻,http://live.ergt4rt.wang/gangaotai.php?id=9
