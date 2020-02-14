@@ -191,11 +191,14 @@ CN卡通,p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
 东森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
 
 测试3_951,#genre#
-无线新闻,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
-无线新闻,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
-翡翠台,https://4graurmtwghzdrcbqgeao.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
-翡翠台,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
-j2,https://4graurmtwghzdrcbqge3y.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
-j2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
+无线新闻1,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
+无线新闻2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
+无线新闻3,http://hdl0901.plures.net/onlive/a477732eaf0c9f58de7d7b0ef8c2926f.flv 
+how,http://hdl0901.plures.net/onlive/4be1503239cf2cdcbcbefcaa2382ec73.flv
+公视,https://hdl0903.plures.net/onlive/f96e58ef77ed1e71be5f073d63a5d394.flv
+翡翠台1,https://4graurmtwghzdrcbqgeao.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
+翡翠台2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
+j2-1,https://4graurmtwghzdrcbqge3y.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
+j2-2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
 无线新闻,http://live.ergt4rt.wang/gangaotai.php?id=9
 
