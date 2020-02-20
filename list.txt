@@ -19,11 +19,6 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
 
 
-疫情24小时,#genre#
-雷神山1,http://mobilelive-play.ysp.cctv.cn/2001924601_hd.m3u8
-雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
-雷神山3,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
-
 云视台湾,#genre#
 華 視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 民視 ,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
@@ -159,21 +154,6 @@ j2-2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
 无线新闻,http://live.ergt4rt.wang/gangaotai.php?id=9
 
 纳加测试,#genre#
-民視HD,vjms://23.237.33.155:8500:3502/live/cid=450
-華視HD,vjms://23.237.33.155:8500:3502/live/cid=451
-中視HD,vjms://23.237.33.155:8500:3502/live/cid=452
-臺視HD,vjms://23.237.33.155:8500:3502/live/cid=453
-公視3HD,vjms://23.237.33.155:8500:3502/live/cid=436
-大愛,vjms://23.237.33.155:8500:3502/live/cid=442
-壹新闻,vjms://23.237.33.155:8500:3502/live/cid=445
-民視新聞,vjms://23.237.33.155:8500:3502/live/cid=454
-年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439
-年代新聞,vjms://23.237.33.155:8500:3502/live/cid=455
-东森新聞,vjms://23.237.33.155:8500:3502/live/cid=340
-中天新聞,vjms://23.237.33.155:8500:3502/live/cid=407
-非凡新聞,vjms://23.237.33.155:8500:3502/live/cid=443
-华视新闻,vjms://23.237.33.155:8500:3502/live/cid=451
-緯來日本,vjms://23.237.33.155:8500:3502/live/cid=102
 民視HD,vjms://58.215.133.184:8500:3502/live/cid=450
 華視HD,vjms://58.215.133.184:8500:3502/live/cid=451
 中視HD,vjms://58.215.133.184:8500:3502/live/cid=452
