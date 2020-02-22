@@ -147,6 +147,10 @@ ELTA體育3,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 TVB 翡翠台,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
 TVB 翡翠台(代理),http://103.56.112.40/ddjgt.php?id=1
 TVB 翡翠台(代理2),http://live.ergt4rt.wang/gangaotai.php?id=1
+无线新闻(代理2),http://live.ergt4rt.wang/gangaotai.php?id=9
+无线新闻(代理),http://103.56.112.40/ddjgt.php?id=9
+有线新闻(代理),http://103.56.112.40/ddjgt.php?id=31
+有线新闻(代理2),http://live.ergt4rt.wang/gangaotai.php?id=31
 TVB J2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
 TVB J2(代理),http://103.56.112.40/ddjgt.php?id=12
 TVB J2(代理2),http://live.ergt4rt.wang/gangaotai.php?id=12
