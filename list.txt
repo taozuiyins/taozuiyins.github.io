@@ -141,20 +141,12 @@ ELTA體育3,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 衛視電影,p2p://51.79.41.138:18912/5c7249cf00095b611d57d8da587f1c48.ts
 
 香港测试_951,#genre#
-TVB 翡翠台,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
 TVB 翡翠台(代理),http://103.56.112.40/ddjgt.php?id=1
-TVB 翡翠台(代理2),http://live.ergt4rt.wang/gangaotai.php?id=1
-无线新闻(代理2),http://live.ergt4rt.wang/gangaotai.php?id=9
 无线新闻(代理),http://103.56.112.40/ddjgt.php?id=9
 有线新闻(代理),http://103.56.112.40/ddjgt.php?id=31
-有线新闻(代理2),http://live.ergt4rt.wang/gangaotai.php?id=31
-TVB J2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
 TVB J2(代理),http://103.56.112.40/ddjgt.php?id=12
-TVB J2(代理2),http://live.ergt4rt.wang/gangaotai.php?id=12
 TVB 明珠台(代理),http://103.56.112.40/ddjgt.php?id=13
-TVB 明珠台(代理2),http://live.ergt4rt.wang/gangaotai.php?id=13
 Viu TV(代理),http://103.56.112.40/ddjgt.php?id=8
-Viu TV(代理2),http://live.ergt4rt.wang/gangaotai.php?id=8
 TVB 星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 
 纳加测试,#genre#
@@ -175,63 +167,18 @@ TVB 星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 緯來日本,vjms://58.215.133.184:8500:3502/live/cid=102
 
 代理源测试_951,#genre#
-TVB 翡翠,http://103.56.112.40/ddjgt.php?id=1  
-凤凰中文,http://103.56.112.40/ddjgt.php?id=2
-凤凰資訊,http://103.56.112.40/ddjgt.php?id=3 
-星空衛視,http://103.56.112.40/ddjgt.php?id=18
-TVB 明珠,http://103.56.112.40/ddjgt.php?id=13
-TVB J2,http://103.56.112.40/ddjgt.php?id=12
-耀才財經,http://103.56.112.40/ddjgt.php?id=19
-无线财经,http://103.56.112.40/ddjgt.php?id=10
-无线新闻,http://103.56.112.40/ddjgt.php?id=9
-有线新闻,http://103.56.112.40/ddjgt.php?id=31
-Viu TV,http://103.56.112.40/ddjgt.php?id=8
-澳門衛視,http://103.56.112.40/ddjgt.php?id=23
-澳亞衛視,http://103.56.112.40/ddjgt.php?id=24
-寰宇新聞,http://103.56.112.40/djtw.php?id=54
-寰宇新聞2,http://103.56.112.40/djtw.php?id=55
-三立台灣台,http://103.56.112.40/djtw.php?id=42
-三立新聞台,http://47.240.60.73/djtw.php?id=48
-三立都会台,http://103.56.112.40/djtw.php?id=40
-TVBS,http://103.56.112.40/djtw.php?id=127
-TVBS欢乐,http://103.56.112.40/djtw.php?id=129
-TVBS新闻,http://103.56.112.40/djtw.php?id=45
-中天新聞台,http://103.56.112.40/djtw.php?id=44
-東森新聞台,http://103.56.112.40/djtw.php?id=46
-非凡新聞,http://103.56.112.40/djtw.php?id=53
-HBO HD,http://103.56.112.40/djtw.php?id=27
-FOX HD,http://103.56.112.40/djtw.php?id=159
-好萊塢電影台,http://103.56.112.40/djtw.php?id=66
-迪士尼卡通,http://103.56.112.40/djtw.php?id=122
-
-
-代理源测试2_951,#genre#
-TVB 翡翠,http://live.ergt4rt.wang/gangaotai.php?id=1  
-凤凰中文,http://live.ergt4rt.wang/gangaotai.php?id=2
-凤凰資訊,http://live.ergt4rt.wang/gangaotai.php?id=3 
-星空衛視,http://live.ergt4rt.wang/gangaotai.php?id=18
-TVB 明珠,http://live.ergt4rt.wang/gangaotai.php?id=13
-TVB J2,http://live.ergt4rt.wang/gangaotai.php?id=12
-耀才財經,http://live.ergt4rt.wang/gangaotai.php?id=19
-无线财经,http://live.ergt4rt.wang/gangaotai.php?id=10
-无线新闻,http://live.ergt4rt.wang/gangaotai.php?id=9
-有线新闻,http://live.ergt4rt.wang/gangaotai.php?id=31
-Viu TV,http://live.ergt4rt.wang/gangaotai.php?id=8
-澳門衛視,http://live.ergt4rt.wang/gangaotai.php?id=23
-澳亞衛視,http://live.ergt4rt.wang/gangaotai.php?id=24
-寰宇新聞,http://live.ergt4rt.wang/gangaotai.php?id=54
-寰宇新聞2,http://live.ergt4rt.wang/gangaotai.php?id=55
-三立台灣台,http://live.ergt4rt.wang/gangaotai.php?id=42
-三立新聞台,http://47.240.60.73/aatw.php?id=48
-三立都会台,http://live.ergt4rt.wang/gangaotai.php?id=40
-TVBS,http://live.ergt4rt.wang/gangaotai.php?id=127
-TVBS欢乐,http://live.ergt4rt.wang/gangaotai.php?id=129
-TVBS新闻,http://live.ergt4rt.wang/gangaotai.php?id=45
-中天新聞台,http://live.ergt4rt.wang/gangaotai.php?id=44
-東森新聞台,http://live.ergt4rt.wang/gangaotai.php?id=46
-非凡新聞,http://live.ergt4rt.wang/gangaotai.php?id=53
-HBO HD,http://live.ergt4rt.wang/gangaotai.php?id=27
-FOX HD,http://live.ergt4rt.wang/gangaotai.php?id=159
-好萊塢電影台,http://live.ergt4rt.wang/gangaotai.php?id=66
-迪士尼卡通,http://live.ergt4rt.wang/gangaotai.php?id=122
+无线新闻(代理),http://s5870658.m.awhost.cn/xgtv.php?id=9
+有线新闻(代理),http://s5870658.m.awhost.cn/xgtv.php?id=31
+无线财经(代理),http://s5870658.m.awhost.cn/xgtv.php?id=10
+中天新闻(代理),http://s5870658.m.awhost.cn/xgtv.php?id=44
+TVBS新闻(代理),http://s5870658.m.awhost.cn/xgtv.php?id=45
+东森新闻(代理),http://s5870658.m.awhost.cn/xgtv.php?id=46
+寰宇新闻(代理),http://s5870658.m.awhost.cn/xgtv.php?id=54
+寰宇新聞2(代理),http://s5870658.m.awhost.cn/xgtv.php?id=55
+中視(代理),http://s5870658.m.awhost.cn/xgtv.php?id=73
+三立台灣台(代理),http://s5870658.m.awhost.cn/xgtv.php?id=42
+TVB 翡翠台(代理),http://s5870658.m.awhost.cn/xgtv.php?id=1
+TVB J2(代理),http://s5870658.m.awhost.cn/xgtv.php?id=12
+TTVB 明珠台(代理),http://s5870658.m.awhost.cn/xgtv.php?id=13
+Viu TV(代理),http://s5870658.m.awhost.cn/xgtv.php?id=8
 
