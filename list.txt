@@ -7,6 +7,7 @@
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 无线新闻台,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
 有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 无线财经资讯台,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
 中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts
 TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
@@ -150,6 +151,7 @@ Viu TV(代理),http://103.56.112.40/kds/agt.php?id=8
 TVB 星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 now劇集台,http://47.91.200.241/iptv/mudu.php?id=289089
 nowTV爆谷台,http://47.91.200.241/iptv/mudu.php?id=279140
+now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 
 纳加测试,#genre#
 民視HD,vjms://58.215.133.184:8500:3502/live/cid=450
