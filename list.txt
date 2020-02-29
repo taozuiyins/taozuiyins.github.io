@@ -141,6 +141,10 @@ ELTA體育3,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 衛視電影,p2p://51.79.41.138:18912/5c7249cf00095b611d57d8da587f1c48.ts
 
 香港测试_951,#genre#
+TVB翡翠台,https://app.kds.tw/live/tvb1.php?id=jade&u=123456
+TVB明珠台,https://app.kds.tw/live/tvb1.php?id=pearl&u=123456
+TVB J2台,https://app.kds.tw/live/tvb1.php?id=j2&u=123456
+TVB无线新闻,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 TVB 翡翠台(代理),http://103.56.112.40/kds/igt.php?id=1
 无线新闻(代理),http://103.56.112.40/kds/igt.php?id=9
 有线新闻(代理),http://103.56.112.40/kds/igt.php?id=31
