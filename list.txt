@@ -140,7 +140,7 @@ JET綜合,p2p://51.79.41.138:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
 ELTA體育3,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 衛視電影,p2p://51.79.41.138:18912/5c7249cf00095b611d57d8da587f1c48.ts
 
-香港测试_951,#genre#
+香港测试,#genre#
 TVB翡翠台,https://app.kds.tw/live/tvb1.php?id=jade&u=123456#http://iptv.papiquan.com/ddll/hktvabc.php?id=1
 TVB明珠台,https://116.77.72.195/streams/d/mzt/playlist.m3u8#http://144.48.240.144:2019/SunTv.php?name=XGMingZhu#https://app.kds.tw/live/tvb1.php?id=pearl&u=123456#http://iptv.papiquan.com/ddll/hktvabc.php?id=13
 TVB J2台,https://app.kds.tw/live/tvb1.php?id=j2&u=123456#http://iptv.papiquan.com/ddll/hktvabc.php?id=12
@@ -152,17 +152,23 @@ TVB 星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 now劇集台,http://47.91.200.241/iptv/mudu.php?id=289089
 nowTV爆谷台,http://47.91.200.241/iptv/mudu.php?id=279140
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
-TVB 翡翠台(代理),http://103.56.112.40/kds/igt.php?id=1
-无线新闻(代理),http://103.56.112.40/kds/igt.php?id=9
-有线新闻(代理),http://103.56.112.40/kds/igt.php?id=31
-TVB J2(代理),http://103.56.112.40/kds/igt.php?id=12
-TVB 明珠台(代理),http://103.56.112.40/kds/igt.php?id=13
-Viu TV(代理),http://103.56.112.40/kds/igt.php?id=8
 TVB翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 TVB明珠HD,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 TVB明珠HD-2,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 
-
+测试,#genre#
+凤凰中文,http://156.251.146.22/agt.php?id=2
+凤凰資訊,http://156.251.146.22/agt.php?id=3
+星空衛視,http://156.251.146.22/agt.php?id=18
+TVB 明珠,http://156.251.146.22/agt.php?id=13
+TVB 翡翠,http://156.251.146.22/agt.php?id=1
+TVB J2,http://156.251.146.22/agt.php?id=12
+Viu TV,http://156.251.146.22/agt.php?id=8
+耀才財經,http://156.251.146.22/agt.php?id=19
+无线新闻,http://156.251.146.22/agt.php?id=9
+有线新闻,http://156.251.146.22/agt.php?id=31
+澳門衛視,http://156.251.146.22/agt.php?id=23
+澳亞衛視,http://156.251.146.22/agt.php?id=24
 
 测试硬解,#genre#
 中视,http://103.56.112.40/kds/tw.php?id=73
