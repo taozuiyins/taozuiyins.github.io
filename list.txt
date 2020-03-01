@@ -5,7 +5,7 @@
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://iptv.papiquan.com/ddll/fhzx.php
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://iptv.papiquan.com/ddll/fhzw.php
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
-无线新闻台,http://sousou2.top/dl/tvb.php?id=inews#http://iptv.papiquan.com/ddll/hktvabc.php?id=9#https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
+无线新闻台,http://iptv.papiquan.com/ddll/hktvabc.php?id=9#https://app.kds.tw/live/tvb1.php?id=inews&u=97058412#http://sousou2.top/dl/tvb.php?id=inews
 有线新闻台,http://iptv.papiquan.com/ddll/hktvabc.php?id=31#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8#
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 无线财经资讯台,http://iptv.papiquan.com/ddll/wxtv.php?id=j5_ch85#http://iptv.papiquan.com/ddll/hktvabc.php?id=10
