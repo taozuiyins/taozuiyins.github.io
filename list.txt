@@ -168,4 +168,16 @@ Viu TV,http://156.251.146.22/agt.php?id=8
 澳亞衛視,http://156.251.146.22/agt.php?id=24
 
 测试硬解,#genre#
-中视,http://103.56.112.40/kds/tw.php?id=73
+華視HD,http://103.56.112.40/kds/tw.php?id=77
+公視HD,http://103.56.112.40/kds/tw.php?id=76
+民視HD,http://103.56.112.40/kds/tw.php?id=75
+台視HD,http://103.56.112.40/kds/tw.php?id=74
+中視HD,http://103.56.112.40/kds/tw.php?id=73
+中天新聞台,http://103.56.112.40/kds/tw.php?id=44
+寰宇新聞,http://103.56.112.40/kds/tw.php?id=54
+三立台灣台,http://103.56.112.40/kds/tw.php?id=42
+TVBS,http://103.56.112.40/kds/tw.php?id=127
+TVBS新闻,http://103.56.112.40/kds/tw.php?id=45
+中天新聞台,http://103.56.112.40/kds/tw.php?id=44
+東森新聞台,http://103.56.112.40/kds/tw.php?id=46
+
