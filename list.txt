@@ -2,13 +2,13 @@
 
 港台新闻,#genre#
 
-凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://iptv.papiquan.com/ddll/fhzx.php
-凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://iptv.papiquan.com/ddll/fhzw.php
+凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
+凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
-无线新闻台,http://iptv.papiquan.com/ddll/hktvabc.php?id=9#https://app.kds.tw/live/tvb1.php?id=inews&u=97058412#http://sousou2.top/dl/tvb.php?id=inews
-有线新闻台,http://iptv.papiquan.com/ddll/hktvabc.php?id=31#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8#
+无线新闻台,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412#http://sousou2.top/dl/tvb.php?id=inews
+有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8#
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
-无线财经资讯台,http://iptv.papiquan.com/ddll/wxtv.php?id=j5_ch85#http://iptv.papiquan.com/ddll/hktvabc.php?id=10
+无线财经资讯台,http://iptv.papiquan.com/ddll/wxtv.php?id=j5_ch85
 中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts
 TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 东森新闻,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://51.79.41.138:18912/5c7248a0000383701d5337cb153b4b51.ts
@@ -141,20 +141,17 @@ ELTA體育3,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 衛視電影,p2p://51.79.41.138:18912/5c7249cf00095b611d57d8da587f1c48.ts
 
 香港测试,#genre#
-TVB翡翠台,https://app.kds.tw/live/tvb1.php?id=jade&u=123456#http://iptv.papiquan.com/ddll/hktvabc.php?id=1
-TVB明珠台,https://116.77.72.195/streams/d/mzt/playlist.m3u8#http://144.48.240.144:2019/SunTv.php?name=XGMingZhu#https://app.kds.tw/live/tvb1.php?id=pearl&u=123456#http://iptv.papiquan.com/ddll/hktvabc.php?id=13
-TVB J2台,https://app.kds.tw/live/tvb1.php?id=j2&u=123456#http://iptv.papiquan.com/ddll/hktvabc.php?id=12
+TVB 翡翠台,https://app.kds.tw/live/tvb1.php?id=jade&u=123456#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+TVB 明珠台,http://144.48.240.144:2019/SunTv.php?name=XGMingZhu#https://app.kds.tw/live/tvb1.php?id=pearl&u=123456#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+TVB J2台,https://app.kds.tw/live/tvb1.php?id=j2&u=123456
 TVB无线新闻,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
-Viu TV,http://iptv.papiquan.com/ddll/hktvabc.php?id=8
 华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
 TVB 星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 有线630,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
 now劇集台,http://47.91.200.241/iptv/mudu.php?id=289089
 nowTV爆谷台,http://47.91.200.241/iptv/mudu.php?id=279140
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
-TVB翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-TVB明珠HD,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-TVB明珠HD-2,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+
 
 测试,#genre#
 凤凰中文,http://156.251.146.22/agt.php?id=2
