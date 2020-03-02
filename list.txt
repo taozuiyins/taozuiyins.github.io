@@ -183,3 +183,17 @@ TVBS新闻,http://103.56.112.40/kds/tw.php?id=45
 中天新聞台,http://103.56.112.40/kds/tw.php?id=44
 東森新聞台,http://103.56.112.40/kds/tw.php?id=46
 
+tvbus测试,#genre#
+有线新闻台,tvbus://3p55AqaGY1CFg7PSBFx33UzheQYMhhdfmevHZsRRYdbWYYAusgxo2KMqR4Yg5
+无线新闻台,tvbus://3SaZ4kn3NEAQcmQB5ucEkCQkoUhagRf7SPsibWyyDg6mP6gtqPKZHWkwyUpEB
+无线财经台,tvbus://2sUSeS5KZk3VtBgpKWJ2Tbt5YM7mGrZBkcDWg56ZpEs5ckgPwR5dbDGn9q3Gf
+明珠台,tvbus://3ZgU5WbRomF5dnmj63hHTY5RQLdEkZpxD74K2m8dhZxStZzo1aMfmfzR1qM1b
+TVB星河台,tvbus://34L1ELAbvgE2fQcYCLf965sJYWLazT31XGqhG3gUddsP2eU61Mi4BNg3J93HD
+TVB功夫台,tvbus://2bB5ahFmoPpqCbSSi38rmFLhVhPvuovZnRtW2fLmPWDZou2e7tXXNY2MmY6xv
+有线电影1台,tvbus://3D9A4VLCdcB9yQUY3667mgr3mmLtckQeXgyPdJmaaDN8pgEpGeBtEAgHgwrqu
+有线603台,tvbus://3ev786qjjZQrxXh2APjqRPNx1zeTsHCQob31JpphMifqRfEZQPBPFY7gRoY8q
+有线18台,tvbus://2uPqF7cQ9eVqLmuna2MnXNqHS7y7FjcCEmkfNVvYcYgz76pBgfya44jQV4emv
+HK31,tvbus://2TcWELX119yYRbQK4ob3jD5rSjBHhPwP1X4PohcTzN3RJnniQtwcesmVXexba
+HK32,tvbus://3qGg3tDbuUDhYraYv5tfGrVwFhsfiTu3Ktjm6he7CUG7TM37d1oBthEzxJs8i
+HK33,tvbus://39C47k6jMQ2gsr1AF4Rm4KhM3d1gp9o1KSifq6R99oJLywQdWpHF628UZiLhs
+
