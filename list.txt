@@ -10,7 +10,7 @@
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8#tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
 now直播台,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
 无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
-中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts
+中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts#tvbus://3YxGkBY7FXC8C7f8s8KS4kXx7HzrJH9TuZUMYNvQ7mdRJRmefn
 TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 东森新闻,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://51.79.41.138:18912/5c7248a0000383701d5337cb153b4b51.ts#tvbus://4RhcF47U5m1uZGwmN5a3ZYRhh9XAZKgxFYrrHjL5sDte3wf3bD
 年代新聞,tvbus://3NVN5WuzZZYTo9SY6e5FwiunwasivY5tYQQhxXtvni3WfebGEQ
@@ -158,6 +158,8 @@ now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/ind
 
 
 测试,#genre#
+无线新闻,http://103.56.112.40/kds/aigt.php?id=9
+有线新闻,http://103.56.112.40/kds/aigt.php?id=31
 凤凰中文,http://103.56.112.40/kds/aigt.php?id=2
 凤凰資訊,http://103.56.112.40/kds/aigt.php?id=3
 星空衛視,http://103.56.112.40/kds/aigt.php?id=18
@@ -167,8 +169,6 @@ TVB J2,http://103.56.112.40/kds/aigt.php?id=12
 Viu TV,http://103.56.112.40/kds/aigt.php?id=8
 耀才財經,http://103.56.112.40/kds/aigt.php?id=19
 无线财经,http://103.56.112.40/kds/aigt.php?id=10
-无线新闻,http://103.56.112.40/kds/aigt.php?id=9
-有线新闻,http://103.56.112.40/kds/aigt.php?id=31
 澳門衛視,http://103.56.112.40/kds/aigt.php?id=23
 澳亞衛視,http://103.56.112.40/kds/aigt.php?id=24
 
