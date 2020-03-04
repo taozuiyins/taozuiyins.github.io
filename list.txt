@@ -6,14 +6,14 @@
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
 无线新闻台,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412#http://sousou2.top/dl/tvb.php?id=inews
-有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8#
+有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8#
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 无线财经资讯台,http://iptv.papiquan.com/ddll/wxtv.php?id=j5_ch85
 中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts
 TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 东森新闻,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://51.79.41.138:18912/5c7248a0000383701d5337cb153b4b51.ts
-年代新闻,p2p://190.2.146.92:18912/5b1409fd000a72692a6580254840e3c2.ts#p2p://51.79.41.138:18912/5b1409fd000a72692a6580254840e3c2.ts
-非凡新聞,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts#p2p://51.79.41.138:18912/5c7249cb000744bc1d57c8bd53377361.ts
+年代新聞_HD,tvbus://3NVN5WuzZZYTo9SY6e5FwiunwasivY5tYQQhxXtvni3WfebGEQ
+非凡新聞,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts#p2p://51.79.41.138:18912/5c7249cb000744bc1d57c8bd53377361.ts#tvbus://3QaHJSx5sUy3jBB4nrWt9hSMPN5sqY844rGU3HxKhY9frgKGQW
 三立新聞,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts#p2p://51.79.41.138:18912/5c7249be000b87931d5796ff51e62b02.ts
 壹新闻,p2p://190.2.146.92:18912/5c724897000cb1861d5316f515e3763e.ts#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
@@ -181,19 +181,6 @@ TVBS新闻,http://103.56.112.40/kds/tw.php?id=45
 中天新聞台,http://103.56.112.40/kds/tw.php?id=44
 東森新聞台,http://103.56.112.40/kds/tw.php?id=46
 
-tvbus测试,#genre#
-有线新闻台,tvbus://3p55AqaGY1CFg7PSBFx33UzheQYMhhdfmevHZsRRYdbWYYAusgxo2KMqR4Yg5
-无线新闻台,tvbus://3SaZ4kn3NEAQcmQB5ucEkCQkoUhagRf7SPsibWyyDg6mP6gtqPKZHWkwyUpEB
-无线财经台,tvbus://2sUSeS5KZk3VtBgpKWJ2Tbt5YM7mGrZBkcDWg56ZpEs5ckgPwR5dbDGn9q3Gf
-明珠台,tvbus://3ZgU5WbRomF5dnmj63hHTY5RQLdEkZpxD74K2m8dhZxStZzo1aMfmfzR1qM1b
-TVB星河台,tvbus://34L1ELAbvgE2fQcYCLf965sJYWLazT31XGqhG3gUddsP2eU61Mi4BNg3J93HD
-TVB功夫台,tvbus://2bB5ahFmoPpqCbSSi38rmFLhVhPvuovZnRtW2fLmPWDZou2e7tXXNY2MmY6xv
-有线电影1台,tvbus://3D9A4VLCdcB9yQUY3667mgr3mmLtckQeXgyPdJmaaDN8pgEpGeBtEAgHgwrqu
-有线603台,tvbus://3ev786qjjZQrxXh2APjqRPNx1zeTsHCQob31JpphMifqRfEZQPBPFY7gRoY8q
-有线18台,tvbus://2uPqF7cQ9eVqLmuna2MnXNqHS7y7FjcCEmkfNVvYcYgz76pBgfya44jQV4emv
-HK31,tvbus://2TcWELX119yYRbQK4ob3jD5rSjBHhPwP1X4PohcTzN3RJnniQtwcesmVXexba
-HK32,tvbus://3qGg3tDbuUDhYraYv5tfGrVwFhsfiTu3Ktjm6he7CUG7TM37d1oBthEzxJs8i
-HK33,tvbus://39C47k6jMQ2gsr1AF4Rm4KhM3d1gp9o1KSifq6R99oJLywQdWpHF628UZiLhs
 
 tvbus测试2,#genre#
 翡翠臺,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
