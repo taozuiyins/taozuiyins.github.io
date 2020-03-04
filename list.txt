@@ -6,7 +6,7 @@
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
 无线新闻台,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412#http://sousou2.top/dl/tvb.php?id=inews
-有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8#
+有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8#tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
 now直播台,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
 无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
