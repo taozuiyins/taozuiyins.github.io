@@ -1,4 +1,4 @@
-央视卫视超清,#genre#
+央视频道,#genre#
 超高清4K,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV1超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV2超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
@@ -17,6 +17,7 @@ CCTV13超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u
 CCTV14超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV15超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 CCTV17超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+卫视频道,#genre#
 广东卫视超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
 浙江卫视超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 重庆卫视超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
