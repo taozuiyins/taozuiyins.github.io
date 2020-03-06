@@ -201,19 +201,23 @@ now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/ind
 
 
 测试,#genre#
-无线新闻,http://103.56.112.40/kds/aigt.php?id=9
-有线新闻,http://103.56.112.40/kds/aigt.php?id=31
-凤凰中文,http://103.56.112.40/kds/aigt.php?id=2
-凤凰資訊,http://103.56.112.40/kds/aigt.php?id=3
-星空衛視,http://103.56.112.40/kds/aigt.php?id=18
-TVB 明珠,http://103.56.112.40/kds/aigt.php?id=13
-TVB 翡翠,http://103.56.112.40/kds/aigt.php?id=1
-TVB J2,http://103.56.112.40/kds/aigt.php?id=12
-Viu TV,http://103.56.112.40/kds/aigt.php?id=8
-耀才財經,http://103.56.112.40/kds/aigt.php?id=19
-无线财经,http://103.56.112.40/kds/aigt.php?id=10
-澳門衛視,http://103.56.112.40/kds/aigt.php?id=23
-澳亞衛視,http://103.56.112.40/kds/aigt.php?id=24
+凤凰中文,http://103.56.112.40/kds/xgt.php?id=2
+凤凰資訊,http://103.56.112.40/kds/xgt.php?id=3
+星空衛視,http://103.56.112.40/kds/xgt.php?id=18
+TVB 明珠,http://103.56.112.40/kds/xgt.php?id=13
+TVB 翡翠,http://103.56.112.40/kds/xgt.php?id=1
+TVB J2,http://103.56.112.40/kds/xgt.php?id=12
+Viu TV,http://103.56.112.40/kds/xgt.php?id=8
+耀才財經,http://103.56.112.40/kds/xgt.php?id=19
+无线财经,http://103.56.112.40/kds/xgt.php?id=10
+无线新闻,http://103.56.112.40/kds/xgt.php?id=9
+有线新闻,http://103.56.112.40/kds/xgt.php?id=31
+澳門衛視,http://103.56.112.40/kds/xgt.php?id=23
+澳亞衛視,http://103.56.112.40/kds/xgt.php?id=24
+香港卫视,http://103.56.112.40/kds/xgt.php?id=6
+RHK32,http://103.56.112.40/kds/xgt.php?id=21
+有线电影台,http://103.56.112.40/kds/xgt.php?id=30
+星河台,http://103.56.112.40/kds/xgt.php?id=17
 
 
 测试硬解,#genre#
