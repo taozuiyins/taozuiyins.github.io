@@ -1,5 +1,3 @@
-酒店倒塌现场,#genre#
-https://pullhlsws0e6958.ws.126.net/live/18636c98ef7d9d03c4d2ab724d648d96/playlist.m3u8
 央视频道,#genre#
 超高清4K,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV1超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
@@ -52,7 +50,6 @@ CCTV17超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u
 
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
-凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
 无线新闻台,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412#http://sousou2.top/dl/tvb.php?id=inews#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8#tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
@@ -201,41 +198,6 @@ TVB 无线新闻,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 TVB 星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 有线630,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
-
-
-测试,#genre#
-凤凰中文,http://103.56.112.40/kds/xgt.php?id=2
-凤凰資訊,http://103.56.112.40/kds/xgt.php?id=3
-星空衛視,http://103.56.112.40/kds/xgt.php?id=18
-TVB 明珠,http://103.56.112.40/kds/xgt.php?id=13
-TVB 翡翠,http://103.56.112.40/kds/xgt.php?id=1
-TVB J2,http://103.56.112.40/kds/xgt.php?id=12
-Viu TV,http://103.56.112.40/kds/xgt.php?id=8
-耀才財經,http://103.56.112.40/kds/xgt.php?id=19
-无线财经,http://103.56.112.40/kds/xgt.php?id=10
-无线新闻,http://103.56.112.40/kds/xgt.php?id=9
-有线新闻,http://103.56.112.40/kds/xgt.php?id=31
-澳門衛視,http://103.56.112.40/kds/xgt.php?id=23
-澳亞衛視,http://103.56.112.40/kds/xgt.php?id=24
-香港卫视,http://103.56.112.40/kds/xgt.php?id=6
-RHK32,http://103.56.112.40/kds/xgt.php?id=21
-有线电影台,http://103.56.112.40/kds/xgt.php?id=30
-星河台,http://103.56.112.40/kds/xgt.php?id=17
-
-
-测试硬解,#genre#
-華視HD,http://103.56.112.40/kds/tw.php?id=77
-公視HD,http://103.56.112.40/kds/tw.php?id=76
-民視HD,http://103.56.112.40/kds/tw.php?id=75
-台視HD,http://103.56.112.40/kds/tw.php?id=74
-中視HD,http://103.56.112.40/kds/tw.php?id=73
-中天新聞台,http://103.56.112.40/kds/tw.php?id=44
-寰宇新聞,http://103.56.112.40/kds/tw.php?id=54
-三立台灣台,http://103.56.112.40/kds/tw.php?id=42
-TVBS,http://103.56.112.40/kds/tw.php?id=127
-TVBS新闻,http://103.56.112.40/kds/tw.php?id=45
-中天新聞台,http://103.56.112.40/kds/tw.php?id=44
-東森新聞台,http://103.56.112.40/kds/tw.php?id=46
 
 
 tvbus测试,#genre#
