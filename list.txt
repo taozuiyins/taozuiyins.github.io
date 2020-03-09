@@ -102,6 +102,16 @@ RHK32,http://103.145.38.152/kds/xgt.php?id=21
 澳門互動新聞台,http://103.145.38.152/kds/xgt.php?id=26
 澳門有線一台,http://103.145.38.152/kds/xgt.php?id=25
 
+代理测试2,#genre#
+翡翠台,http://hzyhjg.cc/cs/gat/fct.php
+TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
+TVB J2-2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
+无线新闻,http://hzyhjg.cc/cs/gat/wxxw.php
+无线新闻-2,http://hzyhjg.cc/cs/gat/wxxw-2.php
+明珠台,http://hzyhjg.cc/cs/gat/mzt.php
+有线新闻,http://hzyhjg.cc/cs/gat/yxxw.php
+
+
 tvbus测试,#genre#
 翡翠臺,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
 明珠臺,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
