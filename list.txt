@@ -97,16 +97,13 @@ RHK32,http://103.145.38.152/kds/xgt.php?id=21
 有线电影台,http://103.145.38.152/kds/xgt.php?id=30
 星河台,http://103.145.38.152/kds/xgt.php?id=17
 莲花卫视,http://103.145.38.152/kds/xgt.php?id=33
-澳門衛視,,http://103.145.38.152/kds/xgt.php?id=23
-澳亞衛視,,,http://103.145.38.152/kds/xgt.php?id=24
+澳門衛視,http://103.145.38.152/kds/xgt.php?id=23
+澳亞衛視,http://103.145.38.152/kds/xgt.php?id=24
 澳門互動新聞台,http://103.145.38.152/kds/xgt.php?id=26
 澳門有線一台,http://103.145.38.152/kds/xgt.php?id=25
 
 代理测试2,#genre#
-無綫新聞-1,p8p://174.128.239.250:16871/5d1a69dc000d64b611be7bef5757286e.ts
-明珠臺-1,p8p://174.128.239.250:16871/5d1a69de0005348e11be81a666c79a56.ts
-J2-1,p8p://174.128.239.250:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-TVB星河-1,p8p://174.128.239.250:16871/5d1a69940005adb211bd60b57a4af31b.ts
+
 翡翠台,http://hzyhjg.cc/cs/gat/fct.php
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
 TVB J2-2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
