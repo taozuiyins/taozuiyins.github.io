@@ -50,7 +50,7 @@ CCTV17超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u
 
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
-无线新闻台,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8#tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
 now直播台,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
@@ -69,10 +69,10 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 华视新闻,tvbus://4bXErNowbPaLmZCw6GGr1NrZ6jRGAUYRqafuqxedqFqMjyqmck#http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
 
 香港测试,#genre#
-TVB 翡翠台,https://app.kds.tw/live/tvb1.php?id=jade&u=123456#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-TVB 明珠台,http://144.48.240.144:2019/SunTv.php?name=XGMingZhu#https://app.kds.tw/live/tvb1.php?id=pearl&u=123456#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-TVB J2台,https://app.kds.tw/live/tvb1.php?id=j2&u=123456
-TVB 无线新闻,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
+TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+TVB J2台,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+TVB 无线新闻,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
 TVB 星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 有线630,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
