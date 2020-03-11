@@ -50,23 +50,23 @@ CCTV17超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u
 
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
-无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#p2p://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
-有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#p2p://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8#tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
 now直播台,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
-无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts#p2p://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
-中天新聞,tvbus://3YxGkBY7FXC8C7f8s8KS4kXx7HzrJH9TuZUMYNvQ7mdRJRmefn#p2p://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts
-TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts#p2p://198.255.74.57:12396/5e6221ab00014e4d83878aea2dc55415.ts
-东森新闻,tvbus://4RhcF47U5m1uZGwmN5a3ZYRhh9XAZKgxFYrrHjL5sDte3wf3bD#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#p2p://198.255.74.57:12396/5e5fd267000a602c7a81eb9c5ee0fe87.ts
-年代新聞,tvbus://3NVN5WuzZZYTo9SY6e5FwiunwasivY5tYQQhxXtvni3WfebGEQ#p2p://198.255.74.57:12396/5e50207b000985c23d32e98485830251.ts
-非凡新聞,tvbus://3QaHJSx5sUy3jBB4nrWt9hSMPN5sqY844rGU3HxKhY9frgKGQW#p2p://198.255.74.57:12396/5e50207b0008acd73d32e94c5132e8ab.ts
+无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
+中天新聞,tvbus://3YxGkBY7FXC8C7f8s8KS4kXx7HzrJH9TuZUMYNvQ7mdRJRmefn
+TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+东森新闻,tvbus://4RhcF47U5m1uZGwmN5a3ZYRhh9XAZKgxFYrrHjL5sDte3wf3bD#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+年代新聞,tvbus://3NVN5WuzZZYTo9SY6e5FwiunwasivY5tYQQhxXtvni3WfebGEQ
+非凡新聞,tvbus://3QaHJSx5sUy3jBB4nrWt9hSMPN5sqY844rGU3HxKhY9frgKGQW
 三立新聞,p2p://198.255.74.57:12396/5e5fcf2a0006c8ee7a7544698392ab6c.ts
-壹新闻,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw#p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#p2p://198.255.74.57:12396/5e502078000cae2e3d32de9baa0d6a19.ts
-寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts#p2p://198.255.74.57:12396/5e50206f000b25773d32bb0e5e6f6b11.ts
+壹新闻,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw#p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
+寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 寰宇新闻2,tvbus://3sUW81UMFLkegQrzbuihwofCUTvhAu4fN7iKnC9u8FJijcmjkh
-民視新闻,tvbus://3HPyMYoibRtsxo79vMDXLKmaSMrXFYCNtSfAvuFYKanTzpuVEA#p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#p2p://198.255.74.57:12396/5e50207d000bba053d32f1e4f449fe96.ts
+民視新闻,tvbus://3HPyMYoibRtsxo79vMDXLKmaSMrXFYCNtSfAvuFYKanTzpuVEA#p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 台視新闻,p2p://198.255.74.57:12396/5e50207d0009379b3d32f140b76c2b2d.ts
-中視新闻,tvbus://4CyY2AjjqMuQE2X9J2dXTGrxc9aP77J2FimJe2mpyYJgPtz3st#p2p://198.255.74.57:12396/5e50207d000e62303d32f293431c706e.ts
+中視新闻,tvbus://4CyY2AjjqMuQE2X9J2dXTGrxc9aP77J2FimJe2mpyYJgPtz3st
 华视新闻,tvbus://4bXErNowbPaLmZCw6GGr1NrZ6jRGAUYRqafuqxedqFqMjyqmck#http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
 
 香港测试,#genre#
