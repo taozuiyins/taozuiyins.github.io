@@ -80,38 +80,12 @@ TVB 星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 
 代理测试,#genre#
-凤凰中文,http://103.145.38.152/kds/xgt.php?id=2
-凤凰資訊,http://103.145.38.152/kds/xgt.php?id=3
-星空衛視,http://103.145.38.152/kds/xgt.php?id=18
-TVB 明珠,http://103.145.38.152/kds/xgt.php?id=13
-TVB 翡翠,http://103.145.38.152/kds/xgt.php?id=1
-TVB J2,http://103.145.38.152/kds/xgt.php?id=12
-Viu TV,http://103.145.38.152/kds/xgt.php?id=8
-耀才財經,http://103.145.38.152/kds/xgt.php?id=19
-无线财经,http://103.145.38.152/kds/xgt.php?id=10
-无线新闻,http://103.145.38.152/kds/xgt.php?id=9
-有线新闻,http://103.145.38.152/kds/xgt.php?id=31
-澳門衛視,http://103.145.38.152/kds/xgt.php?id=23
-澳亞衛視,http://103.145.38.152/kds/xgt.php?id=24
-香港卫视,http://103.145.38.152/kds/xgt.php?id=6
-RHK32,http://103.145.38.152/kds/xgt.php?id=21
-有线电影台,http://103.145.38.152/kds/xgt.php?id=30
-星河台,http://103.145.38.152/kds/xgt.php?id=17
-莲花卫视,http://103.145.38.152/kds/xgt.php?id=33
-澳門衛視,http://103.145.38.152/kds/xgt.php?id=23
-澳亞衛視,http://103.145.38.152/kds/xgt.php?id=24
-澳門互動新聞台,http://103.145.38.152/kds/xgt.php?id=26
-澳門有線一台,http://103.145.38.152/kds/xgt.php?id=25
-
-代理测试2,#genre#
-
-翡翠台,http://hzyhjg.cc/cs/gat/fct.php
-TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
-TVB J2-2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
-无线新闻,http://hzyhjg.cc/cs/gat/wxxw.php
+TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
 无线新闻-2,http://hzyhjg.cc/cs/gat/wxxw-2.php
-明珠台,http://hzyhjg.cc/cs/gat/mzt.php
 有线新闻,http://hzyhjg.cc/cs/gat/yxxw.php
+有线603,http://hzyhjg.cc/cs/gat/yx603.php
+东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
+非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
 
 
 tvbus测试,#genre#
