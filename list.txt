@@ -74,6 +74,9 @@ TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_
 TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 TVB J2台,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB 无线新闻,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+TVB 星河粤语,p2p://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts
+TVB 经典台,p2p://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
+TVB 娱乐台,p2p://198.255.74.57:12396/5e50207e0001a84e3d32f3391ccaac57.ts
 华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
 TVB 星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 有线630,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
@@ -86,21 +89,7 @@ TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
 有线603,http://hzyhjg.cc/cs/gat/yx603.php
 东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
 非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
-J2,p2p://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5
-無線新聞臺,p2p://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614
-翡翠臺,p2p://198.255.74.57:12396/5e502083000f32013d330a38c5462049
-奇妙電視,p2p://198.255.74.57:12396/5e502083000ee1003d330a23da058f45
-明珠臺,p2p://198.255.74.57:12396/5e5020810005fbee3d33000cecd53652
-RHK32,p2p://198.255.74.57:12396/5e5020810005111f3d32ffd0f7c066b7
-ViuTu,p2p://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6
-ViuTu_6,p2p://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac
-無線財經資訊臺,p2p://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d
-星空衛視,p2p://198.255.74.57:12396/5e5020810001975d3d32feec7da3a9d1
-澳門蓮花,p2p://198.255.74.57:12396/5e5020810000c2553d32feb6d0f53600
-鳳凰中文臺 HD,p2p://198.255.74.57:12396/5e502080000f31733d32fe803275a3b2
-鳳凰資訊臺 HD,p2p://198.255.74.57:12396/5e502080000e56cc3d32fe486f65861e
-鳳凰香港臺 HD,p2p://198.255.74.57:12396/5e502080000d81ed3d32fe1146391509
-香港有线新闻,p2p://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816
+
 
 tvbus测试,#genre#
 翡翠臺,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
