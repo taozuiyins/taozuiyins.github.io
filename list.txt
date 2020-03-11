@@ -51,7 +51,7 @@ CCTV17超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
 无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#tvbus://3TscRdHGd9YFnxvtjDMi7gES2K4oCqakdtZL1mG2B8DX8sVpVd#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8#tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
 now直播台,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
 无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
