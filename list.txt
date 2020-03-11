@@ -1,4 +1,5 @@
 央视频道,#genre#
+
 超高清4K,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV1超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV2超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
@@ -17,7 +18,9 @@ CCTV13超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u
 CCTV14超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV15超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 CCTV17超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+
 卫视频道,#genre#
+
 东南卫视超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
 浙江卫视超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 湖南卫视超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
@@ -52,7 +55,7 @@ CCTV17超清,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
 无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#p2p://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
 有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#p2p://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8#tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
+now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 now直播台,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
 无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts#p2p://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
 中天新聞,p2p://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
