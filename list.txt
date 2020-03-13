@@ -54,11 +54,11 @@ CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
-无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#p2p://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
-有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#p2p://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
+有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 now直播台,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
-无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts#p2p://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
+无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts#mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
 中天新聞,vjms://58.215.133.184:8500:3502/live/cid=407#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
 TVBS新聞,vjms://58.215.133.184:8500:3502/live/cid=348#p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 东森新闻,vjms://58.215.133.184:8500:3502/live/cid=340#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
@@ -78,8 +78,11 @@ TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_
 TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 TVB J2台,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB 无线新闻,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+TVB 星河粤语,mitv://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts
+TVB 经典台,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
+TVB 娱乐台,mitv://198.255.74.57:12396/5e50207e0001a84e3d32f3391ccaac57.ts
 华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
-TVB 星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
+TVB 星河台,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 有线630,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 
