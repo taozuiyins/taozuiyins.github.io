@@ -90,6 +90,9 @@ TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
 有线603,http://hzyhjg.cc/cs/gat/yx603.php
 东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
 非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
+年代新聞,mitv://198.255.74.57:12396/5e50207b000985c23d32e98485830251.ts
+非凡新聞HD,mitv://198.255.74.57:12396/5e50207b0008acd73d32e94c5132e8ab.ts
+
 
 P8P测试,#genre#
 翡翠臺,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
