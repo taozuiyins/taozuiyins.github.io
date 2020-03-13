@@ -65,12 +65,12 @@ TVBS新聞,vjms://58.215.133.184:8500:3502/live/cid=348#p8p://0198.02686.cc:1687
 年代新聞,vjms://58.215.133.184:8500:3502/live/cid=455#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 非凡新聞,vjms://58.215.133.184:8500:3502/live/cid=443#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 三立新聞,vjms://58.215.133.184:8500:3502/live/cid=352#p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
-壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#p2p://198.255.74.57:12396/5e502078000cae2e3d32de9baa0d6a19.ts
+壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#mitv://198.255.74.57:12396/5e502078000cae2e3d32de9baa0d6a19.ts
 寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 寰宇新闻2,tvbus://3sUW81UMFLkegQrzbuihwofCUTvhAu4fN7iKnC9u8FJijcmjkh
-民視新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#p2p://198.255.74.57:12396/5e50207d000bba053d32f1e4f449fe96.ts
-台視新闻,p2p://198.255.74.57:12396/5e50207d0009379b3d32f140b76c2b2d.ts
-中視新闻,p2p://198.255.74.57:12396/5e50207d000e62303d32f293431c706e.ts#tvbus://4CyY2AjjqMuQE2X9J2dXTGrxc9aP77J2FimJe2mpyYJgPtz3st
+民視新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#mitv://198.255.74.57:12396/5e50207d000bba053d32f1e4f449fe96.ts
+台視新闻,mitv://198.255.74.57:12396/5e50207d0009379b3d32f140b76c2b2d.ts
+中視新闻,mitv://198.255.74.57:12396/5e50207d000e62303d32f293431c706e.ts
 华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8#tvbus://4bXErNowbPaLmZCw6GGr1NrZ6jRGAUYRqafuqxedqFqMjyqmck
 
 香港测试,#genre#
@@ -90,8 +90,6 @@ TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
 有线603,http://hzyhjg.cc/cs/gat/yx603.php
 东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
 非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
-年代新聞,mitv://198.255.74.57:12396/5e50207b000985c23d32e98485830251.ts
-非凡新聞HD,mitv://198.255.74.57:12396/5e50207b0008acd73d32e94c5132e8ab.ts
 
 
 P8P测试,#genre#
