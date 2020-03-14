@@ -96,6 +96,10 @@ TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
 有线603,http://hzyhjg.cc/cs/gat/yx603.php
 东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
 非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
+HKC新闻台,mitv://147.135.39.171:9906/5dcd25fc000623c838c9e73f44bb7227.ts
+TVB星河,mitv://147.135.39.171:9906/5dbd45e100071f6c261ee20d7c7e4565.ts
+寰宇新闻台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
+寰宇新闻2台,mitv://147.135.39.171:9906/5cc68d1700058370fadeb50018e34ae4.ts
 
 
 P8P测试,#genre#
