@@ -76,7 +76,7 @@ TVBS新聞,mitv://198.255.74.57:12396/5e6221ab00014e4d83878aea2dc55415.ts#vjms:/
 香港测试,#genre#
 TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-TVB J2台,mitv://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
+TVB J2台,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts
 TVB 无线新闻,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
 TVB 星河粤语,mitv://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts
 TVB 星河台,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
