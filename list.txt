@@ -88,7 +88,7 @@ ViuTu_6,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
 华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
 有线630,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
-HKC电影一台HD,mitv://147.135.39.171:9906/5dcd25fc000ac00438c9e87707b227db.ts
+邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv 
 
 代理测试,#genre#
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
