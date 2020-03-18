@@ -83,6 +83,7 @@ TVB 星河台,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 奇妙電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
 ViuTu,mitv://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
 ViuTu_6,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
+香港经典台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/291236_97IGR.m3u8
 华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
 有线630,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
