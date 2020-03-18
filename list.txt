@@ -52,8 +52,8 @@ CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 
 港台新闻,#genre#
 
-凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
-凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
+凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 无线新闻台,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
 有线新闻台,mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts#mitv://147.135.39.171:9906/5dcd25fc000623c838c9e73f44bb7227.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
