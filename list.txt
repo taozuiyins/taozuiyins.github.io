@@ -88,17 +88,6 @@ ViuTu_6,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv 
 
-代理测试,#genre#
-翡翠台,http://hzyhjg.cc/cs/gat/fct.php
-TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
-TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
-无线新闻,http://hzyhjg.cc/cs/gat/wxxw.php
-无线新闻,http://hzyhjg.cc/cs/gat/wxxw-2.php
-明珠台,http://hzyhjg.cc/cs/gat/mzt.php
-有线新闻,http://hzyhjg.cc/cs/gat/yxxw.php
-有线603,http://hzyhjg.cc/cs/gat/yx603.php
-东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
-非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
 
 198测试,#genre#
 J2,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts
