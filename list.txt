@@ -59,9 +59,9 @@ CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 有线新闻台,mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts#p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 无线财经资讯台,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts#p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
-中天新聞,mitv://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#vjms://58.215.133.197:8500:3502/live/cid=407
+中天新聞,mitv://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#vjms://58.215.133.197:8500:3502/live/cid=407#http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 TVBS新聞,mitv://198.255.74.57:12396/5e6221ab00014e4d83878aea2dc55415.ts#p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts#vjms://58.215.133.197:8500:3502/live/cid=348
-东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#mitv://198.255.74.57:12396/5e5fd267000a602c7a81eb9c5ee0fe87.ts#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://58.215.133.197:8500:3502/live/cid=340
+东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#mitv://198.255.74.57:12396/5e5fd267000a602c7a81eb9c5ee0fe87.ts#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://58.215.133.197:8500:3502/live/cid=340#http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 年代新聞,mitv://198.255.74.57:12396/5e50207b000985c23d32e98485830251.ts#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts#vjms://58.215.133.197:8500:3502/live/cid=455
 非凡新聞,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8#mitv://198.255.74.57:12396/5e50207b0008acd73d32e94c5132e8ab.ts#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#vjms://58.215.133.197:8500:3502/live/cid=443
 三立新聞,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8#mitv://198.255.74.57:12396/5e5fcf2a0006c8ee7a7544698392ab6c.ts#p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts#vjms://58.215.133.197:8500:3502/live/cid=352
