@@ -53,8 +53,8 @@ CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 港台新闻,#genre#
 
 凤凰资讯台,http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8#http://liveali.ifeng.com/live/FHZX.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-凤凰中文台,http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8http://liveali.ifeng.com/live/FHZW.flv
-凤凰香港 台,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738#http://220.158.149.26:8180/TV00000000000000000068@HHZT;LIVE#http://220.158.149.26:8182/hls/TV00000000000000000068@HHZT.m3u8
+凤凰中文台,http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://liveali.ifeng.com/live/FHZW.flv
+凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738#http://220.158.149.26:8180/TV00000000000000000068@HHZT;LIVE#http://220.158.149.26:8182/hls/TV00000000000000000068@HHZT.m3u8
 无线新闻台,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 有线新闻台,mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts#p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
