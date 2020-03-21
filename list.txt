@@ -52,7 +52,7 @@ CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 
 港台新闻,#genre#
 
-凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://220.158.149.26:8180/TV00000000000000000066@HHZT;LIVE#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+凤凰资讯台,http://220.158.149.26:8180/TV00000000000000000066@HHZT;LIVE#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://liveali.ifeng.com/live/FHZX.flv
 凤凰中文台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://220.158.149.26:8180/TV00000000000000000067@HHZT;LIVE#http://liveali.ifeng.com/live/FHZW.flv
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738#http://220.158.149.26:8180/TV00000000000000000068@HHZT;LIVE
 无线新闻台,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
@@ -83,7 +83,6 @@ TVB 星河台,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 奇妙電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
 ViuTu,mitv://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
 ViuTu_6,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
-香港经典台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/291236_97IGR.m3u8
 华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
 有线18台 HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
 有线603  HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
