@@ -58,10 +58,10 @@ CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 无线新闻台,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 有线新闻台,mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts#p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 无线财经资讯台,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts#p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
-中天新聞,mitv://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#vjms://58.215.133.197:8500:3502/live/cid=407#http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天新聞,mitv://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#vjms://58.215.133.197:8500:3502/live/cid=407
 TVBS新聞,mitv://198.255.74.57:12396/5e6221ab00014e4d83878aea2dc55415.ts#p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts#vjms://58.215.133.197:8500:3502/live/cid=348
-东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#mitv://198.255.74.57:12396/5e5fd267000a602c7a81eb9c5ee0fe87.ts#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://58.215.133.197:8500:3502/live/cid=340#http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-年代新聞,mitv://198.255.74.57:12396/5e50207b000985c23d32e98485830251.ts#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts#vjms://58.215.133.197:8500:3502/live/cid=455#http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#mitv://198.255.74.57:12396/5e5fd267000a602c7a81eb9c5ee0fe87.ts#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://58.215.133.197:8500:3502/live/cid=340
+年代新聞,mitv://198.255.74.57:12396/5e50207b000985c23d32e98485830251.ts#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts#vjms://58.215.133.197:8500:3502/live/cid=455
 非凡新聞,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8#mitv://198.255.74.57:12396/5e50207b0008acd73d32e94c5132e8ab.ts#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#vjms://58.215.133.197:8500:3502/live/cid=443
 三立新聞,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8#mitv://198.255.74.57:12396/5e5fcf2a0006c8ee7a7544698392ab6c.ts#p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts#vjms://58.215.133.197:8500:3502/live/cid=352
 壹新闻,mitv://198.255.74.57:12396/5e6d4df2000ed99eaf2c83b98ddf57db.ts#p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
@@ -77,7 +77,7 @@ TVB 翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#http
 TVB 明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 TVB J2台,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB 无线新闻,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-TVB 星河粤语,mitv://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts#p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts#http://192.200.120.82:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+TVB 星河粤语,mitv://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts#p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
 TVB 星河台,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 奇妙電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
 ViuTu,mitv://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
