@@ -57,7 +57,6 @@ CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 无线新闻台,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 有线新闻台,mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts#p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 无线财经资讯台,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts#p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 中天新聞,mitv://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#vjms://58.215.133.197:8500:3502/live/cid=407#http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 TVBS新聞,mitv://198.255.74.57:12396/5e6221ab00014e4d83878aea2dc55415.ts#p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts#vjms://58.215.133.197:8500:3502/live/cid=348
@@ -86,7 +85,6 @@ ViuTu_6,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
 华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
 有线18台 HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
 有线603  HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
-now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv 
 林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
 
