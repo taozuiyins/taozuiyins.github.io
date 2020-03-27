@@ -1,3 +1,5 @@
+#2020-03-24 10:24#
+
 泉州频道,#genre#
 
 泉州综合频道,https://live.qztv.cn/live/news.m3u8
@@ -60,7 +62,7 @@ CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 凤凰资讯台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 凤凰中文台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
-无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
+无线新闻台,http://hk.tv0668.com/dl/hk520.php?id=9#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
 有线新闻台,mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts#p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 无线财经资讯台,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts#p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 中天新聞,vjms://58.215.133.197:8500:3502/live/cid=407#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#mitv://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts
@@ -71,7 +73,7 @@ TVBS新聞,vjms://58.215.133.197:8500:3502/live/cid=348#p8p://0198.02686.cc:1687
 三立新聞,vjms://58.215.133.197:8500:3502/live/cid=352#p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts#mitv://198.255.74.57:12396/5e5fcf2a0006c8ee7a7544698392ab6c.ts
 壹新闻,mitv://198.255.74.57:12396/5e6d4df2000ed99eaf2c83b98ddf57db.ts#p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 寰宇新闻1,mitv://198.255.74.57:12396/5e50206f000b25773d32bb0e5e6f6b11.ts#p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
-寰宇新闻2,mitv://147.135.39.171:9906/5cc68d1700058370fadeb50018e34ae4.ts
+寰宇新闻2,http://ter.live2.ksmobile.net/yolo/f7f10f8002a547f78974bad6f1e6b231.flv#mitv://147.135.39.171:9906/5cc68d1700058370fadeb50018e34ae4.ts
 民視新闻,mitv://198.255.74.57:12396/5e50207d000bba053d32f1e4f449fe96.ts#p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 台視新闻,mitv://198.255.74.57:12396/5e50207d0009379b3d32f140b76c2b2d.ts
 中視新闻,mitv://198.255.74.57:12396/5e50207d000e62303d32f293431c706e.ts
