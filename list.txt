@@ -86,11 +86,9 @@ TVB J2台,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts#p8p://0
 TVB 无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9#mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB 星河粤语,mitv://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts#p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
 奇妙電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
+香港开电视,http://193.202.44.14/aAxg666.php?id=7
 ViuTu,mitv://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
 ViuTu_6,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
-华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
-有线18台 HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
-有线603  HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv 
 林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
 
