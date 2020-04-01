@@ -12,14 +12,14 @@ CCTV-2HD,http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.l
 CCTV-3HD,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-4HD,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-5HD,http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=M4V6U9F1K5XEQB9LOQL180K3XC5C&ts=1550812131
-CCTV-6,http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=253O8VQGGOYH9ZPV1Q9HUOK0JWBM&ts=1550812138
+CCTV-6HD,http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=253O8VQGGOYH9ZPV1Q9HUOK0JWBM&ts=1550812138
 CCTV-7HD,http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-8HD,http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=HVT8F3KL0K503I0GFWI6FVK07KNA&ts=1550812157
 CCTV-9HD,http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-10HD,http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-11HD,http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-12HD,http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-13,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-13HD,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-14HD,http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-15HD,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
