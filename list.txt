@@ -1,4 +1,4 @@
-#2020-03-24 10:24#
+#2020-04-03 11:33#
 
 泉州频道,#genre#
 
@@ -530,25 +530,6 @@ Movie Plus,vjms://58.215.133.197:8500:3502/live/cid=497
 
 
 
-代理源测试,#genre#
 
-凤凰卫视,http://hk.tv0668.com/dl/hk520.php?id=2
-凤凰资讯,http://hk.tv0668.com/dl/hk520.php?id=3
-TVB翡翠台,http://hk.tv0668.com/dl/hk520.php?id=1
-TVB无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9
-TVB星河,http://hk.tv0668.com/dl/hk520.php?id=17
-TVB无线财经资讯,http://hk.tv0668.com/dl/hk520.php?id=10
-TVBJ2,http://hk.tv0668.com/dl/hk520.php?id=12
-TVB明珠,http://hk.tv0668.com/dl/hk520.php?id=13
-有线新闻,http://hk.tv0668.com/dl/hk520.php?id=31
-HKS,http://hk.tv0668.com/dl/hk520.php?id=6
-VIVUTV,http://hk.tv0668.com/dl/hk520.php?id=8
-星空卫视,http://hk.tv0668.com/dl/hk520.php?id=18
-荣耀财*,http://hk.tv0668.com/dl/hk520.php?id=19
-RHK32,http://hk.tv0668.com/dl/hk520.php?id=21
-澳门卫视,http://hk.tv0668.com/dl/hk520.php?id=23
-奥亚卫视,http://hk.tv0668.com/dl/hk520.php?id=24
-HBO HD,http://hk.tv0668.com/dl/hk520.php?id=27
-HKC电影,http://hk.tv0668.com/dl/hk520.php?id=30
 
 
