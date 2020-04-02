@@ -529,7 +529,30 @@ Discovery,vjms://58.215.133.197:8500:3502/live/cid=496
 Movie Plus,vjms://58.215.133.197:8500:3502/live/cid=497
 
 
-
+代理源,#genre#
+凤凰中文,http://s6800872.awhost.cn/888/xgtv.php?id=2
+凤凰資訊,http://s6800872.awhost.cn/888/xgtv.php?id=3
+星空衛視,http://s6800872.awhost.cn/888/xgtv.php?id=18
+TVB 明珠,http://s6800872.awhost.cn/888/xgtv.php?id=13
+TVB 翡翠,http://s6800872.awhost.cn/888/xgtv.php?id=1
+TVB 星河,http://s6800872.awhost.cn/888/xgtv.php?id=17
+TVB J2,http://s6800872.awhost.cn/888/xgtv.php?id=12
+Viu TV,http://s6800872.awhost.cn/888/xgtv.php?id=8
+香港开电视,http://s6800872.awhost.cn/888/xgtv.php?id=7
+有线电影,http://s6800872.awhost.cn/888/xgtv.php?id=30
+港台31,http://s6800872.awhost.cn/888/xgtv.php?id=gt31
+港台32,http://s6800872.awhost.cn/888/xgtv.php?id=21
+有线603,http://s6800872.awhost.cn/888/xgtv.php?id=33
+功夫台,http://s6800872.awhost.cn/888/xgtv.php?id=35
+耀才財經,http://s6800872.awhost.cn/888/xgtv.php?id=19
+无线财经,http://s6800872.awhost.cn/888/xgtv.php?id=10
+无线新闻,http://s6800872.awhost.cn/888/xgtv.php?id=9
+无线新闻1,http://s5870658.awhost.cn/wxtv.php?id=inews?is_hd
+无线财经1,http://s5870658.awhost.cn/wxtv.php?id=j5_ch85?is_hd
+广东体育,http://s6800872.awhost.cn/888/xgtv.php?id=6
+新视觉,http://s6800872.awhost.cn/888/xgtv.php?id=4
+香港603,http://s6800872.awhost.cn/888/xgtv.php?id=33
+NOW新闻,http://s6800872.awhost.cn/888/xgtv.php?id=16
 
 
 
