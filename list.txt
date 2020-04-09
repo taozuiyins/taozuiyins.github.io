@@ -61,9 +61,9 @@ CCTV-17,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 
 凤凰资讯台,http://qlive.fengshows.cn/live720p/PIN.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰中文台,http://qlive.fengshows.cn/live720p/PCC.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv#http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
+凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv
 无线新闻台,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a8a070d55507015cde.ts#p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
-有线新闻台,p2p://fccsovh.pvbox.live:18912/5b13f6f100047cdef116a580a70f5211.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 无线财经资讯台,mitv://198.255.74.57:12496/5e5020810002752f3d32ff252f84c69d.ts#p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 中天新聞,mitv://198.255.74.57:12496/5e84bba100061c880ab0f514fbd68153
 TVBS新聞,mitv://198.255.74.57:12496/5e84bba0000e31700ab0f33e45083fb5
@@ -77,7 +77,7 @@ TVBS新聞,mitv://198.255.74.57:12496/5e84bba0000e31700ab0f33e45083fb5
 民視新闻,mitv://198.255.74.57:12496/5e84bb9700030acc0ab0cd3bfefc68b2
 台視新闻,mitv://198.255.74.57:12496/5e84bb97000063790ab0cc8d74039f8e
 中視新闻,mitv://198.255.74.57:12496/5e84bb970005b7480ab0cdeb2166386b
-华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
+
 
 香港测试,#genre#
 TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
