@@ -57,7 +57,6 @@ CCTV-17,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 湖南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296201.m3u8
 
 
-
 港台新闻,#genre#
 
 凤凰资讯台,http://qlive.fengshows.cn/live720p/PIN.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
@@ -65,13 +64,13 @@ CCTV-17,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv#http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 无线新闻台,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a8a070d55507015cde.ts#p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
 有线新闻台,p2p://fccsovh.pvbox.live:18912/5b13f6f100047cdef116a580a70f5211.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-无线财经资讯台,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts#p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
-中天新聞,vjms://58.215.133.197:8500:3502/live/cid=407#mitv://198.255.74.57:12496/5e84bba100061c880ab0f514fbd68153
-TVBS新聞,vjms://58.215.133.197:8500:3502/live/cid=348#mitv://198.255.74.57:12496/5e84bba0000e31700ab0f33e45083fb5
-东森新闻,vjms://58.215.133.197:8500:3502/live/cid=340#mitv://198.255.74.57:12496/5e84bb9a00090f370ab0da7e37b8b3d6
-年代新聞,vjms://58.215.133.197:8500:3502/live/cid=455#mitv://198.255.74.57:12496/5e84bb9b0000d5160ab0dc4bd800afae
-非凡新聞,vjms://58.215.133.197:8500:3502/live/cid=443#mitv://198.255.74.57:12496/5e84bb9a000f35d50ab0dc1154852429
-三立新聞,vjms://58.215.133.197:8500:3502/live/cid=352#mitv://198.255.74.57:12496/5e84bb9d0009eac90ab0e66e74ca3664
+无线财经资讯台,mitv://198.255.74.57:12496/5e5020810002752f3d32ff252f84c69d.ts#p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
+中天新聞,mitv://198.255.74.57:12496/5e84bba100061c880ab0f514fbd68153
+TVBS新聞,mitv://198.255.74.57:12496/5e84bba0000e31700ab0f33e45083fb5
+东森新闻,mitv://198.255.74.57:12496/5e84bb9a00090f370ab0da7e37b8b3d6
+年代新聞,mitv://198.255.74.57:12496/5e84bb9b0000d5160ab0dc4bd800afae
+非凡新聞,mitv://198.255.74.57:12496/5e84bb9a000f35d50ab0dc1154852429
+三立新聞,mitv://198.255.74.57:12496/5e84bb9d0009eac90ab0e66e74ca3664
 壹新闻,mitv://198.255.74.57:12496/5e84bb9e0000bedb0ab0e7fdcb3fcf70
 寰宇新闻1,p2p://fccsovh.pvbox.live:18912/5b1408f30005adecf30d9563955b54ce.ts
 寰宇新闻2,mitv://147.135.39.171:9906/5cc68d1700058370fadeb50018e34ae4.ts
@@ -164,81 +163,6 @@ EYETV旅遊,mitv://198.255.74.57:12496/5e84bba40002f2550ab0fffd412cf3dc
 EYETV戲劇,mitv://198.255.74.57:12496/5e84bba40002162d0ab0ffc52058164b
 阿裏郎電視,mitv://198.255.74.57:12496/5e84bba400012f520ab0ff8a0ce45d4a
 smart知識,mitv://198.255.74.57:12496/5e84bba40000d3640ab0ff722996a8a2
-
-纳加测试,#genre#
-民視HD,vjms://58.215.133.197:8500:3502/live/cid=450
-公视,vjms://58.215.133.197:8500:3502/live/cid=236
-年代MUCH,vjms://58.215.133.197:8500:3502/live/cid=439
-年代新聞,vjms://58.215.133.197:8500:3502/live/cid=455
-东森新聞,vjms://58.215.133.197:8500:3502/live/cid=340
-中天新聞,vjms://58.215.133.197:8500:3502/live/cid=407
-非凡新聞,vjms://58.215.133.197:8500:3502/live/cid=443
-TVBS新聞臺,vjms://58.215.133.197:8500:3502/live/cid=348
-TVBS HD,vjms://58.215.133.197:8500:3502/live/cid=349
-緯來體育,vjms://58.215.133.197:8500:3502/live/cid=202
-緯來戲劇,vjms://58.215.133.197:8500:3502/live/cid=137
-八大第一,vjms://58.215.133.197:8500:3502/live/cid=441
-三立新闻,vjms://58.215.133.197:8500:3502/live/cid=352
-三立都會,vjms://58.215.133.197:8500:3502/live/cid=226
-博斯高球,vjms://58.215.133.197:8500:3502/live/cid=265
-迪士尼卡通,vjms://58.215.133.197:8500:3502/live/cid=361
-HBOHD,vjms://58.215.133.197:8500:3502/live/cid=261
-HBO原创,vjms://58.215.133.197:8500:3502/live/cid=236
-HBO強檔,vjms://58.215.133.197:8500:3502/live/cid=238
-HBO溫馨,vjms://58.215.133.197:8500:3502/live/cid=181
-ELTA體育HD,vjms://58.215.133.197:8500:3502/live/cid=266
-TLC旅游生活,vjms://58.215.133.197:8500:3502/live/cid=103
-法國國際五臺,vjms://58.215.133.197:8500:3502/live/cid=396
-東森財經新闻,vjms://58.215.133.197:8500:3502/live/cid=456
-國家地理HD,vjms://58.215.133.197:8500:3502/live/cid=115
-國家地理野生,vjms://58.215.133.197:8500:3502/live/cid=263
-體育博斯高球,vjms://58.215.133.197:8500:3502/live/cid=265
-體育ELTA,vjms://58.215.133.197:8500:3502/live/cid=266
-體育FOX3HD,vjms://58.215.133.197:8500:3502/live/cid=95
-體育FOX2 Sports,vjms://58.215.133.197:8500:3502/live/cid=444
-AXN,vjms://58.215.133.197:8500:3502/live/cid=2
-BBC,vjms://58.215.133.197:8500:3502/live/cid=418
-CNN,vjms://58.215.133.197:8500:3502/live/cid=428
-CNBC,vjms://58.215.133.197:8500:3502/live/cid=98
-FOX2,vjms://58.215.133.197:8500:3502/live/cid=444
-FOX3,vjms://58.215.133.197:8500:3502/live/cid=95
-StarMovies,vjms://58.215.133.197:8500:3502/live/cid=94
-DiscoveryAsia,vjms://58.215.133.197:8500:3502/live/cid=440
-DiscoveryScience,vjms://58.215.133.197:8500:3502/live/cid=457
-DiscoveryChannel,vjms://58.215.133.197:8500:3502/live/cid=3
-日本电视台,vjms://58.215.133.197:8500:3502/live/cid=492
-日FIGHTING TV,vjms://58.215.133.197:8500:3502/live/cid=408
-日-Family theather,vjms://58.215.133.197:8500:3502/live/cid=493
-日-kids,vjms://58.215.133.197:8500:3502/live/cid=494
-日-J,vjms://58.215.133.197:8500:3502/live/cid=495
-日-Discovery,vjms://58.215.133.197:8500:3502/live/cid=496
-日-Movie Plus,vjms://58.215.133.197:8500:3502/live/cid=497
-日-迪士尼,vjms://58.215.133.197:8500:3502/live/cid=499
-日-GOLF NTWORK,vjms://58.215.133.197:8500:3502/live/cid=409
-日-Sports ESPN,vjms://58.215.133.197:8500:3502/live/cid=410
-日-Sports Plus,vjms://58.215.133.197:8500:3502/live/cid=411
-日-Green,vjms://58.215.133.197:8500:3502/live/cid=412
-日-GAORA,vjms://58.215.133.197:8500:3502/live/cid=413
-日-Sports,vjms://58.215.133.197:8500:3502/live/cid=414
-日-sports1,vjms://58.215.133.197:8500:3502/live/cid=415
-日-Sports 2,vjms://58.215.133.197:8500:3502/live/cid=416
-关西-地面波电视台,vjms://58.215.133.197:8500:3502/live/cid=323
-NHK综合CS-NHK-G CS,vjms://58.215.133.197:8500:3502/live/cid=139
-Fighting-TV,vjms://58.215.133.197:8500:3502/live/cid=408
-GOLF,vjms://58.215.133.197:8500:3502/live/cid=409
-J-Sports-3,vjms://58.215.133.197:8500:3502/live/cid=410
-J-Sports-4,vjms://58.215.133.197:8500:3502/live/cid=411
-BS-GREEN,vjms://58.215.133.197:8500:3502/live/cid=412
-GAORA SPORTS,vjms://58.215.133.197:8500:3502/live/cid=413
-EX-Sports-TV,vjms://58.215.133.197:8500:3502/live/cid=414
-J-Sports-1,vjms://58.215.133.197:8500:3502/live/cid=415
-J-Sports-2,vjms://58.215.133.197:8500:3502/live/cid=416
-日テレPLUS - NTV-PLUS,vjms://58.215.133.197:8500:3502/live/cid=492
-ファミリ?`剧场 - Fami Gekijo HD,vjms://58.215.133.197:8500:3502/live/cid=493
-KIDS,vjms://58.215.133.197:8500:3502/live/cid=494
-Music-JAPAN,vjms://58.215.133.197:8500:3502/live/cid=495
-Discovery,vjms://58.215.133.197:8500:3502/live/cid=496
-Movie Plus,vjms://58.215.133.197:8500:3502/live/cid=497
 
 
 代理源,#genre#
