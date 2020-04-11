@@ -178,22 +178,22 @@ smart知識,mitv://198.255.74.57:12496/5e84bba40000d3640ab0ff722996a8a2
 
 代理源,#genre#
 
-凤凰中文,http://iptv1688.xyz/axg.php?id=2&xl=1
-凤凰資訊,http://iptv1688.xyz/axg.php?id=3&xl=1
-星空衛視,http://iptv1688.xyz/axg.php?id=18&xl=1
-耀才財經,http://iptv1688.xyz/axg.php?id=19&xl=1
-TVB 明珠,http://iptv1688.xyz/axg.php?id=13&xl=2
-TVB 翡翠,http://iptv1688.xyz/axg.php?id=1&xl=2
-TVB J2,http://iptv1688.xyz/axg.php?id=12&xl=2
-Viu TV,http://iptv1688.xyz/axg.php?id=8&xl=2
-无线财经,http://iptv1688.xyz/axg.php?id=10&xl=2
-无线新闻,http://iptv1688.xyz/axg.php?id=9&xl=2
-有线新闻,http://iptv1688.xyz/axg.php?id=31&xl=2
-澳門衛視,http://iptv1688.xyz/axg.php?id=23&xl=1
-澳亞衛視,http://iptv1688.xyz/axg.php?id=24&xl=1
-香港卫视,http://iptv1688.xyz/axg.php?id=6&xl=1
-澳門衛視,http://iptv1688.xyz/axg.php?id=23
-澳亞衛視,http://iptv1688.xyz/axg.php?id=24&xl=1
-澳門互動新聞台,http://iptv1688.xyz/axg.php?id=26&xl=1
-澳門有線一台,http://iptv1688.xyz/axg.php?id=25&xl=1
-NOW新闻,http://iptv1688.xyz/axg.php?id=16&xl=1
+凤凰中文,http://tv166.top/axg.php?id=2&xl=1
+凤凰資訊,http://tv166.top/axg.php?id=3&xl=1
+星空衛視,http://tv166.top/axg.php?id=18&xl=1
+耀才財經,http://tv166.top/axg.php?id=19&xl=1
+TVB 明珠,http://tv166.top/axg.php?id=13&xl=2
+TVB 翡翠,http://tv166.top/axg.php?id=1&xl=2
+TVB J2,http://tv166.top/axg.php?id=12&xl=2
+Viu TV,http://tv166.top/axg.php?id=8&xl=2
+无线财经,http://tv166.top/axg.php?id=10&xl=2
+无线新闻,http://tv166.top/axg.php?id=9&xl=2
+有线新闻,http://tv166.top/axg.php?id=31&xl=2
+澳門衛視,http://tv166.top/axg.php?id=23&xl=1
+澳亞衛視,http://tv166.top/axg.php?id=24&xl=1
+香港卫视,http://tv166.top/axg.php?id=6&xl=1
+澳門衛視,http://tv166.top/axg.php?id=23
+澳亞衛視,http://tv166.top/axg.php?id=24&xl=1
+澳門互動新聞台,http://tv166.top/axg.php?id=26&xl=1
+澳門有線一台,http://tv166.top/axg.php?id=25&xl=1
+有线娱乐台,http://tv166.top/axg.php?id=34
