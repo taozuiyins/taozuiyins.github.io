@@ -63,7 +63,7 @@ CCTV-17,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 凤凰中文台,http://qlive.fengshows.cn/live720p/PCC.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv
 无线新闻台,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a8a070d55507015cde.ts#p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
-有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 中天新聞,mitv://198.255.74.57:12496/5e84bba100061c880ab0f514fbd68153
 TVBS新聞,mitv://198.255.74.57:12496/5e84bba0000e31700ab0f33e45083fb5
 东森新闻,mitv://198.255.74.57:12496/5e84bb9a00090f370ab0da7e37b8b3d6
