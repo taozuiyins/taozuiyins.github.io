@@ -4,7 +4,7 @@
 
 泉州1套,https://live.qztv.cn/live/news.m3u8
 泉州4套,https://live.qztv.cn/live/mny.m3u8
-东南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292501.m3u8
+东南卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292501.m3u8
 海峡卫视,http://player.ioioz.com/18/tv.php?tv=fjtv&id=hxws
 厦门卫视,http://cstvpull.live.wscdns.com/live/xiamen.flv
 福建体育,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjty
