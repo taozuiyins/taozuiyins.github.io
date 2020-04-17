@@ -5,16 +5,8 @@
 泉州1套,https://live.qztv.cn/live/news.m3u8
 泉州4套,https://live.qztv.cn/live/mny.m3u8
 东南卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292501.m3u8
-海峡卫视,http://player.ioioz.com/18/tv.php?tv=fjtv&id=hxws
 厦门卫视,http://cstvpull.live.wscdns.com/live/xiamen.flv
-福建体育,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjty
-福建电视,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjdsj
-福建综合,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjzh
-福建新闻,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjxw
-福建旅游,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjds
-福建公共,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjgg
-福建经济,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjjj
-福建少儿,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjse
+
 
 央视频道,#genre#
 
