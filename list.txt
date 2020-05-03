@@ -1,12 +1,3 @@
-#2020-04-9 9:43  源都挂完了差不多都不能用了没新源有新源再更吧#
-
-泉州频道,#genre#
-
-泉州1套,https://live.qztv.cn/live/news.m3u8
-泉州4套,https://live.qztv.cn/live/mny.m3u8
-东南卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292501.m3u8
-厦门卫视,http://cstvpull.live.wscdns.com/live/xiamen.flv
-
 
 央视频道,#genre#
 
