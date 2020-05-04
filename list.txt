@@ -93,7 +93,16 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 
 
 测试,#genre#
-
+三立新闻,http://bbdd.228888888.xyz:8081/hls/ch210.m3u8
+寰宇新聞,http://bbdd.228888888.xyz:8081/hls/ch211.m3u8
+寰宇新聞2,http://bbdd.228888888.xyz:8081/hls/ch212.m3u8
+台视新聞,http://bbdd.228888888.xyz:8081/hls/ch213.m3u8
+華視新聞,http://bbdd.228888888.xyz:8081/hls/ch214.m3u8
+TVBS新聞,http://bbdd.228888888.xyz:8081/hls/ch215.m3u8
+民視新聞,http://bbdd.228888888.xyz:8081/hls/ch216.m3u8
+东森新闻,http://bbdd.228888888.xyz:8081/hls/ch217.m3u8
+中視新聞,http://bbdd.228888888.xyz:8081/hls/ch218.m3u8
+中天新闻,http://bbdd.228888888.xyz:8081/hls/zhongtianxw.m3u8
 翡翠台,http://bbdd.228888888.xyz:8081/hls/ch101.m3u8
 J2,http://bbdd.228888888.xyz:8081/hls/ch102.m3u8
 J5,http://bbdd.228888888.xyz:8081/hls/ch103.m3u8
@@ -112,16 +121,6 @@ TVB星河,http://bbdd.228888888.xyz:8081/hls/ch105.m3u8
 华视,http://bbdd.228888888.xyz:8081/hls/ch203.m3u8
 民视,http://bbdd.228888888.xyz:8081/hls/ch204.m3u8
 台视,http://bbdd.228888888.xyz:8081/hls/ch205.m3u8
-三立新闻,http://bbdd.228888888.xyz:8081/hls/ch210.m3u8
-寰宇新聞,http://bbdd.228888888.xyz:8081/hls/ch211.m3u8
-寰宇新聞2,http://bbdd.228888888.xyz:8081/hls/ch212.m3u8
-台视新聞,http://bbdd.228888888.xyz:8081/hls/ch213.m3u8
-華視新聞,http://bbdd.228888888.xyz:8081/hls/ch214.m3u8
-TVBS新聞,http://bbdd.228888888.xyz:8081/hls/ch215.m3u8
-民視新聞,http://bbdd.228888888.xyz:8081/hls/ch216.m3u8
-东森新闻,http://bbdd.228888888.xyz:8081/hls/ch217.m3u8
-中視新聞,http://bbdd.228888888.xyz:8081/hls/ch218.m3u8
-中天新闻,http://bbdd.228888888.xyz:8081/hls/zhongtianxw.m3u8
 CNN,http://bbdd.228888888.xyz:8081/hls/ch315.m3u8
 国家地理,http://bbdd.228888888.xyz:8081/hls/ch316.m3u8
 八大综合,http://bbdd.228888888.xyz:8081/hls/ch206.m3u8
