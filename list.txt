@@ -88,7 +88,7 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts#vjms://
 寰宇新闻2,mitv://147.135.39.171:9906/5cc68d1700058370fadeb50018e34ae4.ts
 民視新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 台視新闻,
-中視新闻,
+中視新闻,mitv://fccseuro.pvbox.live:18912/5b14095e000f3774822b992d71505c27.ts
 华视新闻,
 
 纳加,#genre#
@@ -308,4 +308,3 @@ DIVA,mitv://fccseuro.pvbox.live:18912/5b1408f10005adef2027dd7e71c6351d.ts
 都市劇場,mitv://fccseuro.pvbox.live:18912/5b140921000e805e1e873dcf10aa0e9d.ts
 環宇財經,mitv://fccseuro.pvbox.live:18912/5b1408f30002585a11bef378f6977adf.ts
 環宇新聞,mitv://fccseuro.pvbox.live:18912/5b1408f30005adec5af5d12c875c6d4b.ts
-LUXE_T
