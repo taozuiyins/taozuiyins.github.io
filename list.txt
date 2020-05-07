@@ -166,7 +166,7 @@ WWE,mitv://fccseuro.pvbox.live:18912/5cffd5d9000724964caf741711821486.ts
 TVB US 2,mitv://fccseuro.pvbox.live:18912/5cffd79d0004cbb6bd1be5c9b948f3a1.ts
 TVBHD,mitv://fccseuro.pvbox.live:18912/5cf559f800003d1bcd0ecfe448d6b4fe.ts
 
-台湾频道,#genre#
+台湾频道测试,#genre#
 ELTA影劇,mitv://fccseuro.pvbox.live:18912/5b1409dc0006a1ca39c4786b1be43d96.ts
 ELTA綜合,mitv://fccseuro.pvbox.live:18912/5b1409db0002d1cfe6933f88f0bf2807.ts
 EYETV旅遊,mitv://fccseuro.pvbox.live:18912/5b140916000c98186400465c43115b3e.ts
