@@ -130,7 +130,7 @@ DiscoveryScience,vjms://58.215.133.161:8500:3502/live/cid=457
 DiscoveryChannel,vjms://58.215.133.161:8500:3502/live/cid=3
 
 
-香港频道测试,#genre#
+香港测试,#genre#
 2-翡翠,mitv://fccseuro.pvbox.live:18912/5b1409fc00088a7f9382eac80b8109d9.ts
 1-翡翠,mitv://fccseuro.pvbox.live:18912/5d1220350000ba2724a028c23cd1f63f.ts
 2-无线新闻,mitv://fccseuro.pvbox.live:18912/5b140953000cd4a817961c7ae76199ad.ts
@@ -166,7 +166,7 @@ WWE,mitv://fccseuro.pvbox.live:18912/5cffd5d9000724964caf741711821486.ts
 TVB US 2,mitv://fccseuro.pvbox.live:18912/5cffd79d0004cbb6bd1be5c9b948f3a1.ts
 TVBHD,mitv://fccseuro.pvbox.live:18912/5cf559f800003d1bcd0ecfe448d6b4fe.ts
 
-台湾频道测试,#genre#
+台湾测试,#genre#
 ELTA影劇,mitv://fccseuro.pvbox.live:18912/5b1409dc0006a1ca39c4786b1be43d96.ts
 ELTA綜合,mitv://fccseuro.pvbox.live:18912/5b1409db0002d1cfe6933f88f0bf2807.ts
 EYETV旅遊,mitv://fccseuro.pvbox.live:18912/5b140916000c98186400465c43115b3e.ts
@@ -308,40 +308,4 @@ DIVA,mitv://fccseuro.pvbox.live:18912/5b1408f10005adef2027dd7e71c6351d.ts
 都市劇場,mitv://fccseuro.pvbox.live:18912/5b140921000e805e1e873dcf10aa0e9d.ts
 環宇財經,mitv://fccseuro.pvbox.live:18912/5b1408f30002585a11bef378f6977adf.ts
 環宇新聞,mitv://fccseuro.pvbox.live:18912/5b1408f30005adec5af5d12c875c6d4b.ts
-LUXE_TV,mitv://fccseuro.pvbox.live:18912/5b1408f2000402a95baf43a364ed4808.ts
-鴻基影劇臺,mitv://fccseuro.pvbox.live:18912/5b14095e000b67b9b72e51308578ef0d.ts
-靖洋戲劇臺,mitv://fccseuro.pvbox.live:18912/5b1409170006660345c40cea48fbcca7.ts
-FYI,mitv://fccseuro.pvbox.live:18912/5b1408f20005adce5ceb282be387a44d.ts
-LIFETIME,mitv://fccseuro.pvbox.live:18912/5b593bd20009b7c829cde721ba48fbf7.ts
-EVE HD,mitv://fccseuro.pvbox.live:18912/5b14093f00043faca8542f9fd72847f3.ts
-E! ENTERTAINMENT,mitv://fccseuro.pvbox.live:18912/5b1409770004036859dad967dc93d5f4.ts
-CNN INTERNATIONAL,mitv://fccseuro.pvbox.live:18912/5b593947000cff32c1ed716a83a7f6ed.ts
-CHANNEL_NEWS_ASIA,mitv://fccseuro.pvbox.live:18912/5b20e3af00008dee7d79576ada4dc396.ts
-BABY TV,mitv://fccseuro.pvbox.live:18912/5b14090b00030e820a3f351ee1a5ee21.ts
-MY KIDS,mitv://fccseuro.pvbox.live:18912/5b1409da000a356e9043fbe20461cb34.ts
-FOX-NEWS,mitv://fccseuro.pvbox.live:18912/5b593b140008b0a82c74c6d011c38f7a.ts
-FOX SPORTS 3 HD,mitv://fccseuro.pvbox.live:18912/5b1409400002d18bd97b429ef69a7847.ts
-DW-TV,mitv://fccseuro.pvbox.live:18912/5b14098f0005711e019b86dd1fdaa29e.ts
-HBO SIGNATURE WEST,mitv://fccseuro.pvbox.live:18912/5b593bbb00085133bb22ec0aa7465a41.ts
-CINEMAWORLD,mitv://fccseuro.pvbox.live:18912/5b1409770005ae3c8fb528cda3ba0b13.ts
-SMART知识台,mitv://fccseuro.pvbox.live:18912/5b1408f200025798a616ba8aabf8f797.ts
-HISTORY HD,mitv://fccseuro.pvbox.live:18912/5b1408f300071d3b9cbfd207e9b9a63f.ts
-HISTORY2 HD,mitv://fccseuro.pvbox.live:18912/5b1408f3000402b25fc174cfe9f45e3d.ts
-HKS,mitv://fccseuro.pvbox.live:18912/5b14096a000c1de2fd3d55400f094cae.ts
-NICK.JR,mitv://fccseuro.pvbox.live:18912/5b14098f000ba3b09c5e0e9ab6b51b8a.ts
-ALJAZEERA,mitv://fccseuro.pvbox.live:18912/5b1409fc000257835df6808d1aed2447.ts
-BOOMERANG,mitv://fccseuro.pvbox.live:18912/5b1409da00081124ba9d6dc6add45000.ts
-MEZZO LIVEHD,mitv://fccseuro.pvbox.live:18912/5b14090b0006deff8075bee1f22aae8d.ts
-TVBS 精彩台,mitv://fccseuro.pvbox.live:18912/5bdbf3b20000e96612d35480ade36ba9.ts
-客家电视,mitv://fccseuro.pvbox.live:18912/5bdbf38e000519500064c3a9ffe8adf3.ts
-壹电视新闻台,mitv://fccseuro.pvbox.live:18912/5bdbf3a3000abb1baec69bbf8961fda5.ts
-LUXE TV,mitv://fccseuro.pvbox.live:18912/5bdbf3ae0006e6cac753f975290d4d15.ts
-星卫电影HD,mitv://fccseuro.pvbox.live:18912/5bdbf3b90004478a2726e37ba11d4b62.ts
-博斯高球1DH,mitv://fccseuro.pvbox.live:18912/5bdbf395000ad5cbf47f9c17ba35d798.ts
-EVE,mitv://fccseuro.pvbox.live:18912/5bdbf3a000041d6af00a9dbd4d21eb0e.ts
-CINEMA WORLD,mitv://fccseuro.pvbox.live:18912/5bdbf3aa000b9c31fe1c8b7dcab27130.ts
-原住民族电视,mitv://fccseuro.pvbox.live:18912/5bdbf387000760a7a6ce6e666e6593e5.ts
-GOOD TV ,mitv://fccseuro.pvbox.live:18912/5bdbf39200017a4b8c4028d31c8a7f76.ts
-佛卫慈悲台,mitv://fccseuro.pvbox.live:18912/5bdbf39c000a41546e6a7d8e82a3881b.ts
-TVN,mitv://fccseuro.pvbox.live:18912/5bdbf3a70003296c041207bc3c0f8388.ts
-
+LUXE_T
