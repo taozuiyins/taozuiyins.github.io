@@ -87,7 +87,7 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts#vjms://
 寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 寰宇新闻2,mitv://147.135.39.171:9906/5cc68d1700058370fadeb50018e34ae4.ts
 民視新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
-台視新闻,
+台視新闻,mitv://fccsovh.pvbox.live:18912/5b14090b0004b9da89f966912173fcd7.ts
 中視新闻,mitv://fccsovh.pvbox.live:18912/5b14095e000f37747ca78ffd7e762bdf.ts
 华视新闻,
 
@@ -171,15 +171,16 @@ TVB US 1,mitv://fccsovh.pvbox.live:18912/5cffd79b00082246a64b8746c2521a1f.ts
 三立新聞,mitv://fccsovh.pvbox.live:18912/5b14090b000e80304a8159b6edeb7918.ts
 TVBS新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef45a439012b24135d7.ts
 TVBS,mitv://fccsovh.pvbox.live:18912/5b140960000c982b5b710a4a47285a05.ts
-TVBS新闻,mitv://fccsovh.pvbox.live:18912/5b1409600008c73b1a05b1b720582889.ts
-三立新闻,mitv://fccsovh.pvbox.live:18912/5b14090b000e80304a8159b6edeb7918.ts
-东森新闻,mitv://fccsovh.pvbox.live:18912/5b1409520005add46d722dfcbe65cb4c.ts
-中天新闻,mitv://fccsovh.pvbox.live:18912/5b14096a000dc917ee549a939989ba74.ts
-中视新闻台,mitv://fccsovh.pvbox.live:18912/5b14095e000f37747ca78ffd7e762bdf.ts
+TVBS新聞,mitv://fccsovh.pvbox.live:18912/5b1409600008c73b1a05b1b720582889.ts
+三立新聞,mitv://fccsovh.pvbox.live:18912/5b14090b000e80304a8159b6edeb7918.ts
+東森新聞,mitv://fccsovh.pvbox.live:18912/5b1409520005add46d722dfcbe65cb4c.ts
+中天新聞,mitv://fccsovh.pvbox.live:18912/5b14096a000dc917ee549a939989ba74.ts
+中視新聞,mitv://fccsovh.pvbox.live:18912/5b14095e000f37747ca78ffd7e762bdf.ts
+中視新聞,mitv://fccsovh.pvbox.live:18912/5b14095e000f37747ca78ffd7e762bdf.ts
 互动新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344.ts
 台视新闻台,mitv://fccsovh.pvbox.live:18912/5b14090b0004b9da89f966912173fcd7.ts
-寰宇新闻频道,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec9974397fac9826c6.ts
-年代新闻,mitv://fccsovh.pvbox.live:18912/5b1409fd000a72697545d72c1f2c4259.ts
+環宇新聞,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec9974397fac9826c6.ts
+年代新聞,mitv://fccsovh.pvbox.live:18912/5b1409fd000a72697545d72c1f2c4259.ts
 东森财经,mitv://fccsovh.pvbox.live:18912/5b1409f30008c77648330d0f3bcafb40.ts
 非凡新闻,mitv://fccsovh.pvbox.live:18912/5b14092c0001a04c99a9499df71f0144.ts
 FOX新闻,mitv://fccsovh.pvbox.live:18912/5b25fce60007c58e8a3004851ccfd365.ts
@@ -260,7 +261,6 @@ ELTA體育 HD,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8f1f4ae6a6095d2e3d.t
 星衛娛樂臺,mitv://fccsovh.pvbox.live:18912/5b1408f1000d124908df3f0356501391.ts
 美食星球,mitv://fccsovh.pvbox.live:18912/5b140917000d8becc2e6ab2a6d8577de.ts
 高爾夫網球,mitv://fccsovh.pvbox.live:18912/5b1409530005ae3ac3b5a5905cbe4384.ts
-中視新聞,mitv://fccsovh.pvbox.live:18912/5b14095e000f37747ca78ffd7e762bdf.ts
 環宇綜合,mitv://fccsovh.pvbox.live:18912/5b14098e00034c103057a2e59ab1b5f6.ts
 新視覺,mitv://fccsovh.pvbox.live:18912/5b1409230000ac476e3892f415dd8423.ts
 Ci罪案偵緝 HD,mitv://fccsovh.pvbox.live:18912/5b14098e0006282a31ae8dc1610cd024.ts
