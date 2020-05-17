@@ -88,7 +88,7 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts#vjms://
 寰宇新闻2,mitv://147.135.39.171:9906/5cc68d1700058370fadeb50018e34ae4.ts
 民視新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 台視新闻,
-中視新闻,mitv://fccseuro.pvbox.live:18912/5b14095e000f3774822b992d71505c27.ts
+中視新闻,mitv://fccsovh.pvbox.live:18912/5b14095e000f37747ca78ffd7e762bdf.ts
 华视新闻,
 
 纳加,#genre#
