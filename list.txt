@@ -90,7 +90,8 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 台視新闻,
 中視新闻,
 华视新闻,
-台湾测试,,#genre#
+
+台湾测试,#genre#
 東森新聞,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b319a90945aea102d115.ts
 東森新聞,p2p://fccseuro.pvbox.live:18912/5c7248a0000383704a3e5eff3648dfa9.ts
 東森新聞,p2p://fccsovh.pvbox.live:18912/5b1409520005add44245f68029a45e1f.ts
