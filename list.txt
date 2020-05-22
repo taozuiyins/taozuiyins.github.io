@@ -85,243 +85,41 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 三立新聞,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
 壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
 寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
-寰宇新闻2,mitv://147.135.39.171:9906/5cc68d1700058370fadeb50018e34ae4.ts
+寰宇新闻2,
 民視新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
-台視新闻,mitv://fccsovh.pvbox.live:18912/5b14090b0004b9da89f966912173fcd7.ts
-中視新闻,mitv://fccsovh.pvbox.live:18912/5b14095e000f37747ca78ffd7e762bdf.ts
+台視新闻,
+中視新闻,
 华视新闻,
 
-
-
-
-香港测试,#genre#
-2-翡翠,mitv://fccsovh.pvbox.live:18912/5b1409fc00088a7f0ad3cf908ad7674c.ts
-1-翡翠,mitv://fccsovh.pvbox.live:18912/5d1220350000ba276d06e415ecc95430.ts
-2-无线新闻,mitv://fccsovh.pvbox.live:18912/5b140953000cd4a8ea13f6c1f3c5416e.ts
-1-无线新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344.ts
-2-J2,mitv://fccsovh.pvbox.live:18912/5d122036000a066198228cfaf36ad3c8.ts
-1-J2,mitv://fccsovh.pvbox.live:18912/5b1409fc000dca06c67290816b6099a7.ts
-J5,mitv://fccsovh.pvbox.live:18912/5b14095400047cf5cb4a1a2fc32ef16f.ts
-明珠,mitv://fccsovh.pvbox.live:18912/5b1409540009bb8b29456f12074644a7.ts
-无线功夫台,mitv://fccsovh.pvbox.live:18912/5b140a16000032128ed0bdb3b870006c.ts
-TVB 星河臺,mitv://fccsovh.pvbox.live:18912/5d65048c0003e9ae1361d333b0f1006e.ts
-HKC新闻,mitv://fccsovh.pvbox.live:18912/5b13f6f100047cdeaf5cf3e29388f23b.ts
-私人影院,mitv://fccsovh.pvbox.live:18912/5b140a98000c5ae61cd80aeb949660e7.ts
-TVB星河频道,mitv://fccsovh.pvbox.live:18912/5b14092a000dc9212bfd9b8e84c9886b.ts
-VIUTV6,mitv://fccsovh.pvbox.live:18912/5b1409fd00079683e40ddeabc387bebe.ts
-VIU,mitv://fccsovh.pvbox.live:18912/5b1409540006651984a9ca91efafbed5.ts
-星空卫视,mitv://fccsovh.pvbox.live:18912/5b1409fb0000e9853e66503a9f124d00.ts
-凤凰中文台 HD,mitv://fccsovh.pvbox.live:18912/5b14092b000759565209f8fdd58bd269.ts
-凤凰资讯台 HD,mitv://fccsovh.pvbox.live:18912/5b14092b000904834de9551294fee4e1.ts
-凤凰香港台 HD,mitv://fccsovh.pvbox.live:18912/5b14092b000ab05812b50cd8d248917c.ts
-海峡卫视,mitv://fccsovh.pvbox.live:18912/5b140a99000c97f592941831b66645b3.ts
-莲花卫视,mitv://fccsovh.pvbox.live:18912/5b1409fb00088a46099eb4d2848ebd63.ts
-WBTV,mitv://fccsovh.pvbox.live:18912/5b140a1600043fc9c64c87d6794573e2.ts
-CHINA MOVIE,mitv://fccsovh.pvbox.live:18912/5b14095e00097ea8e196434877d47f44.ts
-中华美食频道,mitv://fccsovh.pvbox.live:18912/5b14092b000126612897cc5f75157a2a.ts
-NOWTV,mitv://fccsovh.pvbox.live:18912/5b20e3ae00008df9cb61dda6161ad58f.ts
-RTHK31,mitv://fccsovh.pvbox.live:18912/5badd38d000891c439974cfa21f26282.ts
-RTHK32,mitv://fccsovh.pvbox.live:18912/5badd3910003a73d9e541f569e7149a1.ts
-TVB US 1,mitv://fccsovh.pvbox.live:18912/5cffd79b00082246a64b8746c2521a1f.ts
-天映频道,mitv://fccsovh.pvbox.live:18912/5d650486000c7ef4744c8240e50b7194.ts
-天映经典,mitv://fccsovh.pvbox.live:18912/5d650488000e67a15fe245f9ec54c2f2.ts
-
-台湾测试,#genre#
-壹電視新聞,mitv://fccsovh.pvbox.live:18912/5b14094000088a466e47d3afd44bb2c1.ts
-年代新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76000032856cc77709577dc1ebc.ts
-東森新聞,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b319c22d543273ae752d.ts
-中天新聞,mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b767acda964a3e6b0.ts
-民視新聞,mitv://fccsovh.pvbox.live:18912/5b1409690004f7332b4526da408e8da2.ts
-三立新聞,mitv://fccsovh.pvbox.live:18912/5b14090b000e80304a8159b6edeb7918.ts
-TVBS新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef45a439012b24135d7.ts
-TVBS,mitv://fccsovh.pvbox.live:18912/5b140960000c982b5b710a4a47285a05.ts
-TVBS新聞,mitv://fccsovh.pvbox.live:18912/5b1409600008c73b1a05b1b720582889.ts
-三立新聞,mitv://fccsovh.pvbox.live:18912/5b14090b000e80304a8159b6edeb7918.ts
-東森新聞,mitv://fccsovh.pvbox.live:18912/5b1409520005add46d722dfcbe65cb4c.ts
-中天新聞,mitv://fccsovh.pvbox.live:18912/5b14096a000dc917ee549a939989ba74.ts
-中視新聞,mitv://fccsovh.pvbox.live:18912/5b14095e000f37747ca78ffd7e762bdf.ts
-中視新聞,mitv://fccsovh.pvbox.live:18912/5b14095e000f37747ca78ffd7e762bdf.ts
-互动新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344.ts
-台视新闻台,mitv://fccsovh.pvbox.live:18912/5b14090b0004b9da89f966912173fcd7.ts
-環宇新聞,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec9974397fac9826c6.ts
-年代新聞,mitv://fccsovh.pvbox.live:18912/5b1409fd000a72697545d72c1f2c4259.ts
-东森财经,mitv://fccsovh.pvbox.live:18912/5b1409f30008c77648330d0f3bcafb40.ts
-非凡新闻,mitv://fccsovh.pvbox.live:18912/5b14092c0001a04c99a9499df71f0144.ts
-FOX新闻,mitv://fccsovh.pvbox.live:18912/5b25fce60007c58e8a3004851ccfd365.ts
-環宇新聞,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec9974397fac9826c6.ts
-中天亞洲,mitv://fccsovh.pvbox.live:18912/5b1409220008c84fd878e88ea73f75a3.ts
-CNN,mitv://fccsovh.pvbox.live:18912/5b140954000dc92aad495c68a1722ff7.ts
-民視,mitv://fccsovh.pvbox.live:18912/5b1409690006a24acfbabb91ec0f234f.ts
-台视 HD,mitv://fccsovh.pvbox.live:18912/5b14095f000570be74b4fccb70fa64cb.ts
-大愛,mitv://fccsovh.pvbox.live:18912/5b1409db0005716879b326d40ca6bf1b.ts
-中視 HD,mitv://fccsovh.pvbox.live:18912/5b14095f00075e714e7f2ef79f51122f.ts
-华视HD,mitv://fccsovh.pvbox.live:18912/5b14095f000efa0ea81d40679a25d5c5.ts
-公視,mitv://fccsovh.pvbox.live:18912/5b1409600001a0b215f1dd816feb0eaa.ts
-亚洲旅游台 HD,mitv://fccsovh.pvbox.live:18912/5b14091700094183c5f08b34e7a92795.ts
-好消息,mitv://fccsovh.pvbox.live:18912/5bdbf38a000e2c497b6a7265edf71790.ts
-BBC EARTH HD,mitv://fccsovh.pvbox.live:18912/5b1408f200071c8b6c39b012f035a51b.ts
-國家地理野生,mitv://fccsovh.pvbox.live:18912/5b1409170007d3426fb48c0b2237b791.ts
-國家地理HD,mitv://fccsovh.pvbox.live:18912/5b13f6f0000e0621ed47c61aba4bcb15.ts
-CN卡通HD,mitv://fccsovh.pvbox.live:18912/5b593933000710c569bad4646b31ac3f.ts
-TLC,mitv://fccsovh.pvbox.live:18912/5b13f6f10002d2ef1721bf191d77c99c.ts
-動物星球,mitv://fccsovh.pvbox.live:18912/5b14096100006f33681cf71976a95bbb.ts
-迪士尼卡通,mitv://fccsovh.pvbox.live:18912/5b1409f30004f6ec3598e4b332f8c7b1.ts
-CN卡通,mitv://fccsovh.pvbox.live:18912/5b140917000efaac3f9179764897d979.ts
-東森呦呦,mitv://fccsovh.pvbox.live:18912/5b140a9a00071c28607fbf8de0b89c23.ts
-緯來綜合,mitv://fccsovh.pvbox.live:18912/5b1409230004f71e22b08086e5abe9fb.ts
-八大第壹,mitv://fccsovh.pvbox.live:18912/5b14096a0004400352a6757d095bb7ab.ts
-八大綜合,mitv://fccsovh.pvbox.live:18912/5b14092c0004b9c22139715c5ffe2157.ts
-三立臺灣,mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd4654013e75837af4e8.ts
-三立都會,mitv://fccsovh.pvbox.live:18912/5b14098f000d8c659a483ebc19d8ebcb.ts
-衛視中文臺,mitv://fccsovh.pvbox.live:18912/5b14096a00006f078a22c7ce77702f62.ts
-東森綜合,mitv://fccsovh.pvbox.live:18912/5b1409f1000dc91b140544329dd2c2ab.ts
-靖天育樂,mitv://fccsovh.pvbox.live:18912/5b1408f2000e063fea9c5d9f8b021408.ts
-中天綜合,mitv://fccsovh.pvbox.live:18912/5b14096a0007d345adf7d3be9e90853c.ts
-中華美食,mitv://fccsovh.pvbox.live:18912/5b14092b000126612897cc5f75157a2a.ts
-中天娛樂,mitv://fccsovh.pvbox.live:18912/5b1409f300034b942173930dce7ae53a.ts
-東森戲劇,mitv://fccsovh.pvbox.live:18912/5b1409f20000320b50f779b77ee95c34.ts
-八大戲劇,mitv://fccsovh.pvbox.live:18912/5b1409690000706a9826a03ed5af637b.ts
-TVBS歡樂,mitv://fccsovh.pvbox.live:18912/5b1409600006657bacba82dfd86340c9.ts
-緯來戲劇,mitv://fccsovh.pvbox.live:18912/5b1409f3000a72b5d549bb4219f601e5.ts
-龍祥時代,mitv://fccsovh.pvbox.live:18912/5b14092200071c6181ef2920ff316506.ts
-JET 综合,mitv://fccsovh.pvbox.live:18912/5b1409f30001262702e7dc172f28e81b.ts
-靖天映畫,mitv://fccsovh.pvbox.live:18912/5b14093f0002d1c2758c007809570d1c.ts
-TVBS綜合,mitv://fccsovh.pvbox.live:18912/5b140960000c982b5b710a4a47285a05.ts
-東森財經,mitv://fccsovh.pvbox.live:18912/5b1409f30008c77648330d0f3bcafb40.ts
-非凡商业HD,mitv://fccsovh.pvbox.live:18912/5b140a9a0001dd5bdb8641d636b3fcac.ts
-非凡新聞,mitv://fccsovh.pvbox.live:18912/5c2dd766000ecf4a4c509c7319a08a29.ts
-衛視電影,mitv://fccsovh.pvbox.live:18912/5c2dd76a000ca61451394a072f4f7e61.ts
-東森電影,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe2093057ab145b8e3a.ts
-偉來電影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b0b9580e3bdf43bee.ts
-HBO,mitv://fccsovh.pvbox.live:18912/5b140969000be13cbbbaada35e3e2301.ts
-東森洋片,mitv://fccsovh.pvbox.live:18912/5b14092300021ad110891195d64ed033.ts
-好萊塢電影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df5d7f30cc0dece6e10.ts
-衛視洋片HD,mitv://fccsovh.pvbox.live:18912/5b14098f00030ea469bc01b62cbf906b.ts
-CINEMAX,mitv://fccsovh.pvbox.live:18912/5b14096000043ff99400101c1a734077.ts
-FOX SPORTS HD,mitv://fccsovh.pvbox.live:18912/5b3c4f980000c856e38783ebf6231a40.ts
-FOX SPORTS 2,mitv://fccsovh.pvbox.live:18912/5b3c4f980006aaf321a870aba6e9849d.ts
-緯來體育,mitv://fccsovh.pvbox.live:18912/5b140921000be14405e9c3905af34fc3.ts
-緯來育樂,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b54e279caa339aad.ts
-偉來日本,mitv://fccsovh.pvbox.live:18912/5b14092b000efa4cd9866cd9275191d3.ts
-國興衛視,mitv://fccsovh.pvbox.live:18912/5b1409f2000ebd788ee2dccedec963a4.ts
-Z頻道,mitv://fccsovh.pvbox.live:18912/5b14094a00088a564e0f461ddf2dae00.ts
-CATCHPLAY HD,mitv://fccsovh.pvbox.live:18912/5b1409db000126a9be97c29a73d316cc.ts
-八大娛樂,mitv://fccsovh.pvbox.live:18912/5b14096a000628065517456cc2e5cbb5.ts
-HBO強檔,mitv://fccsovh.pvbox.live:18912/5b14096900084dd9732d39f9ce6cb91b.ts
-HBO原創,mitv://fccsovh.pvbox.live:18912/5b14096a000a35a15f5450bb3e28893c.ts
-大愛二臺,mitv://fccsovh.pvbox.live:18912/5bdbf3990002e4dc01cb8ef6f5e072eb.ts
-MTV LIVE HD,mitv://fccsovh.pvbox.live:18912/5b1408f100084d6a550c623ab631ada4.ts
-TVN ,mitv://fccsovh.pvbox.live:18912/5b14090b000aaf9d4f3a4186cc4d6f66.ts
-EYETV戲劇,mitv://fccsovh.pvbox.live:18912/5b14093e000e43392704fd1097bd4261.ts
-龍華洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b8813faf07fc126ab.ts
-龍華戲劇,mitv://fccsovh.pvbox.live:18912/5b14091600088a8c92b12947be3ba032.ts
-龍華動畫,mitv://fccsovh.pvbox.live:18912/5b1409170002d1e2b53006943dc22570.ts
-龍華偶像,mitv://fccsovh.pvbox.live:18912/5b14091800012626579b10342854f976.ts
-龍華電影,mitv://fccsovh.pvbox.live:18912/5b140922000d1231035f1280f1072ace.ts
-好消息 2,mitv://fccsovh.pvbox.live:18912/5b140922000a72b2de7017f6f0503f3a.ts
-ELTA體育 HD,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8f1f4ae6a6095d2e3d.ts
-美亞電影,mitv://fccsovh.pvbox.live:18912/5b14098f00079615ef29fa6cfc5aeef4.ts
-星衛電影,mitv://fccsovh.pvbox.live:18912/5b140940000a727a4bf348563757ba5e.ts
-星衛娛樂臺,mitv://fccsovh.pvbox.live:18912/5b1408f1000d124908df3f0356501391.ts
-美食星球,mitv://fccsovh.pvbox.live:18912/5b140917000d8becc2e6ab2a6d8577de.ts
-高爾夫網球,mitv://fccsovh.pvbox.live:18912/5b1409530005ae3ac3b5a5905cbe4384.ts
-環宇綜合,mitv://fccsovh.pvbox.live:18912/5b14098e00034c103057a2e59ab1b5f6.ts
-新視覺,mitv://fccsovh.pvbox.live:18912/5b1409230000ac476e3892f415dd8423.ts
-Ci罪案偵緝 HD,mitv://fccsovh.pvbox.live:18912/5b14098e0006282a31ae8dc1610cd024.ts
-靖天電影,mitv://fccsovh.pvbox.live:18912/5b14093f0000e91e715bf02ef8566557.ts
-地理悠人,mitv://fccsovh.pvbox.live:18912/5b14093f000b29ff7397edad721e32f7.ts
-壹電視綜合,mitv://fccsovh.pvbox.live:18912/5b1409400006a2357f157ba9aaf5d2bd.ts
-天映頻道,mitv://fccsovh.pvbox.live:18912/5b3c4f98000bbfd5fd6544ad7ad10c7c.ts
-V音樂,mitv://fccsovh.pvbox.live:18912/5b593be20007704850600332cb583fa5.ts
-CHC 高清電影 HD,mitv://fccsovh.pvbox.live:18912/5b140953000b29ef332df19691fdea77.ts
-探索頻道,mitv://fccsovh.pvbox.live:18912/5b14092b000cd4e0ebb06a6cada40c32.ts
-DISCOVERY科學頻道 HD,mitv://fccsovh.pvbox.live:18912/5b14093f000e802bdd83ec98a30fd631.ts
-探索動力,mitv://fccsovh.pvbox.live:18912/5b14093f00062801181f9dbf938ea361.ts
-CHC 動作電影 HD,mitv://fccsovh.pvbox.live:18912/5b14092b0002d180b1588cbffe36bde3.ts
-FASHIONTV HD,mitv://fccsovh.pvbox.live:18912/5b1409dc00021a61da7e97b0ad4d2730.ts
-FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec2730143173176554.ts
-FOX MOVIES HD,mitv://fccsovh.pvbox.live:18912/5b7267ae000b9c6c150cb235afa69bc4.ts
-FOX PLUS HD,mitv://fccsovh.pvbox.live:18912/5b140977000ab01d481d870ceb76294d.ts
-FRANCE 24（English）,mitv://fccsovh.pvbox.live:18912/5b14090b0008c74a8cb6406d46e13d0c.ts
-CNBC,mitv://fccsovh.pvbox.live:18912/5b59394400007aa8409881624ed70eef.ts
-ASN_HD,mitv://fccsovh.pvbox.live:18912/118.163.81.13:8911/59ec2b0f000175d80804020627655cc9.ts
-AXN,mitv://fccsovh.pvbox.live:18912/5b1409220003887769ca778f545c821a.ts
-CNBC ASIA CHANNEL,mitv://fccsovh.pvbox.live:18912/5b59394400007aa8409881624ed70eef.ts
-TV5MONDE,mitv://fccsovh.pvbox.live:18912/5b1409220005714ca70d69203bfdf7c8.ts
-CHANNEL V HD,mitv://fccsovh.pvbox.live:18912/5b1409dc0004f6ab72aefc47973e3aff.ts
-FOX家庭,mitv://fccsovh.pvbox.live:18912/5b14098e000945cab577802a872c8e4d.ts
-FOX動作,mitv://fccsovh.pvbox.live:18912/5b140977000904d61ee99c252044ba7d.ts
-FOX警匪HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434ef5a2d5f011bff498.ts
-FX-HD,mitv://fccsovh.pvbox.live:18912/5b593b240003f74728577865f0e10b10.ts
-时尚频道,mitv://fccsovh.pvbox.live:18912/5bdbf3b50009e59e5b33bdf5e2e8442a.ts
-NBA,mitv://fccsovh.pvbox.live:18912/5b593bea000144c614fa34758f131f4b.ts
-BBC,mitv://fccsovh.pvbox.live:18912/5b140953000257fb5d8131c67a46ff80.ts
-OUTDOOR HD,mitv://fccsovh.pvbox.live:18912/5b1409db000a72d426ff3055a4c5015a.ts
-SUNDANCE HD,mitv://fccsovh.pvbox.live:18912/5b1408f2000c5b2d4cf1da243386061a.ts
-FOX体育,mitv://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts
-亞洲美食,mitv://fccsovh.pvbox.live:18912/5b1409da000c9801475895d6d19bb44d.ts
-靖天卡通,mitv://fccsovh.pvbox.live:18912/5b14093e0009fa219c53a5561cd5c9e3.ts
-BBC LIFESTYLE CHANNEL,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bd9335b9c23fb84074.ts
-靖天國際,mitv://fccsovh.pvbox.live:18912/5b1408f1000efa2813ca477ede7e98be.ts
-靖天戲劇,mitv://fccsovh.pvbox.live:18912/5b14093e000c1de9c1193d15bcf4f2a0.ts
-博斯高球二台,mitv://fccsovh.pvbox.live:18912/5b1409dc00088a663a78af2f46c26f25.ts
-博斯運動,mitv://fccsovh.pvbox.live:18912/5b13f6f0000c1dd61162e82dd8d7bce1.ts
-緯來精彩,mitv://fccsovh.pvbox.live:18912/5b14094a0000e951233494f0df361e57.ts
-曼迪日本臺,mitv://fccsovh.pvbox.live:18912/5b1408f1000aecee964f14b0f74e3a51.ts
-衛視合家歡,mitv://fccsovh.pvbox.live:18912/5b14096a0001dd4144e6e78fea0ece01.ts
-三立戲劇臺,mitv://fccsovh.pvbox.live:18912/5b140916000e80947d476c01cc14fed4.ts
-三立綜合,mitv://fccsovh.pvbox.live:18912/5b14091700012642e7d3708097bbadb3.ts
-DIVA,mitv://fccsovh.pvbox.live:18912/5b1408f10005adef48afdc61b65c097f.ts
-靖天日本,mitv://fccsovh.pvbox.live:18912/5b140916000ab016071543ebaae7d367.ts
-都市劇場,mitv://fccsovh.pvbox.live:18912/5b140921000e805e8e38a75069a6354a.ts
-環宇財經,mitv://fccsovh.pvbox.live:18912/5b1408f30002585a2a87cf252c0dcfc0.ts
-LUXE_TV,mitv://fccsovh.pvbox.live:18912/5b1408f2000402a9a6652a7516cbaf02.ts
-鴻基影劇臺,mitv://fccsovh.pvbox.live:18912/5b14095e000b67b99c155bcaeb687757.ts
-靖洋戲劇臺,mitv://fccsovh.pvbox.live:18912/5b140917000666038b6a0972f441ba5b.ts
-FYI,mitv://fccsovh.pvbox.live:18912/5b1408f20005adce47655d1af6321e6c.ts
-LIFETIME,mitv://fccsovh.pvbox.live:18912/5b593bd20009b7c8450272fd765695a2.ts
-EVE HD,mitv://fccsovh.pvbox.live:18912/5b14093f00043fac26ebf6afd5870cdf.ts
-E! ENTERTAINMENT,mitv://fccsovh.pvbox.live:18912/5b14097700040368a88d45b96c74a783.ts
-CNN INTERNATIONAL,mitv://fccsovh.pvbox.live:18912/5b593947000cff325d7b0d7963ec0cea.ts
-CHANNEL NEWSASIA,mitv://fccsovh.pvbox.live:18912/5b20e3af00008dee434faf5458a556e5.ts
-BABY TV,mitv://fccsovh.pvbox.live:18912/5b14090b00030e8237826214f982f6eb.ts
-MY KIDS,mitv://fccsovh.pvbox.live:18912/5b1409da000a356e3236e70878cf72f8.ts
-FOX-NEWS,mitv://fccsovh.pvbox.live:18912/5b593b140008b0a8cf647219ae5e7b54.ts
-FOX SPORTS 3 HD,mitv://fccsovh.pvbox.live:18912/5b1409400002d18ba7e00c6c74497908.ts
-DW-TV,mitv://fccsovh.pvbox.live:18912/5b14098f0005711ec7b368fba15f3d7a.ts
-HBO SIGNATURE WEST,mitv://fccsovh.pvbox.live:18912/5b593bbb000851331bf1ad0c5329a3b1.ts
-CINEMAWORLD,mitv://fccsovh.pvbox.live:18912/5b1409770005ae3c4f617dc56c67ae42.ts
-SMART知识台,mitv://fccsovh.pvbox.live:18912/5b1408f2000257988bff72ce605ec2a6.ts
-HISTORY HD,mitv://fccsovh.pvbox.live:18912/5b1408f300071d3babea58acb0941084.ts
-HISTORY2 HD,mitv://fccsovh.pvbox.live:18912/5b1408f3000402b2796e0f0a7d775e93.ts
-HKS,mitv://fccsovh.pvbox.live:18912/5b14096a000c1de25e80aea642b6e69d.ts
-NICK.JR,mitv://fccsovh.pvbox.live:18912/5b14098f000ba3b08d793bef33d72700.ts
-ALJAZEERA,mitv://fccsovh.pvbox.live:18912/5b1409fc000257835c835b4454f1e26b.ts
-BOOMERANG,mitv://fccsovh.pvbox.live:18912/5b1409da000811245eefbefa93f9c55a.ts
-MEZZO LIVEHD,mitv://fccsovh.pvbox.live:18912/5b14090b0006deff17ea91df086ac98e.ts
-佛卫慈悲台,mitv://fccsovh.pvbox.live:18912/5bdbf39c000a415445d68c8170911857.ts
-TVN,mitv://fccsovh.pvbox.live:18912/5bdbf3a70003296cfcc04220178b0a61.ts
-TVBS 精彩台,mitv://fccsovh.pvbox.live:18912/5bdbf3b20000e966d2177540400d0818.ts
-客家电视,mitv://fccsovh.pvbox.live:18912/5bdbf38e00051950f9941946834ce9d6.ts
-壹电视新闻台,mitv://fccsovh.pvbox.live:18912/5bdbf3a3000abb1b9757039e805e3c0f.ts
-LUXE TV,mitv://fccsovh.pvbox.live:18912/5b1408f2000402a9a6652a7516cbaf02.ts
-星卫电影HD,mitv://fccsovh.pvbox.live:18912/5bdbf3b90004478a9773a41d2cbca986.ts
-博斯高球1DH,mitv://fccsovh.pvbox.live:18912/5bdbf395000ad5cb219072c18cb8c912.ts
-EVE,mitv://fccsovh.pvbox.live:18912/5bdbf3a000041d6a5e2955166fb7b8ab.ts
-CINEMA WORLD,mitv://fccsovh.pvbox.live:18912/5bdbf3aa000b9c31a872454ccf55f572.ts
-原住民族电视,mitv://fccsovh.pvbox.live:18912/5bdbf387000760a7c47e685147513c71.ts
-GOOD TV ,mitv://fccsovh.pvbox.live:18912/5bdbf39200017a4bd216f86f7a511c7b.ts
-Z频道,mitv://fccsovh.pvbox.live:18912/5b14094a00088a564e0f461ddf2dae00.ts
-国家地理 HD,mitv://fccsovh.pvbox.live:18912/5b13f6f0000e0621ed47c61aba4bcb15.ts
-ELEVEN SPORT 1,mitv://fccsovh.pvbox.live:18912/5b13f6f00009f89b8633242652795ce1.ts
-TRAVEL,mitv://fccsovh.pvbox.live:18912/5b13f6f10002d2ef1721bf191d77c99c.ts
-BLOOMBERG,mitv://fccsovh.pvbox.live:18912/5b13f6f10000e96ed4704edd0dc579c2.ts
-SKY NEWS HD,mitv://fccsovh.pvbox.live:18912/5b13f6f0000c1dd61162e82dd8d7bce1.ts
-ELTA影劇,mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1cadfc706bf074a672a.ts
-ELTA綜合,mitv://fccsovh.pvbox.live:18912/5b1409db0002d1cf73232d723c6b9c90.ts
-EYETV旅遊,mitv://fccsovh.pvbox.live:18912/5b140916000c9818e561a1903e16cf9d.ts
-
 测试,#genre#
+东森财经新闻(软解),http://111.13.111.192/211.75.9.37:20010/20017
+东森财经新闻(软解),http://111.13.111.192/211.75.9.37:20050/20057
+中天新闻(软解),http://111.13.111.192/211.75.9.37:20010/20011
+中天新闻(软解),http://111.13.111.192/211.75.9.37:20060/20067
+三立新闻(软解),http://111.13.111.192/211.75.9.37:20010/20015
+非凡新闻(软解),http://111.13.111.192/211.75.9.37:20020/20028
+非凡新闻(软解),http://111.13.111.192/211.75.9.37:20060/20061
+年代新闻(软解),http://111.13.111.192/211.75.9.37:20010/20014
+年代新闻(软解),http://111.13.111.192/211.75.9.37:20050/20055
+东森电影(软解),http://111.13.111.192/211.75.9.37:20050/20051
+东森戏剧(软解),http://111.13.111.192/211.75.9.37:20010/20012
+东森新闻(软解),http://111.13.111.192/211.75.9.37:20000/20005
+东森新闻(软解),http://111.13.111.192/211.75.9.37:20060/20066
+东森洋片(软解),http://111.13.111.192/211.75.9.37:20060/20069
+东森洋片(软解),http://111.13.111.192/211.75.9.37:20010/20018
+中天综合(软解),http://111.13.111.192/211.75.9.37:20000/20007
+TVBS (软解),http://111.13.111.192/211.75.9.37:20010/20016
+TVBS (软解),http://111.13.111.192/211.75.9.37:20060/20068
+TVBS欢乐台(软解),http://111.13.111.192/211.75.9.37:20010/20013
+东森综合(软解),http://111.13.111.192/211.75.9.37:20040/20045
+动物星球(软解),http://111.13.111.192/211.75.9.37:20000/20002
+非凡商业(软解),http://111.13.111.192/211.75.9.37:20050/20052
+三立都会台(软解),http://111.13.111.192/211.75.9.37:20040/20042
+三立都会台(软解),http://111.13.111.192/211.75.9.37:20050/20054
+三立台湾台(软解),http://111.13.111.192/211.75.9.37:20040/20041
+三立台湾台(软解),http://111.13.111.192/211.75.9.37:20050/20053
+纬来体育(软解),http://111.13.111.192/211.75.9.37:20020/20024
+纬来体育(软解),http://111.13.111.192/211.75.9.37:20060/20064
 CINEMAX电影(软解),http://111.13.111.192/211.75.9.37:20020/20023
 CINEMAX电影(软解),http://111.13.111.192/211.75.9.37:20060/20063
 CN卡通(软解),http://111.13.111.192/211.75.9.37:20040/20043
@@ -336,42 +134,16 @@ HBO signature (软解),http://111.13.111.192/211.75.9.37:20030/20035
 HBO signature (软解),http://111.13.111.192/211.75.9.37:20030/20034
 JET综合(软解),http://111.13.111.192/211.75.9.37:20030/20031
 TLC (软解),http://111.13.111.192/211.75.9.37:20000/20001
-TVBS (软解),http://111.13.111.192/211.75.9.37:20010/20016
-TVBS (软解),http://111.13.111.192/211.75.9.37:20060/20068
-TVBS欢乐台(软解),http://111.13.111.192/211.75.9.37:20010/20013
 迪斯尼频道(软解),http://111.13.111.192/211.75.9.37:20040/20044
-东森财经新闻(软解),http://111.13.111.192/211.75.9.37:20010/20017
-东森财经新闻(软解),http://111.13.111.192/211.75.9.37:20050/20057
-东森电影(软解),http://111.13.111.192/211.75.9.37:20050/20051
-东森戏剧(软解),http://111.13.111.192/211.75.9.37:20010/20012
-东森新闻(软解),http://111.13.111.192/211.75.9.37:20000/20005
-东森新闻(软解),http://111.13.111.192/211.75.9.37:20060/20066
-东森洋片(软解),http://111.13.111.192/211.75.9.37:20060/20069
-东森洋片(软解),http://111.13.111.192/211.75.9.37:20010/20018
 AXN(软解),http://111.13.111.192/211.75.9.37:20020/20029
-东森综合(软解),http://111.13.111.192/211.75.9.37:20040/20045
-动物星球(软解),http://111.13.111.192/211.75.9.37:20000/20002
-非凡商业(软解),http://111.13.111.192/211.75.9.37:20050/20052
-非凡新闻(软解),http://111.13.111.192/211.75.9.37:20020/20028
-非凡新闻(软解),http://111.13.111.192/211.75.9.37:20060/20061
 好莱坞电影(软解),http://111.13.111.192/211.75.9.37:20020/20022
 好莱坞电影(软解),http://111.13.111.192/211.75.9.37:20060/20062
-年代新闻(软解),http://111.13.111.192/211.75.9.37:20010/20014
-年代新闻(软解),http://111.13.111.192/211.75.9.37:20050/20055
-三立都会台(软解),http://111.13.111.192/211.75.9.37:20040/20042
-三立都会台(软解),http://111.13.111.192/211.75.9.37:20050/20054
-三立台湾台(软解),http://111.13.111.192/211.75.9.37:20040/20041
-三立台湾台(软解),http://111.13.111.192/211.75.9.37:20050/20053
-三立新闻(软解),http://111.13.111.192/211.75.9.37:20010/20015
-纬来体育(软解),http://111.13.111.192/211.75.9.37:20020/20024
-纬来体育(软解),http://111.13.111.192/211.75.9.37:20060/20064
 纬来戏剧(软解),http://111.13.111.192/211.75.9.37:20040/20047
 纬来育乐(软解),http://111.13.111.192/211.75.9.37:20000/20004
 纬来综合(软解),http://111.13.111.192/211.75.9.37:20000/20003
 纬来电影(软解),http://111.13.111.192/211.75.9.37:20020/20027
 卫视电影台(软解),http://111.13.111.192/211.75.9.37:20020/20026
 卫视中文台(软解),http://111.13.111.192/211.75.9.37:20000/20006
-中天新闻(软解),http://111.13.111.192/211.75.9.37:20010/20011
-中天新闻(软解),http://111.13.111.192/211.75.9.37:20060/20067
-中天综合(软解),http://111.13.111.192/211.75.9.37:20000/20007
+
+
 
