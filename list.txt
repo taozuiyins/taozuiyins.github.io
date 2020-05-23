@@ -131,7 +131,7 @@ NOW 新闻,mitv://fccseuro.pvbox.live:18912/5b20e3ae00008df9c124246ffa91a9d3.ts
 FASHIONTV HD,mitv://fccseuro.pvbox.live:18912/5bf4f3c00004612a82fdb7cdacd73e2b.ts
 FASHIONTV,mitv://fccseuro.pvbox.live:18912/5bf4f3c00004612a82fdb7cdacd73e2b.ts
 
-香港测试,#genre#
+台湾测试,#genre#
 民視,mitv://fccsovh.pvbox.live:18912/5b1409690006a24a2d5e33a2f1fdf652.ts
 民視新聞,mitv://fccsovh.pvbox.live:18912/5b1409690004f7339f71594c1fb7ee05.ts
 大愛,mitv://fccsovh.pvbox.live:18912/5b1409db000571681003d8c94da0848e.ts
