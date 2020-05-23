@@ -107,10 +107,6 @@ HKC新闻,mitv://fccseuro.pvbox.live:18912/5b13f6f100047cdec22c1042897679cb.ts
 VIUTV6,mitv://fccseuro.pvbox.live:18912/5b1409fd000796834e058fd74526f83e.ts
 VIU,mitv://fccseuro.pvbox.live:18912/5b1409fd000796834e058fd74526f83e.ts
 星空卫视,mitv://fccseuro.pvbox.live:18912/5b1409fb0000e9855628b9d09bd1ab45.ts
-緯來綜合,mitv://fccseuro.pvbox.live:18912/5b1409230004f71ed4a9d3ec3b7662a6.ts
-緯來戲劇,mitv://fccsovh.pvbox.live:18912/5b1409f3000a72b57d0b3b4c0d89bc55.ts
-緯來育樂,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5571d850fc07a43f3.ts
-緯來精彩,mitv://fccsovh.pvbox.live:18912/5b14094a0000e951e5a33f4d834c6fa6.ts
 天映经典,mitv://fccseuro.pvbox.live:18912/5b3c4f9b00031383627eef60721e1739.ts
 美亞電影,mitv://fccsovh.pvbox.live:18912/5b14098f000796154fda3a068c843057.ts
 星衛電影,mitv://fccsovh.pvbox.live:18912/5bdbf3b90004478a72f062c8053049f8.ts
@@ -119,17 +115,9 @@ VIU,mitv://fccseuro.pvbox.live:18912/5b1409fd000796834e058fd74526f83e.ts
 V音樂,mitv://fccsovh.pvbox.live:18912/5b593be200077048870a8dae09faf863.ts
 MTV LIVE HD,mitv://fccsovh.pvbox.live:18912/5b1408f100084d6aa034ebf63d446f95.ts
 MTV,mitv://fccsovh.pvbox.live:18912/5b1408f100084d6aa034ebf63d446f95.ts
-好消息,mitv://fccsovh.pvbox.live:18912/5bdbf38a000e2c49644b203407b73835.ts
-好消息 2,mitv://fccsovh.pvbox.live:18912/5b140922000a72b292bd5dfe7ee06d14.ts
-衛視中文,mitv://fccseuro.pvbox.live:18912/5c2dd752000079be18c9f539303e299f.ts
-衛視洋片,mitv://fccsovh.pvbox.live:18912/5b14098f00030ea44331fcb98aef0bed.ts
-衛視電影,mitv://fccseuro.pvbox.live:18912/5c2dd76a000ca614a73e3e4179c96395.ts
-衛視合家歡,mitv://fccsovh.pvbox.live:18912/5b14096a0001dd41d537a388cd670f3f.ts
-CHINA MOVIE,mitv://fccseuro.pvbox.live:18912/5b14095e00097ea820ff589de46e6021.ts
 NOW 新闻,mitv://fccseuro.pvbox.live:18912/5b20e3ae00008df9c124246ffa91a9d3.ts
 莲花卫视,mitv://fccseuro.pvbox.live:18912/5b1409fb00088a46faacbaf4f90eab7e.ts
-FASHIONTV HD,mitv://fccseuro.pvbox.live:18912/5bf4f3c00004612a82fdb7cdacd73e2b.ts
-FASHIONTV,mitv://fccseuro.pvbox.live:18912/5bf4f3c00004612a82fdb7cdacd73e2b.ts
+
 
 台湾测试,#genre#
 民視,mitv://fccsovh.pvbox.live:18912/5b1409690006a24a2d5e33a2f1fdf652.ts
@@ -201,6 +189,19 @@ Z頻道,mitv://fccsovh.pvbox.live:18912/5b14094a00088a56f728c13c32d71817.ts
 壹電視綜合,mitv://fccsovh.pvbox.live:18912/5b1409400006a235f9f891d4234b0155.ts
 探索動力,mitv://fccsovh.pvbox.live:18912/5b14093f00062801d5061621d6d810db.ts
 亞洲美食,mitv://fccsovh.pvbox.live:18912/5b1409da000c9801fe3719342f1375e6.ts
+緯來綜合,mitv://fccseuro.pvbox.live:18912/5b1409230004f71ed4a9d3ec3b7662a6.ts
+緯來戲劇,mitv://fccsovh.pvbox.live:18912/5b1409f3000a72b57d0b3b4c0d89bc55.ts
+緯來育樂,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5571d850fc07a43f3.ts
+緯來精彩,mitv://fccsovh.pvbox.live:18912/5b14094a0000e951e5a33f4d834c6fa6.ts
+好消息,mitv://fccsovh.pvbox.live:18912/5bdbf38a000e2c49644b203407b73835.ts
+好消息 2,mitv://fccsovh.pvbox.live:18912/5b140922000a72b292bd5dfe7ee06d14.ts
+衛視中文,mitv://fccseuro.pvbox.live:18912/5c2dd752000079be18c9f539303e299f.ts
+衛視洋片,mitv://fccsovh.pvbox.live:18912/5b14098f00030ea44331fcb98aef0bed.ts
+衛視電影,mitv://fccseuro.pvbox.live:18912/5c2dd76a000ca614a73e3e4179c96395.ts
+衛視合家歡,mitv://fccsovh.pvbox.live:18912/5b14096a0001dd41d537a388cd670f3f.ts
+CHINA MOVIE,mitv://fccseuro.pvbox.live:18912/5b14095e00097ea820ff589de46e6021.ts
+FASHIONTV HD,mitv://fccseuro.pvbox.live:18912/5bf4f3c00004612a82fdb7cdacd73e2b.ts
+FASHIONTV,mitv://fccseuro.pvbox.live:18912/5bf4f3c00004612a82fdb7cdacd73e2b.ts
 
 台湾备用,#genre#
 東森新聞,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b319a90945aea102d115.ts
