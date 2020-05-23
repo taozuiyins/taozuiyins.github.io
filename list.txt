@@ -91,6 +91,18 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 中視新闻,
 华视新闻,
 
+香港测试,#genre#
+1-翡翠,mitv://fccseuro.pvbox.live:18912/5d1220350000ba2772d2c8c07bb3c752
+2-翡翠,mitv://fccseuro.pvbox.live:18912/5b1409fc00088a7fa3e18cc2249c55ce
+1-无线新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e5982c2e799457264
+2-无线新闻,mitv://fccsovh.pvbox.live:18912/5b140953000cd4a8a7a87806e46262a3
+HKC新闻,mitv://fccseuro.pvbox.live:18912/5b13f6f100047cdee327a9ff9f053ad4
+2-J2,mitv://fccseuro.pvbox.live:18912/5d122036000a066159b828455cb24b90
+1-J2,mitv://fccsovh.pvbox.live:18912/5b1409fc000dca065de8da3b014a39c8
+J5,mitv://fccseuro.pvbox.live:18912/5b14095400047cf5549ed1d4a3e3f096
+明珠,mitv://fccsovh.pvbox.live:18912/5b1409540009bb8bbe600c58aed3eee3
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+无线财经,mitv://fccseuro.pvbox.live:18912/5dbeb1cc000750161b0f2c3065a1f6e8
 
 
 测试,#genre#
