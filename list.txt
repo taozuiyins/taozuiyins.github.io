@@ -100,18 +100,55 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 中視新闻,
 华视新闻,
 
-香港测试,#genre#
-1-翡翠,mitv://fccseuro.pvbox.live:18912/5d1220350000ba2772d2c8c07bb3c752
-2-翡翠,mitv://fccseuro.pvbox.live:18912/5b1409fc00088a7fa3e18cc2249c55ce
-1-无线新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e5982c2e799457264
-2-无线新闻,mitv://fccsovh.pvbox.live:18912/5b140953000cd4a8a7a87806e46262a3
-HKC新闻,mitv://fccseuro.pvbox.live:18912/5b13f6f100047cdee327a9ff9f053ad4
-2-J2,mitv://fccseuro.pvbox.live:18912/5d122036000a066159b828455cb24b90
-1-J2,mitv://fccsovh.pvbox.live:18912/5b1409fc000dca065de8da3b014a39c8
-J5,mitv://fccseuro.pvbox.live:18912/5b14095400047cf5549ed1d4a3e3f096
-明珠,mitv://fccsovh.pvbox.live:18912/5b1409540009bb8bbe600c58aed3eee3
+港台测试,#genre#
+TVBS新闻,p2p://fccseuro.pvbox.live:18912/5b1409600008c73b441822d67195301c.ts
+TVBS新闻,p2p://fccseuro.pvbox.live:18912/5c2dd76300095ef49733277ae9c0671e.ts
+东森新闻,p2p://fccseuro.pvbox.live:18912/5b1409520005add437b29e753446399d.ts
+东森新闻,p2p://fccseuro.pvbox.live:18912/5c2dd7310008b3196f54f041ddf2e867.ts
+中天新闻,p2p://fccseuro.pvbox.live:18912/5b14096a000dc91793267beeff031dbd.ts
+中天新闻,p2p://fccseuro.pvbox.live:18912/5c2dd72e0002527b5e186cfd3e3fc77b.ts
+台视新闻,p2p://fccseuro.pvbox.live:18912/5b14090b0004b9da5079edd56c90fb55.ts
+年代新闻,p2p://fccseuro.pvbox.live:18912/5b1409fd000a726931e8612ff8271a7c.ts
+年代新闻,p2p://fccseuro.pvbox.live:18912/5c2dd76000032856cd7039eebf7f8190.ts
+年代新闻,p2p://fccseuro.pvbox.live:18912/5c72489b000f0c1f30367ceb328beb23.ts
+非凡新闻,p2p://fccseuro.pvbox.live:18912/5b14092c0001a04cead8e38d73a75cc5.ts
+FOX新闻,p2p://fccseuro.pvbox.live:18912/5b25fce60007c58e28fe91c58ad9b00a.ts
+卫视电影,p2p://fccseuro.pvbox.live:18912/5b140960000aafcc7d504abbe1b28c94.ts
+卫视电影,p2p://fccseuro.pvbox.live:18912/5c2dd76a000ca61435a944c711910228.ts
+2-翡翠,p2p://fccseuro.pvbox.live:18912/5b1409fc00088a7f60783f284b8bfc19.ts
+2-翡翠,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+2-翡翠,http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv 
+1-翡翠,p2p://fccseuro.pvbox.live:18912/5d1220350000ba2757a71852036719b4.ts
+1-无线新闻,p2p://fccseuro.pvbox.live:18912/5b1409fc000a355e844ca3aae4108d28.ts
+2-无线新闻,p2p://fccseuro.pvbox.live:18912/5b140953000cd4a8b1243da74c0c8404.ts
+2-J2,p2p://fccseuro.pvbox.live:18912/5d122036000a0661d6f4963c0360dd2b.ts
+2-J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.flv 
+1-J2,p2p://fccseuro.pvbox.live:18912/5b1409fc000dca06d5e010a8fa912de1.ts
+J5,p2p://fccseuro.pvbox.live:18912/5b14095400047cf5defce0772dfe38aa.ts
+明珠,p2p://fccseuro.pvbox.live:18912/5b1409540009bb8b0b5cc407a6286d9d.ts
+明珠,http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-无线财经,mitv://fccseuro.pvbox.live:18912/5dbeb1cc000750161b0f2c3065a1f6e8
+无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc000750165ca91e999d091b3d.ts
+HKC新闻,p2p://fccseuro.pvbox.live:18912/5b13f6f100047cde8be402225b8bfbb3.ts
+有线体育,p2p://fccseuro.pvbox.live:18912/5cb870de000968d0caa3e5c7d2d7eaaf.ts
+HKC电影一台,p2p://fccseuro.pvbox.live:18912/5b140a1600025764d5912ca85ecdcff2.ts
+财经资讯,p2p://fccseuro.pvbox.live:18912/5cb870e2000e6af3db6fc326232f0525.ts
+HKC603,p2p://fccseuro.pvbox.live:18912/5cb870e80007bd85b7c1e9b8f2dcf555.ts
+香港开电视,p2p://fccseuro.pvbox.live:18912/5b140a990002d1a81acccfed057d830d.ts
+私人影院,p2p://fccseuro.pvbox.live:18912/5b140a98000c5ae675fe8b7f4fc65d9d.ts
+TVB星河,p2p://fccseuro.pvbox.live:18912/5d65048c0003e9aec2a52ee746cdf5d5.ts
+VIUTV6,p2p://fccseuro.pvbox.live:18912/5b1409fd00079683dcc8ab7e172ec5f6.ts
+VIU,p2p://fccseuro.pvbox.live:18912/5b1409540006651978adf16dc284ac32.ts
+星空卫视,p2p://fccseuro.pvbox.live:18912/5b1409fb0000e985f3772a9bd3c0a293.ts
+凤凰中文台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b0007595617b8769116864257.ts
+凤凰中文台 HD,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT
+凤凰资讯台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b0009048346222e9e28cc2829.ts
+凤凰资讯台 HD,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT
+凤凰香港台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b000ab058d2c48bfc9174aac5.ts
+凤凰香港台 HD,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT
+海峡卫视,p2p://fccseuro.pvbox.live:18912/5b140a99000c97f5787b521507a8b860.ts
+莲花卫视,p2p://fccseuro.pvbox.live:18912/5b1409fb00088a46ca45de45eb64e7ef.ts
+美亚电影,p2p://fccseuro.pvbox.live:18912/5b14098f0007961575c7ab66993034e7.ts
 
 
 测试,#genre#
