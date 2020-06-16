@@ -272,4 +272,107 @@ OUTDOOR HD,mitv://51.79.41.138:18912/5b1409db000a72d40e2026669c5d5666.ts
 TLC,mitv://51.79.41.138:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts
 TV5MONDE,mitv://51.79.41.138:18912/5b1409220005714c9dfa10bcf1d40f00.ts
 
+PV源,#genre#
+凤凰中文台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b0007595626f44df3b97060cb.ts
+凤凰资讯台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b00090483675e74ee2e7efbd8.ts
+凤凰香港台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b000ab0583d567c3e6d55c487.ts
+星空卫视,mitv://fccseuro.pvbox.live:18912/5b1409fb0000e9857fe430e18a1c406d.ts
+中天新聞,mitv://fccseuro.pvbox.live:18912/5c2dd72e0002527ba0c6fb284f0b9861.ts
+HKC电影一台,mitv://fccseuro.pvbox.live:18912/5b140a1600025764e0c01b4269103f01.ts
+TVB星河,mitv://fccseuro.pvbox.live:18912/5d65048c0003e9ae43db80dad0a1af9d.ts
+VIUTV6,mitv://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
+VIU,mitv://fccseuro.pvbox.live:18912/5dbeb1c7000938683cdafb0f5bd34044.ts
+J2,mitv://fccseuro.pvbox.live:18912/5dbeb1ce0004b0eb3cdb153f4f2c0e31.ts
+明珠,mitv://fccseuro.pvbox.live:18912/5dbeb1ca000ccc503cdb07b23a321f0c.ts
+无线财经,mitv://fccseuro.pvbox.live:18912/5dbeb1cc000750169fad18d473f0af6e.ts
+有线新闻,mitv://fccseuro.pvbox.live:18912/5b13f6f100047cdec664b8a653e56a48.ts
+无线新闻,mitv://fccseuro.pvbox.live:18912/5dbeb1c40003f9a410a2565a7d8d92d4.ts#mitv://fccseuro.pvbox.live:18912/5b1409fc000a355e13f90e3707138e05.ts
+RTHK31,mitv://fccseuro.pvbox.live:18912/5badd38d000891c4eae9d5c75d67c494.ts
+RTHK32,mitv://51.79.41.138:18912/5badd3910003a73de8a59da1504a2464.ts#mitv://fccseuro.pvbox.live:18912/5badd3910003a73de8a59da1504a2464.ts
+NOW新闻,mitv://fccseuro.pvbox.live:18912/5b20e3ae00008df97885a3942ae271db.ts
+民視,mitv://fccseuro.pvbox.live:18912/5c2dd73c0002b607fc69cf0f8123e477.ts
+台视 HD,mitv://fccseuro.pvbox.live:18912/5b14095f000570bed0fc4fad4ae6cec2.ts
+中視,mitv://fccseuro.pvbox.live:18912/5c2dd743000549bfe219541635cbee49.ts
+華視,mitv://fccseuro.pvbox.live:18912/5c2dd747000632418fad3d5d6192e36f.ts
+公視,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2f2deec889425a77f.ts
+亚洲旅游台 HD,mitv://fccseuro.pvbox.live:18912/5b140917000941831d58f5cbea1509ac.ts
+TLC,mitv://fccseuro.pvbox.live:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts
+BBC EARTH HD,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8b1f36298ea985fcbf.ts
+寰宇新闻台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
+亚洲美食,mitv://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
+卫视中文,mitv://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44.ts
+CinemaWorld,mitv://147.135.39.171:9906/5d9a26b0000d33d29ca265a2789e70ab.ts
+FOX家庭影院,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
+华纳电视频道,mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
+BBC Cbeebies,mitv://147.135.39.171:9906/5dea93910008156c5a02c21b24cc6be4.ts
+Nick Jr.(英语),mitv://147.135.39.171:9906/5dea9391000dacc55a02c39228854fcb.ts
+Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
+迪士尼频道(英语),mitv://147.135.39.171:9906/5dea93920003218e5a02c4ca21f02f09.ts
+nickelodeon,mitv://147.135.39.171:9906/5d0e403800011a4910fbd8d44f7a61bc.tsCN卡通频道,mitv://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts
+CN卡通频道(英语),mitv://147.135.39.171:9906/5dea93910003206a5a02c0e279871b82.ts
+東森呦呦,mitv://fccseuro.pvbox.live:18912/5b140a9a00071c28d00ae908049b1246.ts
+緯來綜合,mitv://fccseuro.pvbox.live:18912/5b1409230004f71e7d5dc8d1776b10c2.ts
+八大第壹,mitv://fccseuro.pvbox.live:18912/5b14096a00044003d475c17fc884877f.ts
+八大綜合,mitv://fccseuro.pvbox.live:18912/5b14092c0004b9c22a7d0c8d68eff30b.ts
+三立臺灣,mitv://fccseuro.pvbox.live:18912/5c2dd74a000cbd46f83b97758dadc6af.ts
+衛視中文臺,mitv://fccseuro.pvbox.live:18912/5b14096a00006f07ab9e1941b4529a7b.ts
+東森綜合,mitv://fccseuro.pvbox.live:18912/5b1409f1000dc91b574350273e2f56d6.ts
+靖天育樂,mitv://fccseuro.pvbox.live:18912/5b1408f2000e063f91db20929db07985.ts
+中天綜合,mitv://fccseuro.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc.ts
+東森戲劇,mitv://fccseuro.pvbox.live:18912/5b1409f20000320b5734fb18422005e7.ts
+八大戲劇,mitv://fccseuro.pvbox.live:18912/5b1409690000706a6d9dad7480eed23d.ts
+TVBS歡樂,mitv://fccseuro.pvbox.live:18912/5b1409600006657b5be74d1fbbfdd7b7.ts
+緯來戲劇,mitv://fccseuro.pvbox.live:18912/5b1409f3000a72b5763b1a34ab1030c0.ts
+龍祥時代,mitv://fccseuro.pvbox.live:18912/5b14092200071c61067c541fd2ceabf2.ts
+JET 综合,mitv://fccseuro.pvbox.live:18912/5b1409f3000126270ca65ab9be2e70d6.ts
+靖天映畫,mitv://fccseuro.pvbox.live:18912/5b14093f0002d1c284b27817e2fbe0f1.ts
+壹電視新聞,mitv://fccseuro.pvbox.live:18912/5c2dd75c000b56815360377ee7c224e6.ts
+年代新聞,mitv://fccseuro.pvbox.live:18912/5c2dd76000032856e3b05845c82e0b77.ts
+東森新聞,mitv://fccseuro.pvbox.live:18912/5c2dd7310008b319c64140c03704883d.ts
+中天新聞,mitv://fccseuro.pvbox.live:18912/5c2dd72e0002527ba0c6fb284f0b9861.ts
+民視新聞,mitv://fccseuro.pvbox.live:18912/5c2dd73500017585f0a0f3ed3e15e5fd.ts
+三立新聞,mitv://fccseuro.pvbox.live:18912/5c2dd73800094069b253f4b5a138ed62.ts
+TVBS新聞,mitv://fccseuro.pvbox.live:18912/5c2dd76300095ef4b443ea412ea53efe.ts
+TVBS綜合,mitv://fccseuro.pvbox.live:18912/5b140960000c982b95a632f68cb7873d.ts
+東森財經,mitv://fccseuro.pvbox.live:18912/5b1409f30008c77659c1c29b0216c2f5.ts
+非凡商业HD,mitv://fccseuro.pvbox.live:18912/5b140a9a0001dd5b646cdd65b1748f97.ts
+非凡新聞,mitv://fccseuro.pvbox.live:18912/5c2dd766000ecf4aee11dceee89f94e0.ts
+衛視電影,mitv://fccseuro.pvbox.live:18912/5c2dd76a000ca6147907f534891ef65e.ts
+東森電影,mitv://fccseuro.pvbox.live:18912/5b1409f20009bbe281ffe7b699b8ccda.ts
+偉來電影,mitv://fccseuro.pvbox.live:18912/5b140922000ebd5b65820c35557c54ec.ts
+HBO,mitv://fccseuro.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts
+東森洋片,mitv://fccseuro.pvbox.live:18912/5b14092300021ad1076b0d328d567031.ts
+好萊塢電影,mitv://fccseuro.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts
+CINEMAX,mitv://fccseuro.pvbox.live:18912/5b14096000043ff9d8d644e74afa7324.ts
+CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
+緯來體育,mitv://fccseuro.pvbox.live:18912/5b140921000be144ebde3f3f719d5ce1.ts
+緯來育樂,mitv://fccseuro.pvbox.live:18912/5b14092c000a35b5effe974b72f7352b.ts
+偉來日本,mitv://fccseuro.pvbox.live:18912/5b14092b000efa4c0ed04837d4c1239e.ts
+國興衛視,mitv://fccseuro.pvbox.live:18912/5b1409f2000ebd78c6a1de7f026e83a1.ts
+Z頻道,mitv://fccseuro.pvbox.live:18912/5b14094a00088a563096f00aa87c2c91.ts
+CATCHPLAY HD,mitv://fccseuro.pvbox.live:18912/5b1409db000126a9933e38ed4496938e.ts
+八大娛樂,mitv://fccseuro.pvbox.live:18912/5b14096a00062806326e31d329fe22dd.ts
+HBO強檔,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9c11cc16c5611eb76.ts
+HBO原創,mitv://fccseuro.pvbox.live:18912/5b14096a000a35a18cfea51d3f86d8c2.ts
+MTV LIVE HD,mitv://fccseuro.pvbox.live:18912/5b1408f100084d6ad3bc16c5fe3a319a.tsTVN ,mitv://fccseuro.pvbox.live:18912/5b14090b000aaf9ddf77bfe598a6f6ac.ts
+EYETV戲劇,mitv://fccseuro.pvbox.live:18912/5b14093e000e43399a6af7c08d3cdd97.ts
+龍華洋片,mitv://fccseuro.pvbox.live:18912/5b140917000c1e9b6979810e84e0e7d5.ts
+龍華戲劇,mitv://fccseuro.pvbox.live:18912/5b14091600088a8c8e851e426dd9ad32.ts
+龍華動畫,mitv://fccseuro.pvbox.live:18912/5b1409170002d1e24e49c7557a3c1df2.ts
+龍華偶像,mitv://fccseuro.pvbox.live:18912/5b1409180001262645e601af722b9d5a.ts
+龍華電影,mitv://fccseuro.pvbox.live:18912/5b140922000d123144e4bee8a5f2c4ac.ts
+ELTA體育 HD,mitv://fccseuro.pvbox.live:18912/5b140917000aaf8f456a7d2dff0dbc34.ts
+美亞電影,mitv://fccseuro.pvbox.live:18912/5b14098f0007961555aceecec68bb109.ts
+星衛電影,mitv://fccseuro.pvbox.live:18912/5b140940000a727a1de978c32eaafddd.ts
+星衛娛樂臺,mitv://fccseuro.pvbox.live:18912/5b1408f1000d124926f6932e1bafe127.ts
+美食星球,mitv://fccseuro.pvbox.live:18912/5b140917000d8becfd7949265b2f087b.ts
+高爾夫網球,mitv://fccseuro.pvbox.live:18912/5b1409530005ae3a96484fc7df8e6bab.ts
+中視新聞,mitv://fccseuro.pvbox.live:18912/5b14095e000f3774fcef729d8154a4de.ts
+環宇綜合,mitv://fccseuro.pvbox.live:18912/5b14098e00034c1079e6fefb81d5a09e.ts
+新視覺,mitv://fccseuro.pvbox.live:18912/5b1409230000ac4799b19076200305f5.ts
+Ci罪案偵緝 HD,mitv://fccseuro.pvbox.live:18912/5b14098e0006282ac4f7f6003df3dd97.ts
+靖天電影,mitv://fccseuro.pvbox.live:18912/5b14093f0000e91e26d71880e87dc6ee.ts
+地理悠人,mitv://fccseuro.pvbox.live:18912/5b14093f000b29ff31145c70b91aa9df.ts
+壹電視綜合,mitv://fccseuro.pvbox.live:18912/5b1409400006a235ed9ac7c11684ffbf.ts
+天映频道,mitv://fccseuro.pvbox.live:18912/5d650486000c7ef469a1d747fa43ffe4.ts
 
