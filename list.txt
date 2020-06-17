@@ -309,7 +309,8 @@ BBC Cbeebies,mitv://147.135.39.171:9906/5dea93910008156c5a02c21b24cc6be4.ts
 Nick Jr.(英语),mitv://147.135.39.171:9906/5dea9391000dacc55a02c39228854fcb.ts
 Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
 迪士尼频道(英语),mitv://147.135.39.171:9906/5dea93920003218e5a02c4ca21f02f09.ts
-nickelodeon,mitv://147.135.39.171:9906/5d0e403800011a4910fbd8d44f7a61bc.tsCN卡通频道,mitv://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts
+nickelodeon,mitv://147.135.39.171:9906/5d0e403800011a4910fbd8d44f7a61bc.ts
+CN卡通频道,mitv://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts
 CN卡通频道(英语),mitv://147.135.39.171:9906/5dea93910003206a5a02c0e279871b82.ts
 東森呦呦,mitv://fccseuro.pvbox.live:18912/5b140a9a00071c28d00ae908049b1246.ts
 緯來綜合,mitv://fccseuro.pvbox.live:18912/5b1409230004f71e7d5dc8d1776b10c2.ts
@@ -355,7 +356,8 @@ CATCHPLAY HD,mitv://fccseuro.pvbox.live:18912/5b1409db000126a9933e38ed4496938e.t
 八大娛樂,mitv://fccseuro.pvbox.live:18912/5b14096a00062806326e31d329fe22dd.ts
 HBO強檔,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9c11cc16c5611eb76.ts
 HBO原創,mitv://fccseuro.pvbox.live:18912/5b14096a000a35a18cfea51d3f86d8c2.ts
-MTV LIVE HD,mitv://fccseuro.pvbox.live:18912/5b1408f100084d6ad3bc16c5fe3a319a.tsTVN ,mitv://fccseuro.pvbox.live:18912/5b14090b000aaf9ddf77bfe598a6f6ac.ts
+MTV LIVE HD,mitv://fccseuro.pvbox.live:18912/5b1408f100084d6ad3bc16c5fe3a319a.ts
+TVN ,mitv://fccseuro.pvbox.live:18912/5b14090b000aaf9ddf77bfe598a6f6ac.ts
 EYETV戲劇,mitv://fccseuro.pvbox.live:18912/5b14093e000e43399a6af7c08d3cdd97.ts
 龍華洋片,mitv://fccseuro.pvbox.live:18912/5b140917000c1e9b6979810e84e0e7d5.ts
 龍華戲劇,mitv://fccseuro.pvbox.live:18912/5b14091600088a8c8e851e426dd9ad32.ts
