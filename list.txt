@@ -377,7 +377,7 @@ Ci罪案偵緝 HD,mitv://fccseuro.pvbox.live:18912/5b14098e0006282ac4f7f6003df3d
 壹電視綜合,mitv://fccseuro.pvbox.live:18912/5b1409400006a235ed9ac7c11684ffbf.ts
 天映频道,mitv://fccseuro.pvbox.live:18912/5d650486000c7ef469a1d747fa43ffe4.ts
 
-192源,#genre#
+190源,#genre#
 TVB翡翠1,mitv://190.2.149.54:18912/5b1409fc00088a7f4e894565ee25192b.ts
 TVB翡翠2,mitv://190.2.149.54:18912/5d1220350000ba27b4933f786c1c19e3.ts
 TVBJ2-1,mitv://190.2.149.54:18912/5d122036000a06619753a560332694a8.ts
