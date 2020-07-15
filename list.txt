@@ -101,6 +101,7 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 华视新闻,
 
 代理测试,#genre#
+无线新闻,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=9
 翡翠台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=1
 明珠台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=13
 TVB J2,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=12
@@ -138,7 +139,7 @@ TVB星河台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=17
 公视3台,http://p06.iptv2asia.com:18888/http/018
 HakkaTV,http://p06.iptv2asia.com:18888/http/019
 原住民TV,http://p06.iptv2asia.com:18888/http/020
-无线新闻,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=9
+
 
 
 198,#genre#
