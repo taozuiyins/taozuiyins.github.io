@@ -81,8 +81,8 @@ CCTV-15HD,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.
 
 港台新闻,#genre#
 
-凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰香港台,rtmp://59.124.75.156/live/1a8bfa7b4f304adf8a9f4f2879000046
 无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
@@ -99,45 +99,4 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 台視新闻,
 中視新闻,
 华视新闻,
-
-代理测试,#genre#
-无线新闻,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=9
-翡翠台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=1
-明珠台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=13
-TVB J2,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=12
-无线财经资讯,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=10
-有线新闻,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=31
-有线综合,http://v.exdnd.com/dl/proxy.php?vid=utvhk&id=662547571
-有线财经,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=35#http://v.exdnd.com/dl/proxy.php?vid=utvhk&id=657254837
-有线18台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=32
-有线电影,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=30#http://v.exdnd.com/dl/xg.php?id=30
-星空卫视,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=18
-港台电视31,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=20
-港台电视32,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=21
-星河频道,http://v.exdnd.com/dl/proxy.php?
-TVB星河台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=17
-澳門互動新聞台,http://v.exdnd.com/dl/xg.php?id=26
-澳門有線一台,http://v.exdnd.com/dl/xg.php?id=25
-澳门莲花,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=22#http://v.exdnd.com/dl/proxy.php?flv&vid=iptv805&tid=gt&id=22
-台视,http://p06.iptv2asia.com:18888/http/001
-台视综合,http://p06.iptv2asia.com:18888/http/002
-台视财经,http://p06.iptv2asia.com:18888/http/003
-台视新闻,http://p06.iptv2asia.com:18888/http/004
-中視無線HD,http://p06.iptv2asia.com:18888/http/005
-中視新聞HD,http://p06.iptv2asia.com:18888/http/006
-中視經典HD,http://p06.iptv2asia.com:18888/http/007
-中視菁采HD,http://p06.iptv2asia.com:18888/http/008
-华视,http://p06.iptv2asia.com:18888/http/009
-华视新闻,http://p06.iptv2asia.com:18888/http/010
-华视教育体育,http://p06.iptv2asia.com:18888/http/011
-民视,http://p06.iptv2asia.com:18888/http/012
-民视台湾,http://p06.iptv2asia.com:18888/http/013
-民视第一,http://p06.iptv2asia.com:18888/http/014
-民视新闻,http://p06.iptv2asia.com:18888/http/015
-公视,http://p06.iptv2asia.com:18888/http/016
-公视台语,http://p06.iptv2asia.com:18888/http/017
-公视3台,http://p06.iptv2asia.com:18888/http/018
-HakkaTV,http://p06.iptv2asia.com:18888/http/019
-原住民TV,http://p06.iptv2asia.com:18888/http/020
-
 
