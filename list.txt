@@ -151,7 +151,7 @@ CCTV-4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 凤凰中文台,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8#http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
+有线新闻台,http://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8#p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
 中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
 TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
@@ -165,6 +165,9 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 台視新闻,
 中視新闻,
 华视新闻,
+有线综合娱乐,http://liveima.utvlive.top/livehls/MOB-CN/index.m3u8
+有线财经资讯,http://liveima.utvlive.top/livehls/MOB-NGW/index.m3u8
+C+频道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 
 测试,#genre#
 台視HD,http://p06.iptv2asia.com:18888/http/001
