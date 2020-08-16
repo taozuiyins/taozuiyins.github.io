@@ -8,6 +8,31 @@
 泉州四套,http://live1.setvn.com:8060/live/qz4_1200.m3u8
 泉州四套,http://live1.setvn.com:9096/live/qz4_1200.m3u8
 
+港台新闻,#genre#
+
+凤凰资讯台,http://39.135.225.5:18890/PLTV/88888888/224/3221225901/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8 
+凤凰中文台,http://39.135.225.5:18890/PLTV/88888888/224/3221225900/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8#http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+有线新闻台,http://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8#p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
+中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
+TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+年代新聞,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
+非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
+三立新聞,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
+壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
+寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
+寰宇新闻2,
+民視新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
+台視新闻,
+中視新闻,
+华视新闻,
+有线综合娱乐,http://liveima.utvlive.top/livehls/MOB-CN/index.m3u8
+有线财经资讯,http://liveima.utvlive.top/livehls/MOB-NGW/index.m3u8
+C+频道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
+
+
 福建移动,#genre#
 
 凤凰中文,http://39.135.225.5:18890/PLTV/88888888/224/3221225900/index.m3u8
@@ -345,29 +370,6 @@ CCTV-4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 康巴卫视高清,http://223.110.247.161:6610/gitv/live1/G_KANGBA/G_KANGBA
 安多卫视高清,http://223.110.247.161:6610/gitv/live1/G_ANDUO/G_ANDUO
 
-港台新闻,#genre#
-
-凤凰资讯台,http://39.135.225.5:18890/PLTV/88888888/224/3221225901/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8 
-凤凰中文台,http://39.135.225.5:18890/PLTV/88888888/224/3221225900/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8#http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
-凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-有线新闻台,http://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8#p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
-中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
-TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
-东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
-年代新聞,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
-非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
-三立新聞,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
-壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
-寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
-寰宇新闻2,
-民視新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
-台視新闻,
-中視新闻,
-华视新闻,
-有线综合娱乐,http://liveima.utvlive.top/livehls/MOB-CN/index.m3u8
-有线财经资讯,http://liveima.utvlive.top/livehls/MOB-NGW/index.m3u8
-C+频道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 
 测试,#genre#
 台視HD,http://p06.iptv2asia.com:18888/http/001
