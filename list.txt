@@ -421,26 +421,3 @@ KIDS,vjms://58.215.133.154:8500/live/cid=494
 FOX体育2台,vjms://58.215.133.154:8500/live/cid=444
 
 
-测试,#genre#
-台視HD,http://p06.iptv2asia.com:18888/http/001
-台視綜合,http://p06.iptv2asia.com:18888/http/002
-台視財經,http://p06.iptv2asia.com:18888/http/003
-台視新聞HD,http://p06.iptv2asia.com:18888/http/004
-CTV中視HD,http://p06.iptv2asia.com:18888/http/005
-CTV中視新聞HD,http://p06.iptv2asia.com:18888/http/006
-CTV中視經典,http://p06.iptv2asia.com:18888/http/007
-BRAVO中視菁采,http://p06.iptv2asia.com:18888/http/008
-華視CTSHD,http://p06.iptv2asia.com:18888/http/009
-華視新聞資訊HD,http://p06.iptv2asia.com:18888/http/010
-華視體育文化HD,http://p06.iptv2asia.com:18888/http/011
-民視HD,http://p06.iptv2asia.com:18888/http/012
-民視台灣台HD,http://p06.iptv2asia.com:18888/http/013
-民視第一台HD,http://p06.iptv2asia.com:18888/http/014
-民視新聞台HD,http://p06.iptv2asia.com:18888/http/015
-公視,http://p06.iptv2asia.com:18888/http/016
-公視台語台,http://p06.iptv2asia.com:18888/http/017
-公視3,http://p06.iptv2asia.com:18888/http/018
-HakkaTV客家電視台,http://p06.iptv2asia.com:18888/http/019
-TITV原住民電視台,http://p06.iptv2asia.com:18888/http/020
-
-
