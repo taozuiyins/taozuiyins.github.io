@@ -1,12 +1,8 @@
 泉州频道,#genre#
-泉州一套,http://live1.setvn.com:8060/live/qz1_1200.m3u8
-泉州一套,http://live1.setvn.com:9096/live/qz1_1200.m3u8
-泉州二套,http://live1.setvn.com:8060/live/qz2_1200.m3u8
-泉州二套,http://live1.setvn.com:9096/live/qz2_1200.m3u8
-泉州三套,http://live1.setvn.com:8060/live/qz3_1200.m3u8
-泉州三套,http://live1.setvn.com:9096/live/qz3_1200.m3u8
-泉州四套,http://live1.setvn.com:8060/live/qz4_1200.m3u8
-泉州四套,http://live1.setvn.com:9096/live/qz4_1200.m3u8
+泉州一套,http://live3.setvn.com:9098/live/qz1_1200.m3u8
+泉州二套,http://live3.setvn.com:9098/live/qz2_1200.m3u8
+泉州三套,http://live3.setvn.com:9098/live/qz3_1200.m3u8
+泉州四套,http://live3.setvn.com:9098/live/qz4_1200.m3u8
 
 港台新闻,#genre#
 
