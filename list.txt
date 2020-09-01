@@ -15,6 +15,7 @@
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
+now新闻台,p8p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b
 中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
 TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
@@ -355,6 +356,26 @@ CCTV-17蓝光,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000
 康巴卫视高清,http://223.110.247.161:6610/gitv/live1/G_KANGBA/G_KANGBA
 安多卫视高清,http://223.110.247.161:6610/gitv/live1/G_ANDUO/G_ANDUO
 
-
+测试,#genre#
+台視HD,http://p06.iptv2asia.com:18888/http/001
+台視綜合,http://p06.iptv2asia.com:18888/http/002
+台視財經,http://p06.iptv2asia.com:18888/http/003
+台視新聞HD,http://p06.iptv2asia.com:18888/http/004
+CTV中視HD,http://p06.iptv2asia.com:18888/http/005
+CTV中視新聞HD,http://p06.iptv2asia.com:18888/http/006
+CTV中視經典,http://p06.iptv2asia.com:18888/http/007
+BRAVO中視菁采,http://p06.iptv2asia.com:18888/http/008
+華視CTSHD,http://p06.iptv2asia.com:18888/http/009
+華視新聞資訊HD,http://p06.iptv2asia.com:18888/http/010
+華視體育文化HD,http://p06.iptv2asia.com:18888/http/011
+民視HD,http://p06.iptv2asia.com:18888/http/012
+民視台灣台HD,http://p06.iptv2asia.com:18888/http/013
+民視第一台HD,http://p06.iptv2asia.com:18888/http/014
+民視新聞台HD,http://p06.iptv2asia.com:18888/http/015
+公視,http://p06.iptv2asia.com:18888/http/016
+公視台語台,http://p06.iptv2asia.com:18888/http/017
+公視3,http://p06.iptv2asia.com:18888/http/018
+HakkaTV客家電視台,http://p06.iptv2asia.com:18888/http/019
+TITV原住民電視台,http://p06.iptv2asia.com:18888/http/020
 
 
