@@ -16,14 +16,15 @@
 无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
 now新闻台,p8p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b
-中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
+now直播台,p8p://0198.02686.cc:16871/5f2cb8a50005cce1172a735005454a58
+中天新聞,p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
 TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
 年代新聞,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 三立新聞,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
 壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
-寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
+寰宇新闻1,p8p://0198.02686.cc:16871/5f37f9150000be1a431e27852b683e83#p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 寰宇新闻2,
 民視新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 台視新闻,
@@ -32,8 +33,9 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 翡翠台,p8p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
 明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 J2台,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-TVB翡翠臺,vjms://58.215.133.154:8500:3502/live/cid=362
-TVB明珠臺,vjms://58.215.133.154:8500:3502/live/cid=367
+综合娱乐,p8p://0198.02686.cc:16871/5f2cc18d0002ad29174d3cc37573600e
+VIUTV,p8p://0198.02686.cc:16871/5f2cb706000ed2b7172420872f151703
+
 
 
 福建移动,#genre#
@@ -358,27 +360,4 @@ CCTV-17蓝光,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000
 农林卫视高清,http://223.110.247.161:6610/gitv/live1/G_NONGLIN/G_NONGLIN
 康巴卫视高清,http://223.110.247.161:6610/gitv/live1/G_KANGBA/G_KANGBA
 安多卫视高清,http://223.110.247.161:6610/gitv/live1/G_ANDUO/G_ANDUO
-
-测试,#genre#
-台視HD,http://p06.iptv2asia.com:18888/http/001
-台視綜合,http://p06.iptv2asia.com:18888/http/002
-台視財經,http://p06.iptv2asia.com:18888/http/003
-台視新聞HD,http://p06.iptv2asia.com:18888/http/004
-CTV中視HD,http://p06.iptv2asia.com:18888/http/005
-CTV中視新聞HD,http://p06.iptv2asia.com:18888/http/006
-CTV中視經典,http://p06.iptv2asia.com:18888/http/007
-BRAVO中視菁采,http://p06.iptv2asia.com:18888/http/008
-華視CTSHD,http://p06.iptv2asia.com:18888/http/009
-華視新聞資訊HD,http://p06.iptv2asia.com:18888/http/010
-華視體育文化HD,http://p06.iptv2asia.com:18888/http/011
-民視HD,http://p06.iptv2asia.com:18888/http/012
-民視台灣台HD,http://p06.iptv2asia.com:18888/http/013
-民視第一台HD,http://p06.iptv2asia.com:18888/http/014
-民視新聞台HD,http://p06.iptv2asia.com:18888/http/015
-公視,http://p06.iptv2asia.com:18888/http/016
-公視台語台,http://p06.iptv2asia.com:18888/http/017
-公視3,http://p06.iptv2asia.com:18888/http/018
-HakkaTV客家電視台,http://p06.iptv2asia.com:18888/http/019
-TITV原住民電視台,http://p06.iptv2asia.com:18888/http/020
-
 
