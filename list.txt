@@ -241,9 +241,6 @@ CCTV-4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 凤凰中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 凤凰中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-纯享4K源码1,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-纯享4K源码2,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000004000011651&owchid=ystenlive&owsid=6721581571186720581&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlame2O8Id%2BgCUUdS4cJUD1ieqKIx8wFJ0pPdF5P8MGRzRrjFLuuRCIZ2D2ha%2Fr9iiM%2BAnSOfyc4s5zWrjzUdrEbf
-百事4K频道,http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 北京卫视,http://117.169.119.199:8080/live/hdbeijingstv/index.m3u8
 北京卫视,http://39.134.157.205/PLTV/88888888/224/3221225659/index.m3u8
 天津卫视,http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
@@ -318,8 +315,9 @@ CCTV-4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 农林卫视,http://223.110.247.161:6610/gitv/live1/G_NONGLIN/G_NONGLIN
 康巴卫视,http://223.110.247.161:6610/gitv/live1/G_KANGBA/G_KANGBA
 安多卫视,http://223.110.247.161:6610/gitv/live1/G_ANDUO/G_ANDUO
-
-
+纯享4K源码1,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+纯享4K源码2,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000004000011651&owchid=ystenlive&owsid=6721581571186720581&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlame2O8Id%2BgCUUdS4cJUD1ieqKIx8wFJ0pPdF5P8MGRzRrjFLuuRCIZ2D2ha%2Fr9iiM%2BAnSOfyc4s5zWrjzUdrEbf
+百事4K频道,http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 
 测试PVBOX,#genre#
 翡翠,mitv://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188,mitv://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
