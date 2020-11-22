@@ -1,7 +1,7 @@
 港台新闻,#genre#
 
-凤凰资讯台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://112.17.40.142/PLTV/88888888/224/3221226491/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-凤凰中文台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8#http://112.17.40.142/PLTV/88888888/224/3221226368/index.m3u8#http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+凤凰资讯台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://112.17.40.142/PLTV/88888888/224/3221226491/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452#http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+凤凰中文台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8#http://112.17.40.142/PLTV/88888888/224/3221226368/index.m3u8#http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452#http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
@@ -20,8 +20,8 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 台視新闻,
 中視新闻,
 华视新闻,
-翡翠台,p8p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
-明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video#p8p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
+明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 J2台,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 综合娱乐,p8p://0198.02686.cc:16871/5f2cc18d0002ad29174d3cc37573600e
 VIUTV,p8p://0198.02686.cc:16871/5f2cb706000ed2b7172420872f151703
