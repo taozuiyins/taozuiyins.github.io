@@ -4,7 +4,10 @@
 凤凰中文台,http://112.17.40.142/PLTV/88888888/224/3221226368/index.m3u8#http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+有线新闻台,http://125.89.166.215/live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8
 有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
+有线娱乐台,http://125.89.166.215/live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-3.m3u8
+有线娱乐台,http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
 now新闻台,p8p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b
 now直播台,p8p://0198.02686.cc:16871/5f2cb8a50005cce1172a735005454a58
 中天新聞,p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
@@ -184,6 +187,4 @@ TVB翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 TVB明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVB明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1,tvming-XGMingZhu
-有线新闻,http://125.89.166.215/live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8
-有线娱乐,http://125.89.166.215/live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-3.m3u8
-有线娱乐,http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
+
